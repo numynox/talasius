@@ -1,0 +1,8 @@
+---
+title: "Upload Your Pictures"
+date: 2025-11-15T09:30:00+01:00
+---
+
+Thank you for sharing your memories! Please click the link below to upload photos from the wedding:
+
+[**Click Here to Upload Photos**]({{ site.Params.dropboxLink }})
