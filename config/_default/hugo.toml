@@ -3,20 +3,9 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
+title = "Talasius Wedding"
 baseURL = "https://numynox.github.io/talasius/"
-
-# Multilingual Configuration
-defaultContentLanguage = "it"
-[languages]
-  [languages.it]
-    languageName = "Italiano"
-    weight = 1
-  [languages.de]
-    languageName = "Deutsch"
-    weight = 2
-  [languages.en]
-    languageName = "English"
-    weight = 3
+defaultContentLanguage = "en"
 
 # SECURE PARAMETER PLACEHOLDERS
 # The real values will be injected by GitHub Actions, keeping them out of your source code.

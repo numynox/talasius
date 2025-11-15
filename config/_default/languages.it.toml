@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
-weight = 1
-title = "Talasius Wedding"
+languageCode = "it"
+languageName = "Italiano"
+weight = 3
+title = "Talasius Matrimonio"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "IT"
+  isoCode = "it"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
