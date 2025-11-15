@@ -1,11 +1,11 @@
 baseURL = "https://numynox.github.io/talasius/" # IMPORTANT: Set this to your future site URL
 title = "Talasius Wedding"
-theme = "github.com/trackablowfish/blowfish"
+theme = "github.com/nunocoracao/blowfish/v2"
 
 # Hugo Modules for the theme
 [module]
   [[module.imports]]
-    path = "github.com/trackablowfish/blowfish"
+    path = "github.com/nunocoracao/blowfish/v2"
 
 # Multilingual Configuration
 defaultContentLanguage = "it"
@@ -20,7 +20,11 @@ defaultContentLanguage = "it"
     languageName = "English"
     weight = 3
 
-# SECURE PARAMETER PLACEHOLDER
-# The real value will be injected by GitHub Actions.
+# Decap CMS requirement: Prevent Hugo from creating an empty Decap admin page
+disableKinds = ["taxonomy", "term", "sitemap", "RSS", "robotsTXT", "404", "section"]
+
+# SECURE PARAMETER PLACEHOLDERS
+# The real values will be injected by GitHub Actions, keeping them out of your source code.
 [params]
-  dropboxLink = "/upload-link-will-be-injected-by-github-actions"
+  dropboxLink = "/upload-link-will-be-injected"
+  airtableRsvpLink = "/rsvp-link-will-be-injected"
