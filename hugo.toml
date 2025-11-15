@@ -1,0 +1,26 @@
+baseURL = "https://numynox.github.io/talasius/" # IMPORTANT: Set this to your future site URL
+title = "Talasius Wedding"
+theme = "github.com/trackablowfish/blowfish"
+
+# Hugo Modules for the theme
+[module]
+  [[module.imports]]
+    path = "github.com/trackablowfish/blowfish"
+
+# Multilingual Configuration
+defaultContentLanguage = "it"
+[languages]
+  [languages.it]
+    languageName = "Italiano"
+    weight = 1
+  [languages.de]
+    languageName = "Deutsch"
+    weight = 2
+  [languages.en]
+    languageName = "English"
+    weight = 3
+
+# SECURE PARAMETER PLACEHOLDER
+# The real value will be injected by GitHub Actions.
+[params]
+  dropboxLink = "/upload-link-will-be-injected-by-github-actions"

@@ -1,0 +1,52 @@
+name: Deploy Hugo Site to GitHub Pages
+
+on:
+  # Runs on pushes to the "main" branch
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write   # Needed for GitHub Pages deployment
+  id-token: write  # Needed for official deploy action
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true # Needed for some Blowfish features (e.g. SCSS)
+
+      - name: Build Hugo Site
+        # This step INJECTS the secure link into the build process
+        run: hugo --minify
+        env:
+          # HUGO_PARAMS_DROPBOXLINK overrides the placeholder in hugo.toml
+          HUGO_PARAMS_DROPBOXLINK: ${{ secrets.DROPBOX_UPLOAD_LINK }}
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public # Hugo output directory
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
