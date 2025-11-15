@@ -1,7 +1,7 @@
 name: Deploy Hugo Site to GitHub Pages
 
 on:
-  # Runs on pushes to the "main" branch
+  # Triggers on pushes to the "main" branch and manual trigger
   push:
     branches:
       - main
@@ -9,8 +9,8 @@ on:
 
 permissions:
   contents: read
-  pages: write   # Needed for GitHub Pages deployment
-  id-token: write  # Needed for official deploy action
+  pages: write   # Required for GitHub Pages deployment
+  id-token: write  # Required for official deploy action
 
 jobs:
   build-deploy:
@@ -30,14 +30,14 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
-          extended: true # Needed for some Blowfish features (e.g. SCSS)
+          extended: true
 
-      - name: Build Hugo Site
-        # This step INJECTS the secure link into the build process
+      - name: Build Hugo Site (Injecting Secrets)
+        # HUGO_PARAMS_... environment variables override [params] in hugo.toml
         run: hugo --minify
         env:
-          # HUGO_PARAMS_DROPBOXLINK overrides the placeholder in hugo.toml
           HUGO_PARAMS_DROPBOXLINK: ${{ secrets.DROPBOX_UPLOAD_LINK }}
+          HUGO_PARAMS_AIRTABLERSVPLINK: ${{ secrets.AIRTABLE_RSVP_LINK }}
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
