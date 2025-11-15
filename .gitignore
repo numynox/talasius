@@ -19,3 +19,14 @@ Gemfile.lock
 
 
 .idea/
+
+# Hugo generated files
+public/
+resources/_gen/
+
+# Build cache
+.hugo_build.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db

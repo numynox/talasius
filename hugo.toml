@@ -20,9 +20,6 @@ defaultContentLanguage = "it"
     languageName = "English"
     weight = 3
 
-# Decap CMS requirement: Prevent Hugo from creating an empty Decap admin page
-disableKinds = ["taxonomy", "term", "sitemap", "RSS", "robotsTXT", "404", "section"]
-
 # SECURE PARAMETER PLACEHOLDERS
 # The real values will be injected by GitHub Actions, keeping them out of your source code.
 [params]
