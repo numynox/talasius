@@ -3,8 +3,9 @@ backend:
   repo: numynox/talasius
   branch: main
   auth_type: implicit
-  app_id: Ov23liB0PosC6QC5yJAd # Paste the Client ID from Step 1 here
+  app_id: Ov23liB0PosC6QC5yJAd
   auth_url: https://github.com/login/oauth/authorize
+  base_url: https://numynox.github.io/talasius/
   # Optionally, use a more secure workflow
   # publish_mode: editorial_workflow
 
