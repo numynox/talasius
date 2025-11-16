@@ -4,11 +4,34 @@
   weight = 10
 
 [[main]]
-  name = "Location"
-  pageRef = "location.en.md"
+  name = "Agenda"
+  pageRef = "agenda/index.en.md"
   weight = 20
 
 [[main]]
-  name = "Pictures"
-  pageRef = "pictures.en.md"
+  name = "Location"
+  pageRef = "location/event/index.en.md"
   weight = 30
+
+[[main]]
+  name = "Event location"
+  parent = "Location"
+  pageRef = "location/event/index.en.md"
+  weight = 10
+
+[[main]]
+  name = "Iseo lake"
+  parent = "Location"
+  pageRef = "location/iseo/index.en.md"
+  weight = 20
+
+[[main]]
+  name = "Other activities"
+  parent = "Location"
+  pageRef = "location/activities/_index.en.md"
+  weight = 30
+
+[[main]]
+  name = "Photos"
+  pageRef = "photos/index.en.md"
+  weight = 40
