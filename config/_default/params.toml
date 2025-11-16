@@ -23,9 +23,9 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/iseo.jpg" # used as default for background images
-defaultFeaturedImage = "img/iseo.jpg" # used as default for featured images in all articles
-# defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
+defaultBackgroundImage = "img/brescia/castle-cypress.jpg" # used as default for background images
+defaultFeaturedImage = "img/iseo/evening.jpg" # used as default for featured images in all articles
+defaultSocialImage = "img/iseo/evening.jpg" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
 # imagePosition = "50% 50%"
 
@@ -50,7 +50,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/iseo.jpg" # used in: hero, and card
+  homepageImage = "img/iseo/evening.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
@@ -72,7 +72,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
   editURL = "https://github.com/numynox/talasius"
@@ -93,19 +93,19 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showZenMode = true
 
 [list]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
-  showSummary = false
+  showBreadcrumbs = true
+  showSummary = true
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   orderByWeight = false
-  groupByYear = true
-  cardView = false
+  groupByYear = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 

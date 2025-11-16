@@ -1,0 +1,3 @@
+This project defines a wedding website informing guests about the key information of the wedding, the agenda, the place of the wedding and other activities. Guests will come from Italy, Germany and internationally.
+The website is created using the hugo static site generator (https://gohugo.io) and the Blowfish theme (https://blowfish.page). It translates into English, German and Italian.
+The main content is loacted in the content subdirectory. For each page there is a folder with three index files, one for each language (index.de.md, index.en.md, index.it.md). If the page contains children or is a listing, the files must be named _index.de.md, _index.en.md and _index.it.md.
