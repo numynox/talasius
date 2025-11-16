@@ -6,6 +6,7 @@ theme = "blowfish"
 title = "Talasius Wedding"
 baseURL = "https://numynox.github.io/talasius/"
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 
 # SECURE PARAMETER PLACEHOLDERS
 # The real values will be injected by GitHub Actions, keeping them out of your source code.
