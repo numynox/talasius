@@ -4,7 +4,9 @@ date: 2023-10-26T19:55:29+02:00
 draft: false
 ---
 
-# Ci sposiamo!
+{{< typeit tag=h1 lifeLike=true >}}
+Ci sposiamo!
+{{< /typeit >}}
 
 Siamo felici di invitarvi al nostro matrimonio. Qui troverete tutte le informazioni importanti.
 
