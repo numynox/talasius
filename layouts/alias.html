@@ -12,11 +12,10 @@
       ;(function () {
         // Only do i18n at root,
         // otherwise, redirect immediately
-        if (window.location.pathname !== '/') {
+        if ('{{ .Page }}' != '') {
           window.location.replace('{{ .Permalink }}')
           return
         }
-
         var getFirstBrowserLanguage = function () {
           var nav = window.navigator,
           browserLanguagePropertyKeys = ['language', 'browserLanguage', 'systemLanguage', 'userLanguage'],
@@ -44,18 +43,18 @@
 
         var preferLang = getFirstBrowserLanguage()
         if (preferLang.indexOf('de') !== -1) {
-          window.location.replace('/de/')
+          window.location.replace('de/')
         }
         else if (preferLang.indexOf('it') !== -1) {
-          window.location.replace('/it/')
+          window.location.replace('it/')
         } else {
-          window.location.replace('/en/')
+          window.location.replace('en/')
         }
       })()
     </script>
 </head>
 <body>
 <h1>Rerouting</h1>
-<p>You should be rerouted in a jiff, if not, <a href="{{ .Permalink }}">click here</a>.</p>
+<p>You should be rerouted, if not, <a href="{{ .Permalink }}">click here</a>.</p>
 </body>
 </html>
