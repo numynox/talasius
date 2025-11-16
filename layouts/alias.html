@@ -43,11 +43,12 @@
         }
 
         var preferLang = getFirstBrowserLanguage()
-        if (preferLang.indexOf('zh') !== -1) {
-          // visitor prefers Chinese
-          window.location.replace('/zh-cn/')
+        if (preferLang.indexOf('de') !== -1) {
+          window.location.replace('/de/')
+        }
+        else if (preferLang.indexOf('it') !== -1) {
+          window.location.replace('/it/')
         } else {
-          // fallback to English
           window.location.replace('/en/')
         }
       })()
