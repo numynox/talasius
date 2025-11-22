@@ -2,22 +2,22 @@ disabled = false
 languageCode = "it"
 languageName = "Italiano"
 weight = 3
-title = "Talasius Matrimonio"
+title = "Giulia & Jannis"
 
 [params]
   displayName = "IT"
   isoCode = "it"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "2 Giugno 2006"
   # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  # secondaryLogo = "img/logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
+ [params.author]
+   name = "Giulia & Jannis"
+   email = "giuliabuizza@protonmail.com"
+   image = "img/logo.png"
+   imageQuality = 96
+   headline = "20 Giugno 2026"
 #   bio = "A little bit about you"

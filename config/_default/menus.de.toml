@@ -1,14 +1,37 @@
 [[main]]
-  name = "Home"
+  name = "Startseite"
   pageRef = "_index.de.md"
   weight = 10
 
 [[main]]
-  name = "Location"
-  pageRef = "location.de.md"
+  name = "Agenda"
+  pageRef = "agenda/index.de.md"
   weight = 20
 
 [[main]]
-  name = "Bilder"
-  pageRef = "pictures.de.md"
+  name = "Ort"
+  pageRef = "location/event/index.de.md"
   weight = 30
+
+[[main]]
+  name = "Veranstaltungsort"
+  parent = "Ort"
+  pageRef = "location/event/index.de.md"
+  weight = 10
+
+[[main]]
+  name = "Iseosee"
+  parent = "Ort"
+  pageRef = "location/iseo/index.de.md"
+  weight = 20
+
+[[main]]
+  name = "Andere Aktivitäten"
+  parent = "Ort"
+  pageRef = "location/activities/_index.de.md"
+  weight = 30
+
+[[main]]
+  name = "Fotos"
+  pageRef = "photos/index.de.md"
+  weight = 40
