@@ -2,6 +2,7 @@
 title: "Visita turistica a Brescia"
 date: 2023-11-20T10:00:00+01:00
 draft: false
+featureimage: "img/brescia/castle-tower.jpg"
 summary: "Esplora Brescia con le sue rovine romane, castelli medievali e musei, e goditi la cultura e la cucina locale."
 ---
 Esplora la storica città di Brescia con le sue rovine romane, i castelli medievali e gli imponenti musei. Passeggia per le affascinanti vie e goditi la cucina locale.

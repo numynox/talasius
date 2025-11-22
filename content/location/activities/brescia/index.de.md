@@ -2,6 +2,7 @@
 title: "Sightseeing in Brescia"
 date: 2023-11-20T10:00:00+01:00
 draft: false
+featureimage: "img/brescia/castle-tower.jpg"
 summary: "Entdecken Sie Brescia mit seinen römischen Ruinen, mittelalterlichen Burgen und Museen, und genießen Sie die lokale Kultur und Küche."
 ---
 Entdecken Sie die historische Stadt Brescia mit ihren römischen Ruinen, mittelalterlichen Burgen und beeindruckenden Museen. Schlendern Sie durch die charmanten Gassen und genießen Sie die lokale Küche.
