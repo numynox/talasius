@@ -10,6 +10,8 @@ We are getting married!
 
 We are excited to invite you to our wedding. Here you will find all the important information.
 
+{{< rsvp-button >}}Let us know if you come!{{< /rsvp-button >}}
+
 ## When
 
 Date: [Date of the wedding]

@@ -10,6 +10,8 @@ Wir heiraten!
 
 Wir freuen uns, euch zu unserer Hochzeit einzuladen. Hier findet ihr alle wichtigen Informationen.
 
+{{< rsvp-button >}}Lasst uns wissen, ob ihr kommt!{{< /rsvp-button >}}
+
 ## Wann
 
 Datum: [Datum der Hochzeit]

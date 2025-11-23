@@ -20,18 +20,18 @@ replyByEmail = false
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
-disableTextInHeader = false
-# backgroundImageWidth = 1200
+disableTextInHeader = true
+backgroundImageWidth = 1200
 
 defaultBackgroundImage = "img/brescia/castle-cypress.jpg" # used as default for background images
 defaultFeaturedImage = "img/iseo/evening.jpg" # used as default for featured images in all articles
 defaultSocialImage = "img/iseo/evening.jpg" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
-# imagePosition = "50% 50%"
+imagePosition = "50% 50%"
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384", "sha256"
 
@@ -43,7 +43,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [footer]
   showMenu = true
-  showCopyright = true
+  showCopyright = false
   showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
@@ -69,13 +69,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showAuthor = false
   showAuthorBottom = false
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/numynox/talasius"
+  editURL = "https://github.com/numynox/talasius/tree/main/content"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
@@ -90,11 +90,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showAuthorsBadges = false
   showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
-  showZenMode = true
+  showZenMode = false
 
 [list]
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true

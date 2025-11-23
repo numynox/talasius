@@ -10,6 +10,8 @@ Ci sposiamo!
 
 Siamo felici di invitarvi al nostro matrimonio. Qui troverete tutte le informazioni importanti.
 
+{{< rsvp-button >}}Fateci sapere se venite!{{< /rsvp-button >}}
+
 ## Quando
 
 Data: [Data del matrimonio]

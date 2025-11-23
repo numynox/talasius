@@ -10,7 +10,6 @@
 
 [[main]]
   name = "Luogo"
-  pageRef = "location/event/index.it.md"
   weight = 30
 
 [[main]]
