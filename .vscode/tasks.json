@@ -1,0 +1,32 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "hugo-server",
+            "type": "shell",
+            "command": "hugo server",
+            "options": {
+                "env": {
+                    "HUGO_PARAMS_AIRTABLERSVPLINK": "https://airtable.com/app8ldxrq3iAZbPMU/pagajLpTL17nD9CkC/form"
+                }
+            },
+            "problemMatcher": [
+                {
+                    "pattern": [
+                        {
+                            "regexp": ".",
+                            "file": 1,
+                            "location": 2,
+                            "message": 3
+                        }
+                    ],
+                    "background": {
+                        "activeOnStart": true,
+                        "beginsPattern": "Start building sites",
+                        "endsPattern": "Web Server is available at"
+                    }
+                }
+            ]
+        }
+    ]
+}
