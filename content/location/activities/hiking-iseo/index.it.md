@@ -2,6 +2,7 @@
 title: "Escursioni Lago d'Iseo"
 date: 2023-11-20T10:00:00+01:00
 draft: false
+featureimage: "img/iseo/view1.jpg"
 summary: "Scopri i più bei sentieri escursionistici intorno al Lago d'Iseo, dalle facili passeggiate lungo la riva alle impegnative escursioni in montagna, inclusa Monte Isola."
 ---
 Scopri i più bei sentieri escursionistici intorno al Lago d'Iseo. Dalle facili passeggiate lungo la riva alle impegnative escursioni in montagna, la regione offre qualcosa per tutti i gusti. Goditi panorami mozzafiato sul lago e sul paesaggio circostante.

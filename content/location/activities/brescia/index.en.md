@@ -2,6 +2,7 @@
 title: "Sightseeing in Brescia"
 date: 2023-11-20T10:00:00+01:00
 draft: false
+featureimage: "img/brescia/castle-tower.jpg"
 summary: "Explore Brescia's Roman ruins, medieval castles, and museums, and enjoy its local culture and cuisine."
 ---
 Explore the historic city of Brescia with its Roman ruins, medieval castles, and impressive museums. Stroll through the charming alleys and enjoy the local cuisine.

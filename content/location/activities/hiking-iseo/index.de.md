@@ -2,6 +2,7 @@
 title: "Wandern am Iseosee"
 date: 2023-11-20T10:00:00+01:00
 draft: false
+featureimage: "img/iseo/view1.jpg"
 summary: "Entdecken Sie die schönsten Wanderwege rund um den Iseosee, von einfachen Uferspaziergängen bis zu anspruchsvollen Bergtouren, inklusive Monte Isola."
 ---
 Entdecken Sie die schönsten Wanderwege rund um den Iseosee. Von einfachen Spaziergängen entlang des Ufers bis hin zu anspruchsvollen Bergtouren bietet die Region für jeden Geschmack etwas. Genießen Sie atemberaubende Ausblicke auf den See und die umliegende Landschaft.
