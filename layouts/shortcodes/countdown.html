@@ -1,0 +1,27 @@
+<span id="countdown-{{ .Ordinal }}">
+    <span class="days">0</span> {{ .Inner }}
+</span>
+
+<script>
+    (function () {
+        const targetDate = new Date("{{ .Get "date" }}").getTime();
+        const element = document.getElementById("countdown-{{ .Ordinal }}");
+        const daysSpan = element.querySelector(".days");
+
+        function updateCountdown() {
+            const now = new Date().getTime();
+            const distance = targetDate - now;
+
+            if (distance < 0) {
+                daysSpan.innerText = "0";
+                return;
+            }
+
+            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            daysSpan.innerText = days;
+        }
+
+        updateCountdown();
+        setInterval(updateCountdown, 1000 * 60 * 60); // Update every hour is enough for days
+    })();
+</script>

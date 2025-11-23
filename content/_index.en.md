@@ -8,11 +8,14 @@ draft: false
 We are getting married!
 {{< /typeit >}}
 
-We are excited to invite you to our wedding. Here you will find all the important information.
+{{< lead >}}We are excited to invite you to our wedding. Here you will find all the important information.
+{{< /lead >}}
 
 {{< rsvp-button >}}Let us know if you come!{{< /rsvp-button >}}
 
 ## When
+
+{{< countdown date="2026-06-30" >}}days to go{{< /countdown >}}
 
 Date: [Date of the wedding]
 Time: [Time of the wedding]

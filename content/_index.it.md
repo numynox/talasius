@@ -8,11 +8,14 @@ draft: false
 Ci sposiamo!
 {{< /typeit >}}
 
-Siamo felici di invitarvi al nostro matrimonio. Qui troverete tutte le informazioni importanti.
+{{< lead >}}Siamo felici di invitarvi al nostro matrimonio. Qui troverete tutte le informazioni importanti.
+{{< /lead >}}
 
 {{< rsvp-button >}}Fateci sapere se venite!{{< /rsvp-button >}}
 
 ## Quando
+
+{{< countdown date="2026-06-30" >}}giorni mancano{{< /countdown >}}
 
 Data: [Data del matrimonio]
 Ora: [Ora del matrimonio]

@@ -8,11 +8,14 @@ draft: false
 Wir heiraten!
 {{< /typeit >}}
 
-Wir freuen uns, euch zu unserer Hochzeit einzuladen. Hier findet ihr alle wichtigen Informationen.
+{{< lead >}}Wir freuen uns, euch zu unserer Hochzeit einzuladen. Hier findet ihr alle wichtigen Informationen.
+{{< /lead >}}
 
 {{< rsvp-button >}}Lasst uns wissen, ob ihr kommt!{{< /rsvp-button >}}
 
 ## Wann
+
+{{< countdown date="2026-06-30" >}}Tage bis zur Hochzeit{{< /countdown >}}
 
 Datum: [Datum der Hochzeit]
 Uhrzeit: [Uhrzeit der Hochzeit]
