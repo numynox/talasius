@@ -4,28 +4,39 @@ pageRef = "_index.en.md"
 weight = 10
 
 [[main]]
-name = "Agenda"
+name = "When"
 pageRef = "agenda/index.en.md"
 weight = 20
 
 [[main]]
-name = "Location"
+name = "Where"
+pageRef = "location/index.en.md"
 weight = 30
 
 [[main]]
-name = "Event location"
-parent = "Location"
-pageRef = "location/event/index.en.md"
+name = "Useful Information"
+weight = 40
+
+[[main]]
+name = "Arrival"
+parent = "Useful Information"
+pageRef = "info/arrival/index.en.md"
 weight = 10
 
 [[main]]
-name = "Iseo lake"
-parent = "Location"
-pageRef = "location/iseo/index.en.md"
+name = "Accommodation"
+parent = "Useful Information"
+pageRef = "info/accommodation/index.en.md"
 weight = 20
 
 [[main]]
-name = "Other activities"
-parent = "Location"
-pageRef = "location/activities/_index.en.md"
+name = "Brescia & Iseo"
+parent = "Useful Information"
+pageRef = "info/brescia-iseo/index.en.md"
 weight = 30
+
+[[main]]
+name = "Activities"
+parent = "Useful Information"
+pageRef = "info/activities/index.en.md"
+weight = 40
