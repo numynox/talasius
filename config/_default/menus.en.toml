@@ -4,13 +4,13 @@ pageRef = "_index.en.md"
 weight = 10
 
 [[main]]
-name = "When"
-pageRef = "agenda/index.en.md"
+name = "Where"
+pageRef = "location/index.en.md"
 weight = 20
 
 [[main]]
-name = "Where"
-pageRef = "location/index.en.md"
+name = "When"
+pageRef = "agenda/index.en.md"
 weight = 30
 
 [[main]]
