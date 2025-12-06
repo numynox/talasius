@@ -1,36 +1,31 @@
 [[main]]
-  name = "Home"
-  pageRef = "_index.en.md"
-  weight = 10
+name = "Home"
+pageRef = "_index.en.md"
+weight = 10
 
 [[main]]
-  name = "Agenda"
-  pageRef = "agenda/index.en.md"
-  weight = 20
+name = "Agenda"
+pageRef = "agenda/index.en.md"
+weight = 20
 
 [[main]]
-  name = "Location"
-  weight = 30
+name = "Location"
+weight = 30
 
 [[main]]
-  name = "Event location"
-  parent = "Location"
-  pageRef = "location/event/index.en.md"
-  weight = 10
+name = "Event location"
+parent = "Location"
+pageRef = "location/event/index.en.md"
+weight = 10
 
 [[main]]
-  name = "Iseo lake"
-  parent = "Location"
-  pageRef = "location/iseo/index.en.md"
-  weight = 20
+name = "Iseo lake"
+parent = "Location"
+pageRef = "location/iseo/index.en.md"
+weight = 20
 
 [[main]]
-  name = "Other activities"
-  parent = "Location"
-  pageRef = "location/activities/_index.en.md"
-  weight = 30
-
-[[main]]
-  name = "Photos"
-  pageRef = "photos/index.en.md"
-  weight = 40
+name = "Other activities"
+parent = "Location"
+pageRef = "location/activities/_index.en.md"
+weight = 30

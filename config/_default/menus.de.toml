@@ -1,36 +1,31 @@
 [[main]]
-  name = "Startseite"
-  pageRef = "_index.de.md"
-  weight = 10
+name = "Startseite"
+pageRef = "_index.de.md"
+weight = 10
 
 [[main]]
-  name = "Agenda"
-  pageRef = "agenda/index.de.md"
-  weight = 20
+name = "Agenda"
+pageRef = "agenda/index.de.md"
+weight = 20
 
 [[main]]
-  name = "Ort"
-  weight = 30
+name = "Ort"
+weight = 30
 
 [[main]]
-  name = "Veranstaltungsort"
-  parent = "Ort"
-  pageRef = "location/event/index.de.md"
-  weight = 10
+name = "Veranstaltungsort"
+parent = "Ort"
+pageRef = "location/event/index.de.md"
+weight = 10
 
 [[main]]
-  name = "Iseosee"
-  parent = "Ort"
-  pageRef = "location/iseo/index.de.md"
-  weight = 20
+name = "Iseosee"
+parent = "Ort"
+pageRef = "location/iseo/index.de.md"
+weight = 20
 
 [[main]]
-  name = "Andere Aktivitäten"
-  parent = "Ort"
-  pageRef = "location/activities/_index.de.md"
-  weight = 30
-
-[[main]]
-  name = "Fotos"
-  pageRef = "photos/index.de.md"
-  weight = 40
+name = "Andere Aktivitäten"
+parent = "Ort"
+pageRef = "location/activities/_index.de.md"
+weight = 30

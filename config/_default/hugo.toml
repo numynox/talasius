@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-title = "Talasius Wedding"
+title = "Giulia & Jannis"
 baseURL = "https://numynox.github.io/talasius/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
@@ -11,8 +11,9 @@ defaultContentLanguageInSubdir = true
 # SECURE PARAMETER PLACEHOLDERS
 # The real values will be injected by GitHub Actions, keeping them out of your source code.
 [params]
-  dropboxLink = "/upload-link-will-be-injected"
-  airtableRsvpLink = "/rsvp-link-will-be-injected"
+  airtableRsvpLinkEN = "/rsvp-link-will-be-injected#EN"
+  airtableRsvpLinkDE = "/rsvp-link-will-be-injected#DE"
+  airtableRsvpLinkIT = "/rsvp-link-will-be-injected#IT"
 
 pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 

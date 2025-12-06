@@ -7,7 +7,9 @@
             "command": "hugo server",
             "options": {
                 "env": {
-                    "HUGO_PARAMS_AIRTABLERSVPLINK": "https://airtable.com/app8ldxrq3iAZbPMU/pagajLpTL17nD9CkC/form"
+                    "HUGO_PARAMS_AIRTABLERSVPLINKEN": "https://airtable.com/app8ldxrq3iAZbPMU/pagajLpTL17nD9CkC/form#EN",
+                    "HUGO_PARAMS_AIRTABLERSVPLINKDE": "https://airtable.com/app8ldxrq3iAZbPMU/pagajLpTL17nD9CkC/form#DE",
+                    "HUGO_PARAMS_AIRTABLERSVPLINKIT": "https://airtable.com/app8ldxrq3iAZbPMU/pagajLpTL17nD9CkC/form#IT"
                 }
             },
             "problemMatcher": [
