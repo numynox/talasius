@@ -36,7 +36,7 @@ pageRef = "info/brescia-iseo/index.it.md"
 weight = 30
 
 [[main]]
-name = "Attività"
+name = "Altre attività"
 parent = "Informazioni Utili"
 pageRef = "info/activities/index.it.md"
 weight = 40

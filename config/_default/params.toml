@@ -6,8 +6,8 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme = "fire"
-defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+defaultAppearance = "dark" # valid options: light or dark
+autoSwitchAppearance = false
 
 enableA11y = false
 enableSearch = false
@@ -23,7 +23,7 @@ disableImageOptimizationMD = false
 disableTextInHeader = true
 backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/brescia/castle-cypress.jpg" # used as default for background images
+defaultBackgroundImage = "img/iseo/evening.jpg" # used as default for background images
 defaultFeaturedImage = "img/iseo/evening.jpg" # used as default for featured images in all articles
 defaultSocialImage = "img/iseo/evening.jpg" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
@@ -50,7 +50,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/iseo/evening.jpg" # used in: hero, and card
+  homepageImage = "img/iseo/view8.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
