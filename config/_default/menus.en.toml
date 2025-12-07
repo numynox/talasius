@@ -1,37 +1,42 @@
 [[main]]
-  name = "Home"
-  pageRef = "_index.en.md"
-  weight = 10
+name = "Home"
+pageRef = "_index.en.md"
+weight = 10
 
 [[main]]
-  name = "Agenda"
-  pageRef = "agenda/index.en.md"
-  weight = 20
+name = "Where"
+pageRef = "location/index.en.md"
+weight = 20
 
 [[main]]
-  name = "Location"
-  pageRef = "location/event/index.en.md"
-  weight = 30
+name = "When"
+pageRef = "agenda/index.en.md"
+weight = 30
 
 [[main]]
-  name = "Event location"
-  parent = "Location"
-  pageRef = "location/event/index.en.md"
-  weight = 10
+name = "Useful Information"
+weight = 40
 
 [[main]]
-  name = "Iseo lake"
-  parent = "Location"
-  pageRef = "location/iseo/index.en.md"
-  weight = 20
+name = "Arrival"
+parent = "Useful Information"
+pageRef = "info/arrival/index.en.md"
+weight = 10
 
 [[main]]
-  name = "Other activities"
-  parent = "Location"
-  pageRef = "location/activities/_index.en.md"
-  weight = 30
+name = "Accommodation"
+parent = "Useful Information"
+pageRef = "info/accommodation/index.en.md"
+weight = 20
 
 [[main]]
-  name = "Photos"
-  pageRef = "photos/index.en.md"
-  weight = 40
+name = "Brescia & Iseo"
+parent = "Useful Information"
+pageRef = "info/brescia-iseo/index.en.md"
+weight = 30
+
+[[main]]
+name = "Other Activities"
+parent = "Useful Information"
+pageRef = "info/activities/index.en.md"
+weight = 40

@@ -1,0 +1,52 @@
+<h2 style="text-align: center; margin-bottom: 0.5rem;">
+    {{ .Get "date" | time.AsTime | time.Format ":date_full" }}
+</h2>
+
+<div id="countdown-{{ .Ordinal }}" class="countdown-container"
+    style="display: flex; gap: 1rem; justify-content: center; font-variant-numeric: tabular-nums;">
+    <div class="countdown-item">
+        <span class="days" style="font-weight: bold; font-size: 1.5em;">0</span>
+        <span class="label">{{ i18n "days" }}</span>
+    </div>
+    <div class="countdown-item">
+        <span class="hours" style="font-weight: bold; font-size: 1.5em;">0</span>
+        <span class="label">{{ i18n "hours" }}</span>
+    </div>
+    <div class="countdown-item">
+        <span class="minutes" style="font-weight: bold; font-size: 1.5em;">0</span>
+        <span class="label">{{ i18n "minutes" }}</span>
+    </div>
+</div>
+
+<script>
+    (function () {
+        const targetDate = new Date("{{ .Get "date" }}").getTime();
+        const element = document.getElementById("countdown-{{ .Ordinal }}");
+        const daysSpan = element.querySelector(".days");
+        const hoursSpan = element.querySelector(".hours");
+        const minutesSpan = element.querySelector(".minutes");
+
+        function updateCountdown() {
+            const now = new Date().getTime();
+            const distance = targetDate - now;
+
+            if (distance < 0) {
+                daysSpan.innerText = "0";
+                hoursSpan.innerText = "0";
+                minutesSpan.innerText = "0";
+                return;
+            }
+
+            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+
+            daysSpan.innerText = days;
+            hoursSpan.innerText = hours;
+            minutesSpan.innerText = minutes;
+        }
+
+        updateCountdown();
+        setInterval(updateCountdown, 1000);
+    })();
+</script>

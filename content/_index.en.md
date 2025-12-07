@@ -4,18 +4,8 @@ date: 2023-10-26T19:55:29+02:00
 draft: false
 ---
 
-{{< typeit tag=h1 lifeLike=true >}}
-We are getting married!
-{{< /typeit >}}
+{{< lead >}}
+We are looking forward to celebrating our wedding with you. Here you will find all important information. The celebration takes place [on July 11, 2026 from 12 pm](agenda/) at Agriturismo [El Dos del Bec](location/) on the eastern side of Lake Iseo.
+{{< /lead >}}
 
-We are excited to invite you to our wedding. Here you will find all the important information.
-
-## When
-
-Date: [Date of the wedding]
-Time: [Time of the wedding]
-
-## Where
-
-Location: [Location of the wedding]
-Address: [Address of the wedding]
+{{< rsvp-button >}}Let us know if you come!{{< /rsvp-button >}}

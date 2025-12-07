@@ -1,37 +1,42 @@
 [[main]]
-  name = "Home"
-  pageRef = "_index.it.md"
-  weight = 10
+name = "Home"
+pageRef = "_index.it.md"
+weight = 10
 
 [[main]]
-  name = "Agenda"
-  pageRef = "agenda/index.it.md"
-  weight = 20
+name = "Dove"
+pageRef = "location/index.it.md"
+weight = 20
 
 [[main]]
-  name = "Luogo"
-  pageRef = "location/event/index.it.md"
-  weight = 30
+name = "Quando"
+pageRef = "agenda/index.it.md"
+weight = 30
 
 [[main]]
-  name = "Luogo dell'evento"
-  parent = "Luogo"
-  pageRef = "location/event/index.it.md"
-  weight = 10
+name = "Informazioni Utili"
+weight = 40
 
 [[main]]
-  name = "Lago d'Iseo"
-  parent = "Luogo"
-  pageRef = "location/iseo/index.it.md"
-  weight = 20
+name = "Arrivo"
+parent = "Informazioni Utili"
+pageRef = "info/arrival/index.it.md"
+weight = 10
 
 [[main]]
-  name = "Altre attività"
-  parent = "Luogo"
-  pageRef = "location/activities/_index.it.md"
-  weight = 30
+name = "Alloggio"
+parent = "Informazioni Utili"
+pageRef = "info/accommodation/index.it.md"
+weight = 20
 
 [[main]]
-  name = "Fotografie"
-  pageRef = "photos/index.it.md"
-  weight = 40
+name = "Brescia & Iseo"
+parent = "Informazioni Utili"
+pageRef = "info/brescia-iseo/index.it.md"
+weight = 30
+
+[[main]]
+name = "Altre attività"
+parent = "Informazioni Utili"
+pageRef = "info/activities/index.it.md"
+weight = 40

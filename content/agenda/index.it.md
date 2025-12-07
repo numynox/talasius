@@ -1,16 +1,21 @@
 ---
-title: "Agenda"
+title: "Programma"
 featureimage: "img/iseo/boats.jpg"
 ---
 
-{{< timeline >}}
+{{< lead >}}
+Siamo entusiasti di festeggiare con voi
+{{< /lead >}}
+{{< countdown date="2026-07-11T12:00:00" >}}
 
-{{< timelineItem icon="location-dot" header="header">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus. 
-{{< /timelineItem >}}
+{{< lead >}}
+Vi preghiamo di arrivare all'[El dos del Bec](/content/location/index.it.md) entro le 12:00.
+{{< /lead >}}
 
-{{< timelineItem icon="location-dot" header="header">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus. 
-{{< /timelineItem >}}
+La fine della festa è prevista tra le 21:00 e le 22:00, lasciando abbastanza tempo per tornare al vostro hotel.
 
-{{< /timeline >}}
+> Maggiori dettagli sull'agenda della giornata saranno forniti su questa pagina in un secondo momento. Vi preghiamo di consultarla nuovamente qualche settimana prima del matrimonio.
+
+## Attività mattutine
+
+Se avete voglia di un'attività al mattino prima del matrimonio, vi consigliamo una breve gita con il [battello da Sulzano a Peschiera Maraglio](https://navigazionelagoiseo.it/) su Monte Isola, l'isola situata al centro del lago. Potete godervi una passeggiata lungo la costa o un caffè in uno dei ristoranti. Il battello [parte ogni 20 minuti](https://navigazionelagoiseo.it/orari/Sulzano.pdf) e i biglietti possono essere acquistati allo sportello vicino al molo.

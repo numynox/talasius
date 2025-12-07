@@ -5,19 +5,19 @@ weight = 2
 title = "Giulia & Jannis"
 
 [params]
-  displayName = "DE"
-  isoCode = "de"
-  rtl = false
-  dateFormat = "2. Januar 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+displayName = "DE"
+isoCode = "de"
+rtl = false
+dateFormat = "11. Juli 2026"
+# logo = "img/logo.png"
+# secondaryLogo = "img/logo.png"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
 
- [params.author]
-   name = "Giulia & Jannis"
-   email = "jannis.dickmann@protonmail.com"
-   image = "img/logo.png"
-   imageQuality = 96
-   headline = "20. Juni 2026"
+[params.author]
+name = "Giulia & Jannis"
+email = "jannis.dickmann@protonmail.com"
+image = "img/logo.png"
+imageQuality = 96
+headline = "&nbsp;11. Juli 2026&nbsp;&nbsp;|&nbsp;&nbsp;Iseosee"
 #   bio = "A little bit about you"

@@ -4,18 +4,8 @@ date: 2023-10-26T19:55:29+02:00
 draft: false
 ---
 
-{{< typeit tag=h1 lifeLike=true >}}
-Ci sposiamo!
-{{< /typeit >}}
+{{< lead >}}
+Non vediamo l'ora di festeggiare il nostro matrimonio con voi. Qui troverete tutte le informazioni importanti. La festa si terrà [l'11 luglio 2026 dalle ore 12:00](agenda/) presso l'Agriturismo [El Dos del Bec](location/) sul lato orientale del Lago d'Iseo.
+{{< /lead >}}
 
-Siamo felici di invitarvi al nostro matrimonio. Qui troverete tutte le informazioni importanti.
-
-## Quando
-
-Data: [Data del matrimonio]
-Ora: [Ora del matrimonio]
-
-## Dove
-
-Luogo: [Luogo del matrimonio]
-Indirizzo: [Indirizzo del matrimonio]
+{{< rsvp-button >}}Fateci sapere se venite!{{< /rsvp-button >}}

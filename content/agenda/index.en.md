@@ -3,14 +3,19 @@ title: "Agenda"
 featureimage: "img/iseo/boats.jpg"
 ---
 
-{{< timeline >}}
+{{< lead >}}
+We are excited to celebrate with you on
+{{< /lead >}}
+{{< countdown date="2026-07-11T12:00:00" >}}
 
-{{< timelineItem icon="location-dot" header="header">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus. 
-{{< /timelineItem >}}
+{{< lead >}}
+Please arrive at [El dos del Bec](/content/location/index.en.md) by 12:00 PM.
+{{< /lead >}}
 
-{{< timelineItem icon="location-dot" header="header">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus. 
-{{< /timelineItem >}}
+The end of the celebration is planned between 9:00 PM and 10:00 PM leaving enough time to return to your hotel.
 
-{{< /timeline >}}
+> More details on the agenda of the day will be provided on this page at a later point. Please check again some weeks before the wedding.
+
+## Morning activities
+
+If you are up for an acitivity in the morning before the wedding, we recommend a short trip with the [boat from Sulzano to Peschiera Maraglio](https://navigazionelagoiseo.it/en/) on Monte Isola, the island located in the middle of the lake. You can enjoy a walk along the coast or a coffee in one of the restaurants. The boat [leaves every 20min](https://navigazionelagoiseo.it/orari/Sulzano.pdf) and tickets can be bought at the counter close the pier.

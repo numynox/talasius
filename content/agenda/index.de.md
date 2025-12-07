@@ -1,16 +1,21 @@
 ---
-title: "Agenda"
+title: "Ablauf"
 featureimage: "img/iseo/boats.jpg"
 ---
 
-{{< timeline >}}
+{{< lead >}}
+Wir freuen uns darauf, mit euch zu feiern am
+{{< /lead >}}
+{{< countdown date="2026-07-11T12:00:00" >}}
 
-{{< timelineItem icon="location-dot" header="header">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus. 
-{{< /timelineItem >}}
+{{< lead >}}
+Bitte kommt bis 12:00 Uhr zu [El dos del Bec](/content/location/index.de.md).
+{{< /lead >}}
 
-{{< timelineItem icon="location-dot" header="header">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus. 
-{{< /timelineItem >}}
+Das Ende der Feier ist zwischen 21:00 und 22:00 Uhr geplant, sodass genügend Zeit bleibt, um zu eurem Hotel zurückzukehren.
 
-{{< /timeline >}}
+> Weitere Details zum Tagesablauf werden zu einem späteren Zeitpunkt an dieser Stelle bekannt gegeben. Bitte schaut einige Wochen vor der Hochzeit noch einmal vorbei.
+
+## Morgenaktivitäten
+
+Falls ihr Lust auf eine Aktivität am Morgen vor der Hochzeit habt, empfehlen wir einen kurzen Ausflug mit dem [Schiff von Sulzano nach Peschiera Maraglio](https://navigazionelagoiseo.it/en/) auf den Monte Isola, die Insel in der Mitte des Sees. Ihr könnt einen Spaziergang entlang der Küste oder einen Kaffee in einem der Restaurants genießen. Das Schiff [fährt alle 20 Minuten](https://navigazionelagoiseo.it/orari/Sulzano.pdf) und Tickets können am Schalter in der Nähe des Piers gekauft werden.
