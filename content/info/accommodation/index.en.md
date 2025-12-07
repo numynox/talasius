@@ -1,17 +1,24 @@
 ---
-title: "Iseo lake"
-featureimage: "img/iseo/cypress.jpg"
-summary: "Lake Iseo is an alpine lake in Lombardy, Italy, whose geology was shaped by the last Ice Age and whose history ranges from prehistoric settlements to its current tourist appeal."
+title: "Accommodation"
+featureimage: "img/brescia/castle-tower.jpg"
 ---
 
-### Geology of Lake Iseo
 
-Lake Iseo, also known as Lago d'Iseo or Sebino, is an alpine lake located in Lombardy, Italy. Its formation is closely linked to the last Ice Age. Approximately 10,000 years ago, massive glaciers flowing down from the Alps carved out the deep basin where the lake now lies. These glaciers left behind characteristic morainic hills that shape the current shoreline and give the lake its distinctive form. The steep rock faces that plunge directly into the lake in many places bear witness to the immense erosive power of the ice.
+There is a broad range of accommodation options available at Lake Iseo and in Brescia, depending on your preference. Here are our recommendations.
 
-The geological composition of the region is diverse, featuring a mix of limestone and dolomite rock that forms the surrounding mountains. These rock types contribute to the unique water quality of the lake and influence the local flora and fauna. The deep waters of Lake Iseo, reaching over 250 meters in some areas, are a relic of this glacial past and provide a habitat for a rich aquatic biodiversity.
+## Staying at Lake Iseo
 
-### History of Lake Iseo
+If you prefer to stay close to the venue and enjoy the lake atmosphere, we recommend looking for hotels in **Pisogne**, **Marone**, or **Sale Marasino**. The town of **Iseo** itself offers even more choices and a lively promenade.
 
-The history of human settlement around Lake Iseo dates back a long way. Archaeological findings confirm prehistoric settlements that utilized the strategic location and natural resources of the lake. During the Roman era, the region was an important hub for trade and transport, leading to the establishment of the first permanent settlements and infrastructure. The lake served as a transport route for goods and people, and its fertile shores offered ideal conditions for agriculture and fishing.
+## Staying in Brescia
 
-In the Middle Ages and early modern period, Lake Iseo played a role in the power struggles between various local lordships and larger powers such as Venice and Milan. Numerous castles and fortifications along the shores bear witness to this turbulent past. Over time, the region developed into a center for silk production and later for the iron industry, which significantly shaped the economic development and growth of the towns along the lake. Today, Lake Iseo is a popular tourist destination that harmoniously combines its rich history with breathtaking natural beauty.
+If you want to stay longer and have a central base for exploring various places between Lake Iseo and Lake Garda, we recommend staying in **Brescia**.
+
+*   **Location:** Any hotel in the city center between *Via Pusterla* and *Via Vittorio Emanuele II*, or along *Via Crocifissa di Rosa* is a good choice.
+*   **Connections:** Brescia is well connected by train to Milan, the southern part of Lake Garda, Verona, Venice, and Turin.
+*   **Access by car:** The [city center of Brescia](https://www.bresciamobilita.it/map#/mode=busRoutes/poitypes=ztlentrance,ztlarea/date=07-12-2025/direction=0/) cannot be accessed by car, unless your accommodation provides parking and registers your license plate for access to the city center. The restricted area is called **ZTL** (Zona di Traffico Limitato) and "ZTL attiva / ZTL closed" means you are not allowed to enter without registration.
+
+## Other Options
+
+*   **Combined Stay:** A combination of staying a few nights at the lake in Iseo and a few nights in Brescia is also a great way to experience the region.
+*   **Bergamo and Milan:** While Bergamo and Milan are beautiful cities to visit, we do not recommend them for accommodation due to logistics, unless you need to stay very close to one of the airports for an early flight.
