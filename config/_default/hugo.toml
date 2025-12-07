@@ -10,6 +10,9 @@ defaultContentLanguageInSubdir = true
 
 # SECURE PARAMETER PLACEHOLDERS
 # The real values will be injected by GitHub Actions, keeping them out of your source code.
+# You can override these locally or in CI using environment variables:
+# HUGO_PARAMS_DROPBOXLINK overrides params.dropboxLink
+# HUGO_PARAMS_AIRTABLERSVPLINK overrides params.airtableRsvpLink
 [params]
   dropboxLink = "/upload-link-will-be-injected"
   airtableRsvpLink = "/rsvp-link-will-be-injected"
