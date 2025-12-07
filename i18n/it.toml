@@ -1,0 +1,8 @@
+[days]
+other = "giorni"
+
+[hours]
+other = "ore"
+
+[minutes]
+other = "minuti"
