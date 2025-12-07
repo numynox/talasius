@@ -1,17 +1,41 @@
 ---
-title: "Iseosee"
-featureimage: "img/iseo/cypress.jpg"
-summary: "Der Iseosee ist ein alpiner See in der Lombardei, dessen Geologie durch die letzte Eiszeit geprägt wurde und dessen Geschichte von prähistorischen Siedlungen bis zur heutigen touristischen Bedeutung reicht."
+title: "Anreise"
+featureimage: "img/brescia/panorama.jpg"
 ---
 
-### Geologie des Iseosees
+Wir sind uns bewusst, dass die Feier in Italien CO₂-Emissionen verursacht. Um unseren Fußabdruck zu reduzieren, möchten wir euch helfen, die effizientesten Reisemöglichkeiten zu finden und euch mit anderen Gästen zu verbinden, um gemeinsam zu reisen.
 
-Der Iseosee, auch bekannt als Lago d'Iseo oder Sebino, ist ein alpiner See in der Lombardei, Italien. Seine Entstehung ist eng mit der letzten Eiszeit verbunden. Vor etwa 10.000 Jahren formten massive Gletscher, die aus den Alpen herabflossen, das tiefe Becken, in dem sich der See heute befindet. Diese Gletscher hinterließen charakteristische Moränenhügel, die heute die Uferlandschaft prägen und dem See seine unverwechselbare Form geben. Die steilen Felswände, die an vielen Stellen direkt in den See abfallen, zeugen von der gewaltigen Erosionskraft des Eises.
+## Mit dem Zug
 
-Die geologische Beschaffenheit der Region ist vielfältig, mit einer Mischung aus Kalkstein und Dolomitgestein, das die umliegenden Berge bildet. Diese Gesteinsarten tragen zur einzigartigen Wasserqualität des Sees bei und beeinflussen die lokale Flora und Fauna. Die tiefen Gewässer des Iseosees, die an einigen Stellen über 250 Meter erreichen, sind ein Relikt dieser glazialen Vergangenheit und bieten Lebensraum für eine reiche aquatische Artenvielfalt.
+Für unsere Gäste, die aus oder durch Deutschland anreisen, gibt es drei bequeme Möglichkeiten, Brescia und den Iseosee mit dem Zug zu erreichen.
 
-### Geschichte des Iseosees
+*   **München nach Verona:** Ein direkter [Railjet RJ8X/EC8X](https://www.oebb.at/de/reiseplanung-services/im-zug/unsere-zuege/railjet), der alle zwei Stunden von München abfährt und in Verona Porta Nuova ankommt, betrieben von der ÖBB. Von Verona aus könnt ihr einen Trenitalia-Hochgeschwindigkeitszug oder einen Regionalzug nach Brescia nehmen.
+*   **Frankfurt nach Mailand:** Ein direkter [Eurocity Express ECE151](https://www.zugreiseblog.de/zug-frankfurt-mailand/), der täglich um 08:02 Uhr vom Frankfurter Hauptbahnhof abfährt und um 15:35 Uhr in Milano Centrale ankommt, betrieben von der SBB. Von Mailand aus könnt ihr einen Trenitalia-Hochgeschwindigkeitszug oder einen Regionalzug nach Brescia nehmen.
+*   **München nach Brescia:** Eine direkte [Nightjet](https://www.nightjet.com/de/#/home)-Verbindung, betrieben von der ÖBB.
 
-Die Geschichte der menschlichen Besiedlung rund um den Iseosee reicht weit zurück. Archäologische Funde belegen prähistorische Siedlungen, die die strategische Lage und die natürlichen Ressourcen des Sees nutzten. Während der Römerzeit war die Region ein wichtiger Knotenpunkt für Handel und Verkehr, und es entstanden erste feste Siedlungen und Infrastrukturen. Der See diente als Transportweg für Güter und Personen, und die fruchtbaren Ufer boten ideale Bedingungen für Landwirtschaft und Fischerei.
+Um die günstigsten Tickets zu erhalten, empfehlen wir, [DB](https://www.bahn.de/?lang=de), [ÖBB](https://www.oebb.at/) und [Trenitalia](https://www.trenitalia.com/de.html) für alle Verbindungen sowie [SBB](https://www.sbb.ch/) für die Frankfurt-Verbindung zu prüfen. Möglicherweise müsst ihr zwei separate Tickets buchen (z. B. Erlangen nach Verona mit der DB und Verona nach Brescia mit Trenitalia oder Erlangen nach München mit der DB und München nach Brescia mit der ÖBB). Regionalzüge in Italien können über Trenitalia oder direkt am Bahnhof gekauft werden. Sie sind nicht teuer und der Preis ändert sich nicht, wenn sie am Reisetag gekauft werden.
 
-Im Mittelalter und in der Neuzeit spielte der Iseosee eine Rolle in den Machtkämpfen zwischen verschiedenen lokalen Herrschaften und größeren Mächten wie Venedig und Mailand. Zahlreiche Burgen und Befestigungsanlagen entlang der Ufer zeugen von dieser turbulenten Vergangenheit. Mit der Zeit entwickelte sich die Region zu einem Zentrum für Seidenproduktion und später für die Eisenindustrie, was die wirtschaftliche Entwicklung und das Wachstum der Städte am Seeufer maßgeblich prägte. Heute ist der Iseosee ein beliebtes Touristenziel, das seine reiche Geschichte und atemberaubende Natur harmonisch miteinander verbindet.
+## Mit dem Flugzeug
+
+Wenn ihr euch für eine Flugreise entscheidet, schlagen wir einen der folgenden Flughäfen vor.
+
+*   **Flughafen Bergamo (BGY):** Auch irreführend "Mailand Bergamo" genannt. Es ist der nächstgelegene Flughafen, etwa **40 Minuten** von Iseo oder Brescia entfernt. Er wird hauptsächlich von Billigfluggesellschaften wie Ryanair angeflogen. Es gibt einen direkten Flughafenbus nach Brescia ([Option 1](https://www.airportbusexpress.it/en-GB/bus-stop-timetable/bresciaautostazione-orioalserio) oder [Option 2](https://autostradale.it/en/i-nostri-servizi/transfer-aeroportuali/brescia-autostazione-bergamo-orio-al-serio/)).
+*   **Mailand Linate (LIN):** Etwa **60 Minuten** von Iseo oder Brescia entfernt. Er wird von Standardfluggesellschaften wie Lufthansa oder Air Dolomiti angeflogen, und ihr könnt den Hauptbahnhof Milano Centrale leicht mit der U-Bahn oder dem Bus erreichen.
+*   **Mailand Malpensa (MXP):** Etwa **90 Minuten** von Iseo oder Brescia entfernt, ebenfalls von Standardfluggesellschaften angeflogen, und ihr könnt Milano Centrale mit dem Zug oder Bus in 60 Minuten erreichen. Dies ist logistisch gesehen die am wenigsten komfortable Flughafenoption.
+
+Der Flughafen Verona (VRN) liegt etwa 50 Minuten von Brescia und 70 Minuten von Iseo entfernt, bietet aber meistens nur regionale Flüge an.
+
+## Gemeinsam reisen
+
+Gemeinsam zu reisen ist nicht nur umweltfreundlicher, sondern macht auch mehr Spaß! Wenn ihr an Fahrgemeinschaften oder Gruppenreisen interessiert seid, teilt uns dies bitte in eurer Zu- oder Absage mit. Wir werden euch zu einer WhatsApp-Gruppe hinzufügen, in der ihr euch mit anderen Gästen abstimmen könnt.
+
+## Anreise zur Location
+
+Um den Hochzeitsort zu erreichen, empfehlen wir die folgenden Optionen.
+
+*   **Auto:** Ein Auto ist der bequemste Weg, um den Ort zu erreichen. Mietwagen sind an allen Flughäfen und in Brescia verfügbar.
+*   **Fahrgemeinschaften:** Wenn ihr lieber keinen Mietwagen nehmen möchtet, teilt uns dies bitte in eurer Zu- oder Absage mit. Wir können euch mit Gästen in Kontakt bringen, die freie Plätze in ihrem Auto haben. Ebenso, wenn ihr ein Auto habt und eine Mitfahrgelegenheit anbieten könnt, gebt uns bitte Bescheid.
+*   **Zug:** Es ist möglich, den Ort mit dem Zug von Brescia aus zu erreichen, aber bitte beachtet, dass der **letzte Zug zurück um 20:00 Uhr abfährt**, während die Party länger andauern wird.
+*   **Taxi:** Wir empfehlen **nicht**, sich auf Taxis zu verlassen, um zum oder vom Ort zu gelangen, da sie selbst von nahegelegenen Städten wie Pisogne unzuverlässig sein können.
+
+Wenn ihr Fragen habt, zögert nicht, uns zu kontaktieren.

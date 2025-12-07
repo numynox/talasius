@@ -1,17 +1,41 @@
 ---
-title: "Iseo lake"
-featureimage: "img/iseo/cypress.jpg"
-summary: "Lake Iseo is an alpine lake in Lombardy, Italy, whose geology was shaped by the last Ice Age and whose history ranges from prehistoric settlements to its current tourist appeal."
+title: "Arrival"
+featureimage: "img/brescia/panorama.jpg"
 ---
 
-### Geology of Lake Iseo
+We are aware that the celebration in Italy causes CO₂ emissions. To help reduce our footprint, we want to assist you in finding the most efficient travel options and connecting you with other guests to travel together.
 
-Lake Iseo, also known as Lago d'Iseo or Sebino, is an alpine lake located in Lombardy, Italy. Its formation is closely linked to the last Ice Age. Approximately 10,000 years ago, massive glaciers flowing down from the Alps carved out the deep basin where the lake now lies. These glaciers left behind characteristic morainic hills that shape the current shoreline and give the lake its distinctive form. The steep rock faces that plunge directly into the lake in many places bear witness to the immense erosive power of the ice.
+## By train
 
-The geological composition of the region is diverse, featuring a mix of limestone and dolomite rock that forms the surrounding mountains. These rock types contribute to the unique water quality of the lake and influence the local flora and fauna. The deep waters of Lake Iseo, reaching over 250 meters in some areas, are a relic of this glacial past and provide a habitat for a rich aquatic biodiversity.
+For our guests traveling from or through Germany, there are three convenient options to reach Brescia and Lake Iseo by train.
 
-### History of Lake Iseo
+*   **Munich to Verona:** A direct [Railjet RJ8X/EC8X](https://www.oebb.at/en/reiseplanung-services/im-zug/unsere-zuege/railjet) departing from Munich every two hours and arriving in Verona Porta Nuova, operated by ÖBB. From Verona, you can take a Trenitalia high-speed or local train to Brescia.
+*   **Frankfurt to Milan:** A direct [Eurocity Express ECE151](https://www.zugreiseblog.de/zug-frankfurt-mailand/) departing daily at 08:02 from Frankfurt Hbf and arriving at 15:35 in Milano Centrale, operated by SBB. From Milan, you can take a Trenitalia high-speed or local train to Brescia.
+*   **Munich to Brescia:** A direct [Nightjet](https://www.nightjet.com/en/#/home) connection operated by ÖBB.
 
-The history of human settlement around Lake Iseo dates back a long way. Archaeological findings confirm prehistoric settlements that utilized the strategic location and natural resources of the lake. During the Roman era, the region was an important hub for trade and transport, leading to the establishment of the first permanent settlements and infrastructure. The lake served as a transport route for goods and people, and its fertile shores offered ideal conditions for agriculture and fishing.
+To get the cheapest tickets, we recommend checking [DB](https://int.bahn.de/en?dbkanal_007=sprachauswahl-en), [ÖBB](https://www.oebb.at/en), and [Trenitalia](https://www.trenitalia.com/en.html) for all connections as well as [SBB](https://www.sbb.ch/en) for the Frankfurt connection. You may need to book two separate tickets (e.g. Erlangen to Verona with DB and Verona to Brescia with Trenitalia, or Erlangen to Munich with DB and Munich to Brescia with ÖBB). Regional trains in Italy can be purchased through Trenitalia or directly at the station. They are not expensive, and the price does not change if purchased on the day of travel.
 
-In the Middle Ages and early modern period, Lake Iseo played a role in the power struggles between various local lordships and larger powers such as Venice and Milan. Numerous castles and fortifications along the shores bear witness to this turbulent past. Over time, the region developed into a center for silk production and later for the iron industry, which significantly shaped the economic development and growth of the towns along the lake. Today, Lake Iseo is a popular tourist destination that harmoniously combines its rich history with breathtaking natural beauty.
+## By plane
+
+If you choose to travel by plane, we suggest one of the following airports.
+
+*   **Bergamo Airport (BGY):** Also misleadingly called "Milano Bergamo". It is the closest airport, located about **40 minutes** from Iseo or Brescia. It is served mostly by low-cost airlines like Ryanair. There is a direct airport bus to Brescia ([option 1](https://www.airportbusexpress.it/en-GB/bus-stop-timetable/bresciaautostazione-orioalserio) or [option 2](https://autostradale.it/en/i-nostri-servizi/transfer-aeroportuali/brescia-autostazione-bergamo-orio-al-serio/)).
+*   **Milano Linate (LIN):** About **60 minutes** from Iseo or Brescia. It is served by standard airlines like Lufthansa or Air Dolomiti, and you can easily reach the main train station of Milano Centrale by metro or bus.
+*   **Milano Malpensa (MXP):** About **90 minutes** from Iseo or Brescia, also served by standard airlines, and you can reach Milano Centrale by train or bus in 60 minutes. This is the least comfortable airport option for logistics.
+
+Verona Airport (VRN) is located about 50 minutes from Brescia and 70 minutes from Iseo, but mostly offers only regional flights.
+
+## Traveling together
+
+Traveling together is not only more environmentally friendly but also more fun! If you are interested in carpooling or traveling in groups, please let us know in your RSVP. We will add you to a WhatsApp group where you can coordinate with other guests.
+
+## Getting to the venue
+
+To reach the wedding venue, we recommend the following options.
+
+*   **Car:** A car is the most convenient way to reach the venue. Rental cars are available at all airports and in Brescia.
+*   **Carpooling:** If you prefer not to rent a car, please let us know in the RSVP. We can put you in touch with guests who have free seats in their car. Likewise, if you have a car and can offer a ride, please let us know.
+*   **Train:** It is possible to reach the venue by train from Brescia, but please note that the **last train back departs at 8:00 PM**, while the party will continue for longer.
+*   **Taxi:** We **do not recommend** relying on taxis to get to or from the venue, as they can be unreliable even from nearby towns like Pisogne.
+
+If you have any questions, don't hesitate to contact us.
