@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Tangerine';
+    src: url('../fonts/Tangerine-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+:root {
+    --font-tangerine: 'Tangerine', cursive;
+}
+
+h1 {
+    font-family: var(--font-tangerine);
+    font-size: 4rem;
+}
+
+#single_header {
+    margin-top: calc(var(--spacing) * 15)
+}

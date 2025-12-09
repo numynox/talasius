@@ -20,7 +20,7 @@ replyByEmail = false
 
 disableImageOptimization = false
 disableImageOptimizationMD = false
-disableTextInHeader = true
+disableTextInHeader = false
 backgroundImageWidth = 1200
 
 defaultBackgroundImage = "img/iseo/evening.jpg" # used as default for background images
@@ -74,7 +74,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = true
+  showEdit = false
   editURL = "https://github.com/numynox/talasius/tree/main/content"
   editAppendPath = true
   seriesOpened = false
