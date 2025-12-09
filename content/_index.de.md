@@ -9,3 +9,5 @@ Wir freuen uns, gemeinsam mit euch unsere Hochzeit zu feiern. Hier findet ihr al
 {{< /lead >}}
 
 {{< rsvp-button >}}Lasst uns wissen, ob ihr kommt!{{< /rsvp-button >}}
+
+Bitte teilt uns bis zum 31. Januar 2026 mit, ob ihr kommen könnt.
