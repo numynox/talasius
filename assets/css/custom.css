@@ -15,6 +15,6 @@ h1 {
     font-size: 4rem;
 }
 
-#single_header {
+header.mt-5 {
     margin-top: calc(var(--spacing) * 15)
 }

@@ -1,5 +1,5 @@
 ---
-title: "Other activities"
+title: "Travel Guide"
 featureimage: "img/brescia/castle-tower.jpg"
 summary: "Discover numerous activities around Lake Iseo, Lake Garda, and in Brescia to make your stay unforgettable."
 ---

@@ -30,13 +30,7 @@ pageRef = "info/accommodation/index.en.md"
 weight = 20
 
 [[main]]
-name = "Brescia & Iseo"
-parent = "Useful Information"
-pageRef = "info/brescia-iseo/index.en.md"
-weight = 30
-
-[[main]]
-name = "Other Activities"
+name = "Travel Guide"
 parent = "Useful Information"
 pageRef = "info/activities/index.en.md"
-weight = 40
+weight = 30

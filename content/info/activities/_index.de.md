@@ -1,5 +1,5 @@
 ---
-title: "Andere Aktivitäten"
+title: "Reiseführer"
 featureimage: "img/brescia/castle-tower.jpg"
 summary: "Entdecken Sie zahlreiche Aktivitäten rund um den Iseosee, Gardasee und in Brescia, um Ihren Aufenthalt unvergesslich zu machen."
 ---

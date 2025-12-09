@@ -1,5 +1,5 @@
 ---
-title: "Altre attività"
+title: "Guida turistica"
 featureimage: "img/brescia/castle-tower.jpg"
 summary: "Scoprite numerose attività intorno al Lago d'Iseo, al Lago di Garda e a Brescia per rendere il vostro soggiorno indimenticabile."
 ---
