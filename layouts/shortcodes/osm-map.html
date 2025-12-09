@@ -1,0 +1,46 @@
+{{ $lat := .Get "lat" }}
+{{ $lon := .Get "lon" }}
+{{ $zoom := .Get "zoom" }}
+{{ $marker := .Get "marker" }}
+{{ $maker_lat := .Get "maker_lat" }}
+{{ $maker_lon := .Get "maker_lon" }}
+{{ $id := printf "osm-map-%d" .Ordinal }}
+
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+<!-- Leaflet JavaScript -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+<div id="{{ $id }}" style="width: 100%; height: 500px; border-radius: var(--radius-md); z-index: 1;"></div>
+
+<style>
+    .leaflet-marker-pane > img,
+    .leaflet-marker-pane > img {
+        margin-top: -18px !important;
+    }
+    .leaflet-popup {
+        bottom: -25px !important;
+    }
+</style>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var map = L.map('{{ $id }}', { scrollWheelZoom: false }).setView([{{ $lat }}, {{ $lon }}], {{ $zoom }});
+
+    L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.{ext}', {
+	minZoom: 0,
+	maxZoom: 20,
+	attribution: '&copy; CNES, Distribution Airbus DS, © Airbus DS, © PlanetObserver (contains Copernicus Data) | &copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+	ext: 'jpg'
+}).addTo(map);
+
+    var marker = L.marker([{{ $maker_lat }}, {{ $maker_lon }}]).addTo(map);
+
+    {{ if $marker }}
+    marker.bindPopup("{{ $marker }}").openPopup();
+    {{ end }}
+    });
+</script>

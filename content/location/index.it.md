@@ -26,4 +26,7 @@ Da Brescia c'Ã¨ anche un treno per Toline, ma l'ultimo collegamento di ritorno Ã
 > Via Canale<br>
 > 25055 Pisogne (Brescia)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12492.12674146666!2d10.083778301269817!3d45.78511698256662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4783d8f3e72d50dd%3A0x359fb383451a9f44!2sEl%20Dos%20del%20Bec!5e0!3m2!1sde!2sde!4v1765054741715!5m2!1sde!2sde" width="100%" height="450" style="border:0; border-radius:var(--radius-md);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{< button href="https://www.google.com/maps/dir/?api=1&destination=45.783692,10.0880215" target="_blank" >}}Google Maps{{< /button >}} &nbsp;
+{{< button href="https://maps.apple.com/?daddr=45.783692,10.0880215&dirflg=d" target="_blank" >}}Apple Maps{{< /button >}}
+
+{{< osm-map lat="45.72" lon="10.06" maker_lat="45.783692" maker_lon="10.0880215" zoom="11" marker="El Dos del Bec" >}}

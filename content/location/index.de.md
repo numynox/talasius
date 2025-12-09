@@ -26,4 +26,7 @@ Von Brescia fährt auch ein Zug nach Toline, allerdings ist die letzte Verbindun
 > Via Canale<br>
 > 25055 Pisogne (Brescia)
 
-{{< osm-map lat="45.660582" lon="9.98106" maker_lat="45.783692" maker_lon="10.0880215" zoom="10" marker="El Dos del Bec" >}}
+{{< button href="https://www.google.com/maps/dir/?api=1&destination=45.783692,10.0880215" target="_blank" >}}Google Maps{{< /button >}} &nbsp;
+{{< button href="https://maps.apple.com/?daddr=45.783692,10.0880215&dirflg=d" target="_blank" >}}Apple Maps{{< /button >}}
+
+{{< osm-map lat="45.72" lon="10.06" maker_lat="45.783692" maker_lon="10.0880215" zoom="11" marker="El Dos del Bec" >}}
