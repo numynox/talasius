@@ -10,4 +10,4 @@ Non vediamo l'ora di festeggiare il nostro matrimonio con voi. Qui troverete tut
 
 {{< rsvp-button >}}Fateci sapere se venite!{{< /rsvp-button >}}
 
-Vi preghiamo di comunicarci entro il 31 gennaio 2026 se potrete partecipare.
+{{< icon "heart" >}} Vi preghiamo di comunicarci entro il 31 gennaio 2026 se potrete partecipare.

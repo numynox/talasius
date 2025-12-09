@@ -15,6 +15,11 @@ h1 {
     font-size: 4rem;
 }
 
+.icon {
+    vertical-align: text-top !important;
+    margin-right: 0.3rem !important;
+}
+
 header h1 {
     margin-left: calc(var(--spacing) * -4);
 }
