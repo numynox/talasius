@@ -1,6 +1,7 @@
 ---
 title: "Agenda"
 featureimage: "img/iseo/boats.jpg"
+showTableOfContents: false
 ---
 
 {{< lead >}}

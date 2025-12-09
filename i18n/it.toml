@@ -6,3 +6,9 @@ other = "ore"
 
 [minutes]
 other = "minuti"
+
+[article]
+part_of_series = "Questo articolo fa parte di una serie."
+part = "Parte"
+this_article = "Questo articolo"
+related_articles = "Articoli correlati"

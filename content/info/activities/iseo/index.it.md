@@ -2,6 +2,9 @@
 title: "Lago d'Iseo"
 date: 2023-11-20T10:00:00+01:00
 draft: false
+series: ["Guida turistica"]
+series_order: 3
+weight: 30
 featureimage: "img/iseo/view8.jpg"
 summary: "Scoprite la perla nascosta del Lago d'Iseo, dall'isola montagna di Monte Isola alle meraviglie geologiche di Zone."
 ---

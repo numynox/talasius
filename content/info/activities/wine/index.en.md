@@ -2,6 +2,9 @@
 title: "Wineries"
 date: 2023-11-20T10:00:00+01:00
 draft: false
+series: ["Travel Guide"]
+series_order: 6
+weight: 60
 featureimage: "img/iseo/evening.jpg"
 summary: "Explore the world-famous wine regions of Franciacorta and Lugana right at our doorstep."
 ---

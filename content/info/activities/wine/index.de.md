@@ -2,6 +2,9 @@
 title: "Weingüter"
 date: 2023-11-20T10:00:00+01:00
 draft: false
+series: ["Reiseführer"]
+series_order: 6
+weight: 60
 featureimage: "img/iseo/evening.jpg"
 summary: "Erkundet die weltberühmten Weinregionen Franciacorta und Lugana direkt vor unserer Haustür."
 ---

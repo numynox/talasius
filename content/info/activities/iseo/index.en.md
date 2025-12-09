@@ -2,6 +2,9 @@
 title: "Lake Iseo"
 date: 2023-11-20T10:00:00+01:00
 draft: false
+series: ["Travel Guide"]
+series_order: 3
+weight: 30
 featureimage: "img/iseo/view8.jpg"
 summary: "Discover the hidden gem of Lake Iseo, from the island mountain of Monte Isola to the geological wonders of Zone."
 ---

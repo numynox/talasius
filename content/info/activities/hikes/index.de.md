@@ -2,6 +2,9 @@
 title: "Wandern"
 date: 2023-11-20T10:00:00+01:00
 draft: false
+series: ["Reiseführer"]
+series_order: 2
+weight: 20
 featureimage: "img/iseo/view8.jpg"
 summary: "Entdeckt unsere Top 3 Wanderungen rund um den Iseosee und Gardasee für atemberaubende Aussichten."
 ---
