@@ -5,7 +5,7 @@ draft: false
 series: ["Travel Guide"]
 series_order: 5
 weight: 50
-featureimage: "img/brescia/castle-tower.jpg"
+featureimage: "img/other/venice.jpg"
 summary: "Brescia is the perfect base for exploring Northern Italy's most famous cities by train."
 ---
 

@@ -5,7 +5,7 @@ draft: false
 series: ["Reiseführer"]
 series_order: 3
 weight: 30
-featureimage: "img/iseo/view8.jpg"
+featureimage: "img/iseo/boats.jpg"
 summary: "Entdeckt das verborgene Juwel Iseosee, von der Berginsel Monte Isola bis zu den geologischen Wundern von Zone."
 ---
 

@@ -10,12 +10,10 @@ Siamo entusiasti di festeggiare con voi
 {{< countdown date="2026-07-11T12:00:00" >}}
 
 {{< lead >}}
-Vi preghiamo di arrivare all'[El dos del Bec](/content/location/index.it.md) entro le 12:00.
+Vi preghiamo di arrivare a [El dos del Bec](/content/location/index.it.md) alle 12:00.
 {{< /lead >}}
 
 La fine della festa è prevista tra le 21:00 e le 22:00, lasciando abbastanza tempo per tornare al vostro hotel.
-
-> Maggiori dettagli sull'agenda della giornata saranno forniti su questa pagina in un secondo momento. Vi preghiamo di consultarla nuovamente qualche settimana prima del matrimonio.
 
 ## Attività mattutine
 

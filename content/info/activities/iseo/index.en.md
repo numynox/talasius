@@ -5,7 +5,7 @@ draft: false
 series: ["Travel Guide"]
 series_order: 3
 weight: 30
-featureimage: "img/iseo/view8.jpg"
+featureimage: "img/iseo/boats.jpg"
 summary: "Discover the hidden gem of Lake Iseo, from the island mountain of Monte Isola to the geological wonders of Zone."
 ---
 

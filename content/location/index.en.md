@@ -7,7 +7,7 @@ featureimage: "img/iseo/evening.jpg"
 
 We enjoy spending our time in nature and love hiking in the mountains around Lake Iseo. Peaks like Punta Almana or Corna Trentapassi always offer spectacular views. We do not want to keep this special view of the lake and the relaxed atmosphere of the mountains to ourselves, but want to share this experience with you during our wedding celebration.
 
-![Iseosee](img/iseo/view1.jpg)
+![Iseosee](img/iseo/selfie.jpg)
 
 
 ## El dos del Bec
@@ -18,7 +18,7 @@ We have chosen the Agriturismo "[El dos del Bec](https://www.eldosdelbec.com/)" 
 
 ## Arrival
 
-The Agriturismo can be reached comfortably from Brescia by car in about 40 minutes. Sufficient parking spaces are available directly on site. Please note that the last meters to the location lead over a steep and relatively narrow road. Those who prefer to park their car down in the village of Toline can use a shuttle service for the last part.
+The Agriturismo can be reached comfortably from Brescia by car in about 40 minutes (60 minutes from Bergamo Airport). Sufficient parking spaces are available directly on site. Please note that the last meters to the location lead over a steep and relatively narrow road. Those who prefer to park their car down in the village of Toline can use a shuttle service for the last part (we will contact you for this at a later point).
 
 There is also a train from Brescia to Toline, but the last connection back is already at 8 pm.
 

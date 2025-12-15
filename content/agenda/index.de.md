@@ -10,12 +10,10 @@ Wir freuen uns darauf, mit euch zu feiern am
 {{< countdown date="2026-07-11T12:00:00" >}}
 
 {{< lead >}}
-Bitte kommt bis 12:00 Uhr zu [El dos del Bec](/content/location/index.de.md).
+Bitte kommt um 12:00 Uhr zu [El dos del Bec](/content/location/index.de.md).
 {{< /lead >}}
 
 Das Ende der Feier ist zwischen 21:00 und 22:00 Uhr geplant, sodass genügend Zeit bleibt, um zu eurem Hotel zurückzukehren.
-
-> Weitere Details zum Tagesablauf werden zu einem späteren Zeitpunkt an dieser Stelle bekannt gegeben. Bitte schaut einige Wochen vor der Hochzeit noch einmal vorbei.
 
 ## Morgenaktivitäten
 

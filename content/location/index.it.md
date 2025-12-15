@@ -7,7 +7,7 @@ featureimage: "img/iseo/evening.jpg"
 
 Ci piace trascorrere il nostro tempo nella natura e amiamo fare escursioni sulle montagne intorno al Lago d'Iseo. Cime come Punta Almana o Corna Trentapassi offrono sempre panorami spettacolari. Non vogliamo tenere per noi questa vista speciale sul lago e l'atmosfera rilassata delle montagne, ma vogliamo condividere questa esperienza con voi durante la nostra festa di matrimonio.
 
-![Iseosee](img/iseo/view1.jpg)
+![Iseosee](img/iseo/selfie.jpg)
 
 
 ## El dos del Bec
@@ -18,7 +18,7 @@ Come location abbiamo scelto l'Agriturismo "[El dos del Bec](https://www.eldosde
 
 ## Arrivo
 
-L'Agriturismo è raggiungibile comodamente da Brescia in auto in circa 40 minuti. Ci sono sufficienti parcheggi direttamente in loco. Si prega di notare che gli ultimi metri verso la location portano su una strada ripida e relativamente stretta. Chi preferisce lasciare l'auto giù nel paese di Toline può utilizzare un servizio navetta per l'ultimo tratto.
+L'Agriturismo è raggiungibile comodamente da Brescia in auto in circa 40 minuti (60 minuti dall'aeroporto di Bergamo). Ci sono sufficienti parcheggi direttamente in loco. Si prega di notare che gli ultimi metri verso la location portano su una strada ripida e relativamente stretta. Chi preferisce lasciare l'auto giù nel paese di Toline può utilizzare un servizio navetta per l'ultimo tratto (per questo vi contatteremo più in là).
 
 Da Brescia c'è anche un treno per Toline, ma l'ultimo collegamento di ritorno è già alle 20:00.
 

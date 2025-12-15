@@ -5,7 +5,7 @@ draft: false
 series: ["Guida turistica"]
 series_order: 3
 weight: 30
-featureimage: "img/iseo/view8.jpg"
+featureimage: "img/iseo/boats.jpg"
 summary: "Scoprite la perla nascosta del Lago d'Iseo, dall'isola montagna di Monte Isola alle meraviglie geologiche di Zone."
 ---
 

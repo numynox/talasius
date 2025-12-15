@@ -7,18 +7,18 @@ featureimage: "img/iseo/evening.jpg"
 
 Wir verbringen unsere Zeit gerne in der Natur und lieben es, in den Bergen rund um den Iseosee zu wandern. Gipfel wie die Punta Almana oder die Corna Trentapassi bieten dabei immer wieder spektakuläre Aussichten. Diesen besonderen Blick auf den See und die entspannte Atmosphäre der Berge wollen wir nicht für uns behalten, sondern dieses Erlebnis während unserer Hochzeitsfeier mit euch teilen.
 
-![Iseosee](img/iseo/view1.jpg)
+![Iseosee](img/iseo/selfie.jpg)
 
 
 ## El dos del Bec
 
-Als Location haben wir uns für das Agriturismo "[El dos del Bec](https://www.eldosdelbec.com/)" entschieden. Es befindet sich in Toline, gelegen auf einer grünen Anhöhe am Fuße der Corna Trentapassi. Das Anwesen zeichnet sich durch seinen landwirtschaftlichen Charme aus: Hier werden nicht nur Oliven und Kakis angebaut, sondern auch eine eigene Alpakaherde gehalten. Die Küche serviert stolz regionale Produkte. Besonders schön ist der weite Blick vom Restaurant direkt auf den Iseosee, der unserer Feier einen einzigartigen Rahmen gibt.
+Als Location haben wir uns für das Agriturismo "[El dos del Bec](https://www.eldosdelbec.com/)" entschieden. Es befindet sich in Toline, gelegen auf einer grünen Anhöhe am Fuße der Corna Trentapassi. Das Anwesen zeichnet sich durch seinen ländlichen Charme aus: Hier werden nicht nur Oliven und Kakis angebaut, sondern auch eine eigene Alpakaherde gehalten. Die Küche serviert stolz regionale Produkte. Besonders schön ist der weite Blick vom Restaurant direkt auf den Iseosee, der unserer Feier einen einzigartigen Rahmen gibt.
 
 ![El dos del Bec](img/dosdelbec/exterior.jpg)
 
 ## Anfahrt
 
-Das Agriturismo ist von Brescia aus bequem mit dem Auto in etwa 40 Minuten zu erreichen. Direkt vor Ort stehen ausreichend Parkplätze zur Verfügung. Bitte beachtet, dass die letzten Meter zur Location über eine steile und relativ schmale Straße führen. Wer sein Auto lieber unten im Ort Toline parken möchte, kann für das letzte Stück einen Shuttleservice nutzen.
+Das Agriturismo ist von Brescia aus bequem mit dem Auto in etwa 40 Minuten zu erreichen (60 Minuten vom Flughafen Bergamo). Direkt vor Ort stehen ausreichend Parkplätze zur Verfügung. Bitte beachtet, dass die letzten Meter zur Location über eine steile und relativ schmale Straße führen. Wer sein Auto lieber unten im Ort Toline parken möchte, kann für das letzte Stück einen Shuttleservice nutzen (diesbezüglich werden wir uns noch mal bei euch melden).
 
 Von Brescia fährt auch ein Zug nach Toline, allerdings ist die letzte Verbindung zurück bereits um 20 Uhr.
 

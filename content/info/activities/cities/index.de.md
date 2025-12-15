@@ -5,7 +5,7 @@ draft: false
 series: ["Reiseführer"]
 series_order: 5
 weight: 50
-featureimage: "img/brescia/castle-tower.jpg"
+featureimage: "img/other/venice.jpg"
 summary: "Brescia ist der perfekte Ausgangspunkt, um die berühmtesten Städte Norditaliens mit dem Zug zu erkunden."
 ---
 

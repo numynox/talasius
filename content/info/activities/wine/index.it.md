@@ -5,7 +5,7 @@ draft: false
 series: ["Guida turistica"]
 series_order: 6
 weight: 60
-featureimage: "img/iseo/evening.jpg"
+featureimage: "img/other/vino-tedesco.jpg"
 summary: "Esplorate le regioni vinicole di fama mondiale della Franciacorta e del Lugana proprio a due passi da noi."
 ---
 

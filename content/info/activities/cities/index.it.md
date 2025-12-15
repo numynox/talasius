@@ -5,7 +5,7 @@ draft: false
 series: ["Guida turistica"]
 series_order: 5
 weight: 50
-featureimage: "img/brescia/castle-tower.jpg"
+featureimage: "img/other/venice.jpg"
 summary: "Brescia è la base perfetta per esplorare le città più famose del Nord Italia in treno."
 ---
 

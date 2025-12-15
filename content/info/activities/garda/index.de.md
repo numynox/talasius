@@ -5,7 +5,7 @@ draft: false
 series: ["Reiseführer"]
 series_order: 4
 weight: 40
-featureimage: "img/iseo/view8.jpg"
+featureimage: "img/garda/baldo.jpg"
 summary: "Besucht Italiens größten See, berühmt für seine prächtigen Villen, römische Geschichte und kristallklares Wasser."
 ---
 
@@ -15,6 +15,10 @@ Der Gardasee ist riesig und hat unglaublich viel zu bieten. Hier sind unsere Top
 Die Perle des Sees. **Sirmione** ist eine atemberaubende Halbinsel, die ins Wasser ragt.
 *   **Grotte di Catullo:** Verpasst auf keinen Fall diese beeindruckenden Ruinen einer römischen Villa ganz an der Spitze der Halbinsel. Die Ausblicke über das türkisfarbene Wasser sind einfach unglaublich.
 *   **Die Burg:** Die Skaligerburg, die den Eingang zur Stadt bewacht, sieht aus wie aus dem Märchen.
+
+## Gardone Riviera
+- Vittoriale
+- Andre Heller Botanical Garden
 
 ## Rocca di Manerba
 Für Natur- und Geschichtsliebhaber unter euch ist die **Rocca di Manerba** ein Muss.

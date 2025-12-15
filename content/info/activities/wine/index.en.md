@@ -5,7 +5,7 @@ draft: false
 series: ["Travel Guide"]
 series_order: 6
 weight: 60
-featureimage: "img/iseo/evening.jpg"
+featureimage: "img/other/vino-tedesco.jpg"
 summary: "Explore the world-famous wine regions of Franciacorta and Lugana right at our doorstep."
 ---
 

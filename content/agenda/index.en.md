@@ -10,12 +10,10 @@ We are excited to celebrate with you on
 {{< countdown date="2026-07-11T12:00:00" >}}
 
 {{< lead >}}
-Please arrive at [El dos del Bec](/content/location/index.en.md) by 12:00 PM.
+Please come to [El dos del Bec](/content/location/index.en.md) at 12:00 PM.
 {{< /lead >}}
 
 The end of the celebration is planned between 9:00 PM and 10:00 PM leaving enough time to return to your hotel.
-
-> More details on the agenda of the day will be provided on this page at a later point. Please check again some weeks before the wedding.
 
 ## Morning activities
 
