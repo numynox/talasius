@@ -11,6 +11,8 @@ C'è un'ampia scelta di hotel disponibili sul Lago d'Iseo e a Brescia, a seconda
 
 Se preferite stare vicino alla location e godervi l'atmosfera del lago, vi consigliamo di cercare hotel a **Pisogne**, **Marone** o **Sale Marasino**. La città di **Iseo** offre ancora più scelta e un vivace lungolago.
 
+![Iseo](img/iseo/water2.jpg)
+
 ## Soggiornare a Brescia
 
 Se volete fermarvi più a lungo e avere una base centrale per esplorare vari luoghi tra il Lago d'Iseo e il Lago di Garda, vi consigliamo di soggiornare a **Brescia**.
@@ -18,6 +20,8 @@ Se volete fermarvi più a lungo e avere una base centrale per esplorare vari luo
 *   **Posizione:** Qualsiasi hotel nel centro città tra *Via Pusterla* e *Via Vittorio Emanuele II*, o lungo *Via Crocifissa di Rosa* è un'ottima scelta.
 *   **Collegamenti:** Brescia è ben collegata in treno a Milano, alla parte meridionale del Lago di Garda, Verona, Venezia e Torino.
 *   **Accesso in auto:** Il [centro storico di Brescia](https://www.bresciamobilita.it/map#/mode=busRoutes/poitypes=ztlentrance,ztlarea/date=07-12-2025/direction=0/) non è accessibile in auto, a meno che il vostro alloggio non fornisca parcheggio e registri la vostra targa per l'accesso al centro. La zona a traffico limitato è chiamata **ZTL** e "ZTL attiva / ZTL closed" significa che non è consentito entrare senza registrazione.
+
+![Brescia](img/brescia/capitolium.jpg)
 
 ## Altre Opzioni
 
