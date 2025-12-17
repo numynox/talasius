@@ -9,18 +9,26 @@ featureimage: "img/iseo/boats.jpg"
 summary: "Scoprite la perla nascosta del Lago d'Iseo, dall'isola montagna di Monte Isola alle meraviglie geologiche di Zone."
 ---
 
-Il Lago d'Iseo è spesso chiamato la perla nascosta d'Italia. Qualsiasi cosa facciate, assicuratevi di non perdervi questi punti salienti!
+Meno conosciuto del Lago di Garda, ma altrettanto bello, il Lago d'Iseo si trova nel nord-ovest di Brescia. Scoprite qui cosa ha da offrire il lago sulle sue sponde.
 
 ## Monte Isola
-Un viaggio al Lago d'Iseo non è completo senza un giro in barca a **Monte Isola**, l'isola lacustre più grande d'Europa.
-*   **L'escursione:** Una volta sbarcati (solitamente a Peschiera Maraglio), salite al **Santuario della Madonna della Ceriola** in cima. È il punto più alto dell'isola e offre uno dei panorami più belli del lago.
-*   **L'atmosfera:** Non sono ammesse auto sull'isola (tranne pochi veicoli di servizio), rendendola un'oasi di pace da esplorare in bicicletta o a piedi.
+
+Monte Isola è una delle isole lacustri più grandi d'Europa e offre un'atmosfera meravigliosa per esplorazioni in bicicletta o a piedi. Potete raggiungere facilmente l'isola con il [battello da Sulzano a Peschiera Maraglio](https://navigazionelagoiseo.it/). Potete godervi una passeggiata lungo la costa o un caffè in uno dei ristoranti. Il battello [parte ogni 20 minuti](https://navigazionelagoiseo.it/orari/Sulzano.pdf) e i biglietti si possono acquistare alla biglietteria vicino al molo. E se avete un po' più di tempo, potete anche [camminare fino alla chiesa sulla cima di Monte Isola](../hikes/#monte-isola).
+
+![Monte Isola](img/iseo/view4.jpg)
 
 ## The Floating Piers
-Nel 2016, l'artista Christo ha creato **The Floating Piers**, un'installazione temporanea che permetteva alle persone di camminare sull'acqua da Sulzano a Monte Isola e all'isola di San Paolo.
-*   **L'eredità:** Anche se l'installazione non c'è più, l'evento ha messo il Lago d'Iseo sulla mappa mondiale. Potete ancora vedere foto e souvenir nei negozi locali, e percorrere la stessa rotta in barca oggi vi darà un'idea della grandezza del progetto.
+Nel 2016, l'artista Christo ha creato **The Floating Piers**, un'installazione temporanea che permetteva alle persone di camminare sull'acqua da Sulzano a Monte Isola e all'isola di San Paolo. Anche se l'installazione non c'è più, l'evento ha messo il Lago d'Iseo sulla mappa mondiale. Se oggi percorrete la stessa rotta in barca, avrete un'idea della dimensione del progetto.
 
 ## Piramidi di Zone
-Per qualcosa di veramente unico, visitate le **Piramidi di Zone**.
-*   **Cosa sono?** Sono massicci pilastri di terra sormontati da grandi massi, creati dall'erosione. Sembrano usciti direttamente da un film fantasy.
-*   **Visita:** C'è un sentiero circolare ben segnalato che vi porta attraverso la riserva, offrendo vari punti di osservazione per ammirare questi giganti geologici.
+Per qualcosa di veramente unico, visitate le **Piramidi di Zone**. Si tratta di massicci pilastri di terra sormontati da grandi massi, creati dall'erosione. Sembrano usciti direttamente da un film fantasy. C'è un sentiero circolare ben segnalato che vi porta attraverso la riserva, offrendo vari punti di osservazione per ammirare questi giganti geologici. Il percorso dura circa 2 ore e inizia presso [Il Chiosco a sud di Zone](https://maps.app.goo.gl/FzSxnvpyEn2JfpreA), dove è possibile acquistare anche un biglietto per visitare le Piramidi di Zone.
+
+![Piramidi di Zone](img/iseo/zone.jpg)
+
+## Riva
+
+Le famose **barche Riva** hanno origine sul Lago d'Iseo. A Sarnico vengono ancora oggi prodotte queste eleganti barche in legno, considerate l'epitome del lusso e del design italiano.
+
+## Valcamonica
+
+A nord del lago si estende la **Valcamonica**, nota per le sue incisioni rupestri preistoriche. Questo sito patrimonio dell'UNESCO ospita migliaia di incisioni che risalgono fino a 8000 anni fa e offrono uno sguardo affascinante sulla vita dei nostri antenati.
