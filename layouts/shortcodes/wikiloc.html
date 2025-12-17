@@ -1,0 +1,17 @@
+{{ $id := .Get "id" }}
+{{ $maptype := default "H" (.Get "maptype") }}
+{{ $images := default "on" (.Get "images") }}
+{{ $elevation := default "off" (.Get "elevation") }}
+{{ $width := default "100%" (.Get "width") }}
+{{ $height := default "400" (.Get "height") }}
+
+{{ $subdomain := "en" }}
+{{ if eq .Site.Language.Lang "de" }}
+{{ $subdomain = "de" }}
+{{ else if eq .Site.Language.Lang "it" }}
+{{ $subdomain = "it" }}
+{{ end }}
+
+<iframe frameBorder="0" scrolling="no"
+    src="https://{{ $subdomain }}.wikiloc.com/wikiloc/embedv2.do?id={{ $id }}&elevation={{ $elevation }}&images={{ $images }}&maptype={{ $maptype }}"
+    style="width: {{ $width }}; height: {{ $height }}px; border-radius: var(--radius-md);"></iframe>
