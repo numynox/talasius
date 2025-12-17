@@ -1,6 +1,7 @@
 ---
 title: "Alloggio"
 featureimage: "img/brescia/castle-tower.jpg"
+summary: "Trovate l'alloggio perfetto sul Lago d'Iseo o a Brescia con i nostri consigli e suggerimenti sulla posizione."
 ---
 
 

@@ -9,17 +9,15 @@ featureimage: "img/brescia/castle-tower.jpg"
 summary: "Esplorate Brescia con le sue rovine romane, castelli medievali e musei, e godetevi la cultura e la cucina locale."
 ---
 
-Brescia viene spesso trascurata, ma è una bella città che ha molto da offrire. Ecco una piccola guida ai nostri luoghi preferiti.
-
-![Brescia](img/brescia/castle-cypress.jpg)
+Brescia viene spesso trascurata tra Milano e Venezia, ma è una bella città che ha molto da offrire. Ecco una piccola guida ai nostri luoghi preferiti.
 
 ## Brescia Romana
-Un buon punto di partenza è **Via dei Musei**, dove potete trovare il **Capitolium** e il **Foro Romano**. Questi sono siti patrimonio dell'UNESCO e danno un'idea reale della storia antica della città. All'interno del Capitolium, la statua della Vittoria Alata merita sicuramente una visita.
+Un buon punto di partenza è [**Via dei Musei**](https://www.bresciamusei.com/musei-e-luoghi/parco-archeologico/), dove potete trovare il **Capitolium** e il **Teatro Romano**. Questi siti patrimonio dell'UNESCO danno un'idea reale della storia antica della città, che allora si chiamava _Brixia_. All'interno del Capitolium, la statua della Vittoria Alata merita sicuramente una visita.
 
 ![Capitolium](img/brescia/capitolium.jpg)
 
 ## Il Falcone d'Italia
-Se non vi dispiace camminare un po', il **Castello di Brescia** è un ottimo posto. Conosciuto come il "Falcone d'Italia", si trova su una collina che domina la città. La salita lungo i sentieri tortuosi è piuttosto panoramica e, una volta arrivati in cima, sarete ricompensati con una bella vista sui tetti della città e sui vigneti vicini. È un luogo tranquillo per guardare il tramonto.
+Se non vi dispiace camminare un po', il **Castello di Brescia** è un ottimo posto. Conosciuto come il "Falcone d'Italia", si trova su una collina che domina la città. La salita lungo i sentieri tortuosi è piuttosto panoramica e, una volta arrivati in cima, sarete ricompensati con una bella vista sui tetti della città. Da una delle torri si può godere del tramonto.
 
 ![Castello di Brescia](img/brescia/castle-gate.jpg)
 
@@ -29,7 +27,7 @@ Tornati in centro, potete passeggiare per le piazze principali. **Piazza della L
 ![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
 
 ## Cultura
-Per i musei, consigliamo il **Museo di Santa Giulia**. Ospitato in un antico monastero, racconta la storia della città dall'epoca preromana ai giorni nostri in modo molto coinvolgente.
+Per i musei, consigliamo il [**Museo di Santa Giulia**](https://www.bresciamusei.com/musei-e-luoghi/museo-di-santa-giulia/). Ospitato in un antico monastero, racconta la storia della città dall'epoca preromana ai giorni nostri in modo molto coinvolgente. Inoltre, ci sono mostre di arte moderna.
 
 ![Santa Giulia Museum](img/brescia/santa-giulia.jpg)
 

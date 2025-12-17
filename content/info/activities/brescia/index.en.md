@@ -9,17 +9,15 @@ featureimage: "img/brescia/castle-tower.jpg"
 summary: "Explore Brescia's Roman ruins, medieval castles, and museums, and enjoy its local culture and cuisine."
 ---
 
-Brescia is often overlooked, but it's a lovely city with a lot to offer. Here is a small guide to our favorite places.
-
-![Brescia](img/brescia/castle-cypress.jpg)
+Brescia is often overlooked between Milan and Venice, but it's a lovely city with a lot to offer. Here is a small guide to our favorite places.
 
 ## Roman Brescia
-A good place to start is **Via dei Musei**, where you can find the **Capitolium** and the **Roman Forum**. These are UNESCO World Heritage sites and give you a real sense of the city's ancient history. Inside the Capitolium, the statue of the Winged Victory is definitely worth seeing.
+A good place to start is the [**Via dei Musei**](https://www.bresciamusei.com/en/museums-and-venues/brixia-roman-archaeological-area/), where you can find the **Capitolium** and the **Roman Theatre**. These UNESCO World Heritage sites give you a real sense of the city's ancient history, which was called _Brixia_ back then. Inside the Capitolium, the statue of the Winged Victory is definitely worth seeing.
 
 ![Capitolium](img/brescia/capitolium.jpg)
 
 ## The Falcon of Italy
-If you don't mind a little walk, the **Castello di Brescia** is a great spot. Known as the "Falcon of Italy", it sits on a hill overlooking the town. The walk up winding paths is quite scenic, and once you are there, you are rewarded with a nice view over the city rooftops and the nearby vineyards. It is a peaceful place to watch the sunset.
+If you don't mind a little walk, the **Castello di Brescia** is a great spot. Known as the "Falcon of Italy", it sits on a hill overlooking the town. The walk up winding paths is quite scenic, and once you are there, you are rewarded with a nice view over the city rooftops. You can enjoy the sunset from one of the towers.
 
 ![Castello di Brescia](img/brescia/castle-gate.jpg)
 
@@ -29,7 +27,7 @@ Back in the center, you can stroll through the main squares. **Piazza della Logg
 ![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
 
 ## Culture
-For museums, we recommend the **Santa Giulia Museum**. Housed in an ancient monastery, it tells the story of the city from pre-Roman times to the present day in a very engaging way.
+For museums, we recommend the [**Santa Giulia Museum**](https://www.bresciamusei.com/en/museums-and-venues/santa-giulia-museum/). Housed in an ancient monastery, it tells the story of the city from pre-Roman times to the present day in a very engaging way. Furthermore, there are exhibitions of modern art.
 
 ![Santa Giulia Museum](img/brescia/santa-giulia.jpg)
 

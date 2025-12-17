@@ -1,6 +1,7 @@
 ---
 title: "Unterkunft"
 featureimage: "img/brescia/castle-tower.jpg"
+summary: "Findet die perfekte Unterkunft am Iseosee oder in Brescia mit unseren Empfehlungen und Tipps zur Lage."
 ---
 
 
