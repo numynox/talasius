@@ -14,14 +14,24 @@ Brescia is a great starting point to visit some of Northern Italy's most famous 
 ## Bergamo
 The **Città Alta** (Upper Town) is a medieval jewel surrounded by Venetian walls. Hop on the funicular to get up there and wander through its cobbled streets.
 
+![Bergamo](img/other/bergamo.jpg)
+
 ## Verona
 Famous for **Romeo and Juliet**, but for us, the real highlight is the **Arena**, a remarkably preserved Roman amphitheater still used for opera today.
+
+![Verona](img/other/verona.jpg)
 
 ## Milan
 Italy's fashion and finance capital. Must-sees include the magnificent **Duomo**, the **Galleria Vittorio Emanuele II**, and Leonardo da Vinci's *Last Supper* (remember to book months in advance!).
 
+![Milan](img/other/duomo.jpg)
+
 ## Padova
 Home to one of the world's oldest universities and the **Scrovegni Chapel**, featuring Giotto's masterpiece frescoes.
 
+![Padua](img/other/padova.jpg)
+
 ## Venice
-The unique city on water needs no introduction. Get lost in its canals, visit **St. Mark's Square**, but we recommend exploring the quieter neighborhoods like *Cannaregio* to escape the crowds.
+The unique city on water needs no introduction. Get lost in its canals, visit **St. Mark's Square**, but we recommend exploring the quieter neighborhoods like **Cannaregio** to escape the crowds.
+
+![Venice](img/other/venice2.jpg)
