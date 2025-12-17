@@ -16,6 +16,8 @@ Für unsere Gäste, die aus oder durch Deutschland anreisen, gibt es drei bequem
 
 Um die günstigsten Tickets zu erhalten, empfehlen wir, [DB](https://www.bahn.de/?lang=de), [ÖBB](https://www.oebb.at/) und [Trenitalia](https://www.trenitalia.com/de.html) für alle Verbindungen sowie [SBB](https://www.sbb.ch/) für die Frankfurt-Verbindung zu prüfen. Möglicherweise müsst ihr zwei separate Tickets buchen (z. B. Erlangen nach Verona mit der DB und Verona nach Brescia mit Trenitalia oder Erlangen nach München mit der DB und München nach Brescia mit der ÖBB). Regionalzüge in Italien können über Trenitalia oder direkt am Bahnhof gekauft werden. Sie sind nicht teuer und der Preis ändert sich nicht, wenn sie am Reisetag gekauft werden.
 
+![Brescia](img/brescia/train.jpg)
+
 ## Mit dem Flugzeug
 
 Wenn ihr euch für eine Flugreise entscheidet, schlagen wir einen der folgenden Flughäfen vor.
@@ -25,6 +27,8 @@ Wenn ihr euch für eine Flugreise entscheidet, schlagen wir einen der folgenden 
 *   **Mailand Malpensa (MXP):** Etwa **90 Minuten** von Iseo oder Brescia entfernt, ebenfalls von Standardfluggesellschaften angeflogen, und ihr könnt Milano Centrale mit dem Zug oder Bus in 60 Minuten erreichen. Dies ist logistisch gesehen die am wenigsten komfortable Flughafenoption.
 
 Der Flughafen Verona (VRN) liegt etwa 50 Minuten von Brescia und 70 Minuten von Iseo entfernt, bietet aber meistens nur regionale Flüge an.
+
+![Langenselbold](img/other/flight.jpg)
 
 ## Gemeinsam reisen
 
