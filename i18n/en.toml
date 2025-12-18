@@ -6,3 +6,15 @@ other = "hours"
 
 [minutes]
 other = "minutes"
+
+[hike_start]
+other = "Starting point"
+
+[hike_drive]
+other = "Drive"
+
+[hike_duration]
+other = "Duration"
+
+[hike_ascent]
+other = "Ascent"

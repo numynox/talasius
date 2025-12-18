@@ -12,6 +12,6 @@
 {{ $subdomain = "it" }}
 {{ end }}
 
-<iframe frameBorder="0" scrolling="no"
+<iframe frameBorder="0" scrolling="no" class="wikiloc-embed"
     src="https://{{ $subdomain }}.wikiloc.com/wikiloc/embedv2.do?id={{ $id }}&elevation={{ $elevation }}&images={{ $images }}&maptype={{ $maptype }}"
     style="width: {{ $width }}; height: {{ $height }}px; border-radius: var(--radius-md);"></iframe>

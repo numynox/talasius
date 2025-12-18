@@ -6,3 +6,15 @@ other = "Stunden"
 
 [minutes]
 other = "Minuten"
+
+[hike_start]
+other = "Startpunkt"
+
+[hike_drive]
+other = "Anfahrt"
+
+[hike_duration]
+other = "Dauer"
+
+[hike_ascent]
+other = "Höhenmeter"

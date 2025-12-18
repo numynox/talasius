@@ -12,3 +12,15 @@ part_of_series = "Questo articolo fa parte di una serie."
 part = "Parte"
 this_article = "Questo articolo"
 related_articles = "Articoli correlati"
+
+[hike_start]
+other = "Punto di partenza"
+
+[hike_drive]
+other = "Viaggio"
+
+[hike_duration]
+other = "Durata"
+
+[hike_ascent]
+other = "Dislivello"
