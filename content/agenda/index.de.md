@@ -4,16 +4,17 @@ featureimage: "img/iseo/boats.jpg"
 showTableOfContents: false
 ---
 
-{{< lead >}}
+
 Wir freuen uns darauf, mit euch zu feiern am
-{{< /lead >}}
+
 {{< countdown date="2026-07-11T12:00:00" >}}
 
-{{< lead >}}
 Bitte kommt um 12:00 Uhr zu [El dos del Bec](/content/location/index.de.md).
-{{< /lead >}}
+
 
 Das Ende der Feier ist zwischen 21:00 und 22:00 Uhr geplant, sodass genügend Zeit bleibt, um zu eurem Hotel zurückzukehren.
+
+![Celebrate](img/other/celebrate.jpg)
 
 ## Morgenaktivitäten
 
