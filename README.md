@@ -39,9 +39,3 @@ This will build the site and serve it at `http://localhost:1313/talasius` (or an
 
 *   **Main Configuration**: The main configuration files are located in `config/_default/`.
 *   **Theme**: This site uses the [Blowfish](https://github.com/nunocoracao/blowfish) theme. Theme-specific configuration can be found in `config/_default/params.toml` and other files in that directory.
-
-## Contributing
-
-1.  Create a new branch for your feature or fix.
-2.  Make your changes.
-3.  Submit a Pull Request.

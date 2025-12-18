@@ -34,3 +34,13 @@ name = "Guida turistica"
 parent = "Informazioni Utili"
 pageRef = "info/activities/index.it.md"
 weight = 30
+
+[[footer]]
+name = "Note legali"
+pageRef = "legal/impress"
+weight = 10
+
+[[footer]]
+name = "Privacy"
+pageRef = "legal/privacy"
+weight = 20

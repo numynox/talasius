@@ -34,3 +34,13 @@ name = "Reiseführer"
 parent = "Nützliche Informationen"
 pageRef = "info/activities/index.de.md"
 weight = 30
+
+[[footer]]
+name = "Impressum"
+pageRef = "legal/impress"
+weight = 10
+
+[[footer]]
+name = "Datenschutz"
+pageRef = "legal/privacy"
+weight = 20

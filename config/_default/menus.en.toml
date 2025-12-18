@@ -34,3 +34,13 @@ name = "Travel Guide"
 parent = "Useful Information"
 pageRef = "info/activities/index.en.md"
 weight = 30
+
+[[footer]]
+name = "Legal Notice"
+pageRef = "legal/impress"
+weight = 10
+
+[[footer]]
+name = "Privacy Policy"
+pageRef = "legal/privacy"
+weight = 20
