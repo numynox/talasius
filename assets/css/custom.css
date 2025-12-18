@@ -71,3 +71,11 @@ html.dark .hike-badge-label {
 html.dark .wikiloc-embed {
     filter: brightness(0.8);
 }
+
+img.rounded-full {
+    border: 2px solid black;
+}
+
+html.dark img.rounded-full {
+    border-color: white;
+}
