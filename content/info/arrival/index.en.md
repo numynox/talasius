@@ -20,11 +20,11 @@ To get the cheapest tickets, we recommend checking [DB](https://int.bahn.de/en?d
 
 If you choose to travel by plane, we suggest one of the following airports.
 
-*   **Bergamo Airport (BGY):** Also misleadingly called "Milano Bergamo". It is the closest airport, located about **40 minutes** from Iseo or Brescia. It is served mostly by low-cost airlines like Ryanair. There is a direct airport bus to Brescia ([option 1](https://www.airportbusexpress.it/en-GB/bus-stop-timetable/bresciaautostazione-orioalserio) or [option 2](https://autostradale.it/en/i-nostri-servizi/transfer-aeroportuali/brescia-autostazione-bergamo-orio-al-serio/)).
-*   **Milano Linate (LIN):** About **60 minutes** from Iseo or Brescia. It is served by standard airlines like Lufthansa or Air Dolomiti, and you can easily reach the main train station of Milano Centrale by metro or bus.
-*   **Milano Malpensa (MXP):** About **90 minutes** from Iseo or Brescia, also served by standard airlines, and you can reach Milano Centrale by train or bus in 60 minutes. This is the least comfortable airport option for logistics.
+*   **Bergamo Airport (BGY):** Also misleadingly called "Milan Bergamo". It is the closest airport, located about **40 minutes** by car from Iseo or Brescia. It is served mostly by low-cost airlines like Ryanair. There is a direct airport bus to Brescia ([option 1](https://www.airportbusexpress.it/en-GB/bus-stop-timetable/bresciaautostazione-orioalserio) or [option 2](https://autostradale.it/en/i-nostri-servizi/transfer-aeroportuali/brescia-autostazione-bergamo-orio-al-serio/)).
+*   **Milan Linate (LIN):** About **60 minutes** by car from Iseo or Brescia. It is served by standard airlines like Lufthansa or Air Dolomiti. If you are traveling by public transport, you can easily reach Milano Centrale main station by metro or bus. From there, continue by train to Brescia.
+*   **Milan Malpensa (MXP):** About **90 minutes** by car from Iseo or Brescia, also served by standard airlines. If you are traveling by public transport, you can reach Milano Centrale main station by train or bus in 60 minutes. From there, continue by train to Brescia. This is logistically the least comfortable airport option.
 
-Verona Airport (VRN) is located about 50 minutes from Brescia and 70 minutes from Iseo, but mostly offers only regional flights.
+Verona Airport (VRN) mostly offers regional flights only.
 
 ## Traveling together
 

@@ -20,11 +20,11 @@ Per ottenere i biglietti più economici, consigliamo di controllare [DB](https:/
 
 Se scegliete di viaggiare in aereo, suggeriamo uno dei seguenti aeroporti.
 
-*   **Aeroporto di Bergamo (BGY):** Chiamato anche in modo fuorviante "Milano Bergamo". È l'aeroporto più vicino, situato a circa **40 minuti** da Iseo o Brescia. È servito principalmente da compagnie aeree low-cost come Ryanair. C'è un autobus diretto dall'aeroporto a Brescia ([opzione 1](https://www.airportbusexpress.it/it-IT/orari-aeroportuali/bresciaautostazione-orioalserio) o [opzione 2](https://autostradale.it/i-nostri-servizi/transfer-aeroportuali/brescia-autostazione-bergamo-orio-al-serio/)).
-*   **Milano Linate (LIN):** A circa **60 minuti** da Iseo o Brescia. È servito da compagnie aeree standard come Lufthansa o Air Dolomiti, e potete raggiungere facilmente la stazione centrale di Milano Centrale in metropolitana o autobus.
-*   **Milano Malpensa (MXP):** A circa **90 minuti** da Iseo o Brescia, servito anch'esso da compagnie aeree standard, e potete raggiungere Milano Centrale in treno o autobus in 60 minuti. Questa è l'opzione aeroportuale meno comoda dal punto di vista logistico.
+*   **Aeroporto di Bergamo (BGY):** Chiamato anche in modo fuorviante "Milano Bergamo". È l'aeroporto più vicino, situato a circa **40 minuti** in auto da Iseo o Brescia. È servito principalmente da compagnie aeree low-cost come Ryanair. C'è un autobus diretto dall'aeroporto a Brescia ([Opzione 1](https://www.airportbusexpress.it/it-IT/orari-aeroportuali/bresciaautostazione-orioalserio) o [Opzione 2](https://autostradale.it/i-nostri-servizi/transfer-aeroportuali/brescia-autostazione-bergamo-orio-al-serio/)).
+*   **Milano Linate (LIN):** A circa **60 minuti** in auto da Iseo o Brescia. È servito da compagnie aeree standard come Lufthansa o Air Dolomiti. Se viaggiate con i mezzi pubblici, potete raggiungere facilmente la stazione centrale di Milano Centrale in metropolitana o autobus. Da lì, proseguite in treno per Brescia.
+*   **Milano Malpensa (MXP):** A circa **90 minuti** in auto da Iseo o Brescia, servito anch'esso da compagnie aeree standard. Se viaggiate con i mezzi pubblici, potete raggiungere la stazione centrale di Milano Centrale in treno o autobus in 60 minuti. Da lì, proseguite in treno per Brescia. Questa è l'opzione aeroportuale meno comoda dal punto di vista logistico.
 
-L'Aeroporto di Verona (VRN) si trova a circa 50 minuti da Brescia e 70 minuti da Iseo, ma offre principalmente solo voli regionali.
+L'Aeroporto di Verona (VRN) offre principalmente solo voli regionali.
 
 ## Viaggiare insieme
 
