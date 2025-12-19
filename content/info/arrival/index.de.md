@@ -22,11 +22,11 @@ Um die günstigsten Tickets zu erhalten, empfehlen wir, [DB](https://www.bahn.de
 
 Wenn ihr euch für eine Flugreise entscheidet, schlagen wir einen der folgenden Flughäfen vor.
 
-*   **Flughafen Bergamo (BGY):** Auch irreführend "Mailand Bergamo" genannt. Es ist der nächstgelegene Flughafen, etwa **40 Minuten** von Iseo oder Brescia entfernt. Er wird hauptsächlich von Billigfluggesellschaften wie Ryanair angeflogen. Es gibt einen direkten Flughafenbus nach Brescia ([Option 1](https://www.airportbusexpress.it/en-GB/bus-stop-timetable/bresciaautostazione-orioalserio) oder [Option 2](https://autostradale.it/en/i-nostri-servizi/transfer-aeroportuali/brescia-autostazione-bergamo-orio-al-serio/)).
-*   **Mailand Linate (LIN):** Etwa **60 Minuten** von Iseo oder Brescia entfernt. Er wird von Standardfluggesellschaften wie Lufthansa oder Air Dolomiti angeflogen, und ihr könnt den Hauptbahnhof Milano Centrale leicht mit der U-Bahn oder dem Bus erreichen.
-*   **Mailand Malpensa (MXP):** Etwa **90 Minuten** von Iseo oder Brescia entfernt, ebenfalls von Standardfluggesellschaften angeflogen, und ihr könnt Milano Centrale mit dem Zug oder Bus in 60 Minuten erreichen. Dies ist logistisch gesehen die am wenigsten komfortable Flughafenoption.
+*   **Flughafen Bergamo (BGY):** Auch irreführend "Mailand Bergamo" genannt. Es ist der nächstgelegene Flughafen, etwa **40 Minuten** mit dem Auto von Iseo oder Brescia entfernt. Er wird hauptsächlich von Billigfluggesellschaften wie Ryanair angeflogen. Es gibt einen direkten Flughafenbus nach Brescia ([Option 1](https://www.airportbusexpress.it/en-GB/bus-stop-timetable/bresciaautostazione-orioalserio) oder [Option 2](https://autostradale.it/en/i-nostri-servizi/transfer-aeroportuali/brescia-autostazione-bergamo-orio-al-serio/)).
+*   **Mailand Linate (LIN):** Etwa **60 Minuten** mit dem Auto von Iseo oder Brescia entfernt. Er wird von Standardfluggesellschaften wie Lufthansa oder Air Dolomiti angeflogen. Falls ihr mit dem ÖPNV weiterreist, erreicht ihr den Hauptbahnhof Milano Centrale leicht mit der U-Bahn oder dem Bus. Von dort weiter per Zug nach Brescia.
+*   **Mailand Malpensa (MXP):** Etwa **90 Minuten** mit dem Auto von Iseo oder Brescia entfernt, ebenfalls von Standardfluggesellschaften angeflogen. Falls ihr mit dem ÖPNV weiterreist, erreicht ihr den Hauptbahnhof Milano Centrale mit dem Zug oder Bus in 60 Minuten. Von dort weiter per Zug nach Brescia. Dies ist logistisch gesehen die am wenigsten komfortable Flughafenoption.
 
-Der Flughafen Verona (VRN) liegt etwa 50 Minuten von Brescia und 70 Minuten von Iseo entfernt, bietet aber meistens nur regionale Flüge an.
+Der Flughafen Verona (VRN) bietet meistens nur regionale Flüge an.
 
 ![Langenselbold](img/other/flight.jpg)
 
