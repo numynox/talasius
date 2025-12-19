@@ -30,4 +30,4 @@ There is also a train from Brescia to Toline, but the last connection back is al
 {{< button href="https://www.google.com/maps/dir/?api=1&destination=45.783692,10.0880215" target="_blank" >}}{{< icon "google" >}} Google Maps{{< /button >}} &nbsp;
 {{< button href="https://maps.apple.com/?daddr=45.783692,10.0880215&dirflg=d" target="_blank" >}}{{< icon "apple" >}} Apple Maps{{< /button >}}
 
-{{< osm-map lat="45.72" lon="10.06" maker_lat="45.783692" maker_lon="10.0880215" zoom="11" marker="El Dos del Bec" >}}
+{{< wikiloc id="244166200" height="700" >}}
