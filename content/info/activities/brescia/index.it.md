@@ -24,6 +24,8 @@ Se non vi dispiace passeggiare, il **Castello di Brescia** è un'ottima meta. Co
 ## Centro Città
 Tornati in centro, potete passeggiare per le piazze principali. **Piazza della Loggia** ha una distinta atmosfera veneziana con la sua torre dell'orologio. Vicino, in **Piazza Paolo VI**, troverete il romanico Duomo Vecchio, con un'interessante pianta circolare, e il neoclassico Duomo Nuovo, l'uno accanto all'altro.
 
+Fun fact: il verbo _tartagliare_ ha la sua origine in Brescia. Nel 1512, il matematico Niccolò Tartaglia, allora bambino, fu ferito al labbro mentre  cercava riparo nel Duomo Vecchio.
+
 ![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
 
 ## Cultura
