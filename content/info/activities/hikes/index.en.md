@@ -94,7 +94,7 @@ For a great balcony over the lake, climb **Cima Comer**. It is located near Garg
 {{< hike-badges start="Pregasina" distance="90 min" duration="5 h" ascent="800 m" >}}
 
 
-The hike to **Punta Larici** starts in the tranquil mountain village of Pregasina, which sits high above Lake Garda. From there, a well-maintained, steadily ascending path leads through shady forest sections and Mediterranean vegetation. We took the more exposed path along the ridge instead. Shortly before the end of the forest road you come to Punta Larici: a rocky outcrop that offers one of the most spectacular panoramic views of the region: deep blue water glittering vertically below you, and an unobstructed view of Limone sul Garda and the Monte Baldo massif opposite.
+The hike to **Punta Larici** starts in the quiet mountain village of Pregasina, which sits high above Lake Garda. From there, a well-maintained, steadily ascending path leads through shady forest sections and Mediterranean vegetation. We instead opted for the more exposed path along the ridge. Shortly before the end of the forest road you come to Punta Larici, a rocky outcrop that offers one of the most spectacular panoramic views of the region: deep blue water glittering vertically below you, and an unobstructed view of Limone sul Garda and the Monte Baldo massif opposite.
 
 {{< wikiloc id="244038543" >}}
 
@@ -108,7 +108,7 @@ The hike to **Punta Larici** starts in the tranquil mountain village of Pregasin
 {{< hike-badges start="Baitoni on Lake Idro" distance="70 min" duration="4 h" ascent="250 m" >}}
 
 
-A well-maintained **via ferrata** directly along the shore of Lake Idro. The return path leads back through the forest with some elevation gain. You can get the belt from a nearby cambing. The highlight is a rope bridge over the water.
+A well-maintained **via ferrata** directly along the shore of Lake Idro. The return path leads back through the forest with some elevation gain. The equipment can be rented from a camping near the start of the path. The highlight is a rope bridge over the water.
 
 {{< wikiloc id="244035671" >}}
 
@@ -126,6 +126,6 @@ A simple but long hike starting from the Maniva ski area to Corna Blacca.
 {{< hike-badges start="Inzino" distance="30 min" duration="5 h" ascent="800 m" >}}
 
 
-A hike that is particularly recommended in high summer through the shady valley of Inzino up to Croce di Marone, where the hike to Monte Guglielmo also begins.
+A hike that is particularly recommended in high summer through the shady valley of Inzino (also knowm as cold valley) up to Croce di Marone, where the hike to Monte Guglielmo also begins.
 
 {{< wikiloc id="244035271" >}}
