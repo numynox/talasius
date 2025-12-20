@@ -5,15 +5,9 @@ layout: "simple"
 
 ## Information pursuant to § 5 TMG
 
-Jannis Dickmann
-
-## Contact
-
-E-Mail: jannis.dickmann@gmail.com
-
-## Responsible for content
-
-Jannis Dickmann
+Responsible for content<br>
+Jannis Dickmann & Giulia Buizza<br>
+jannis.dickmann+numynox@gmail.com
 
 ## EU Dispute Resolution
 
