@@ -18,12 +18,13 @@ A good place to start is the [**Via dei Musei**](https://www.bresciamusei.com/en
 ![Capitolium](img/brescia/capitolium.jpg)
 
 ## The Falcon of Italy
-If you don't mind a little walk, the **Castello di Brescia** is a great spot. Known as the "Falcon of Italy", it sits on a hill overlooking the town. The walk up winding paths is quite scenic, and once you are there, you are rewarded with a nice view over the city rooftops. You can enjoy the sunset from one of the towers.
+If you don't mind a little walk, the **Castello di Brescia** is a great spot. Known as the "Falcon of Italy", it sits on a hill overlooking the town. The walk up winding paths is quite scenic, and once you are there, you are rewarded with a nice view over the city rooftops. You can enjoy the sunset from one of the towers. The way up can be shortened, as car parking is available right in front of the pedestrian access.
+
 
 ![Castello di Brescia](img/brescia/castle-gate.jpg)
 
 ## City Center
-Back in the center, you can stroll through the main squares. **Piazza della Loggia** has a distinct Venetian feel with its clock tower. Nearby at **Piazza Paolo VI**, you'll find something quite unique: the Old and the New Duomo standing side by side.
+Back in the center, you can stroll through the main squares. **Piazza della Loggia** has a distinct Venetian feel with its clock tower. Nearby at **Piazza Paolo VI**, you'll find something quite unique: the Old romanic Duomo, with an atypical circular outline, and the neoclassic New Duomo standing side by side.
 
 ![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
 
