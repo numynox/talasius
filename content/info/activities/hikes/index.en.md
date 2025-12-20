@@ -9,9 +9,9 @@ featureimage: "img/garda/view.jpg"
 summary: "Discover our favorite hikes around Lake Iseo and Lake Garda for breathtaking views."
 ---
 
-If you like hiking, you've come to the right place. Here are our favorite trails around the lakes.
+If you like hiking, you are in the right place. Here are our favorite trails around the lakes.
 
-> **Important Note:** some of the hikes presented here are demanding and involve alpine hazards. Please assess your abilities realistically and feel free to contact us directly if you have questions about a specific tour.
+> **Important Note:** some of the hikes are demanding and involve alpine hazards. Please assess your abilities realistically and feel free to ask us directly if you have questions about a specific tour.
 
 ## Lake Iseo
 
@@ -22,9 +22,9 @@ If you like hiking, you've come to the right place. Here are our favorite trails
 {{< hike-badges start="Zone" distance="40 min" duration="3.5 h" ascent="600 m" >}}
 
 
-For the best view of Lake Iseo, you absolutely must go up **Corna Trentapassi**. It's a steep climb, but believe us, the 360-degree panorama from the summit is absolutely worth it. You have the whole lake and Monte Isola laid out before you. Plus, you can see our wedding venue from above. The southern part of the circular hike leads along an exposed path. If this is not for you, the northern part can also be taken on the way there and back.
+For one of the best views of Lake Iseo, you must go up **Corna Trentapassi**. It's a steep climb, but the 360-degree panorama from the summit is worth it. You have the whole lake and Monte Isola laid out before you. Plus, you can see El dos del Bec from above. The southern part of the circular hike leads along an exposed path. If this is not for you, the northern part can also be taken on the way there and back.
 
-*Tip: You can combine this hike with a walk to the [Piramidi di Zone](../iseo) – impressive earth pyramids that are really something special.*
+*Tip: You can combine this hike with a walk to the [Piramidi di Zone](../iseo) – impressive earth pyramids created by the combination of rocks of different materials and erosion.*
 
 {{< wikiloc id="244033705" >}}
 
@@ -33,7 +33,7 @@ For the best view of Lake Iseo, you absolutely must go up **Corna Trentapassi**.
 {{< hike-badges start="Croce di Marone" distance="60 min" duration="5 h" ascent="800 m" >}}
 
 
-The giant of the lake. **Monte Guglielmo** (or "Gölem", as the locals say) is a long but rewarding hike. On clear days you can see as far as the Apennines.
+The giant of the lake. **Monte Guglielmo** (or _Gölem_, as the locals call it) is a long but rewarding hike. On clear days you can see as far as the Apennines.
 
 {{< wikiloc id="244035696" >}}
 
@@ -108,7 +108,7 @@ The hike to **Punta Larici** starts in the tranquil mountain village of Pregasin
 {{< hike-badges start="Baitoni on Lake Idro" distance="70 min" duration="4 h" ascent="250 m" >}}
 
 
-A well-maintained **via ferrata** directly along the shore of Lake Idro. The return path leads back through the forest with some elevation gain. The highlight is a rope bridge over the water.
+A well-maintained **via ferrata** directly along the shore of Lake Idro. The return path leads back through the forest with some elevation gain. You can get the belt from a nearby cambing. The highlight is a rope bridge over the water.
 
 {{< wikiloc id="244035671" >}}
 
