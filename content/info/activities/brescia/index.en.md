@@ -12,7 +12,8 @@ summary: "Explore Brescia's Roman ruins, medieval castles, and museums, and enjo
 Brescia is often overlooked, sitting between Milan and Venice, but the Lioness of Italy is a lovely city with a lot to offer. Here is a small guide to our favorite places.
 
 ## Roman Brescia
-A good place to start is the [**Via dei Musei**](https://www.bresciamusei.com/en/museums-and-venues/brixia-roman-archaeological-area/), where you can find the **Capitolium** and the **Roman Theatre**. These sites brought the UNESCO World Heritage acknowledgement to the city and give you a sense of the city's ancient history, which was called _Brixia_ back then. Inside the Capitolium, the statue of the Winged Victory is definitely worth seeing.
+A good place to start is the [**Via dei Musei**](https://www.bresciamusei.com/en/museums-and-venues/brixia-roman-archaeological-area/), where you can find the **Capitolium**, the **Roman Theatre** and the **Santa Giulia Museum**. These sites brought the UNESCO World Heritage acknowledgement to the city and give you a sense of the city's ancient history, which was called _Brixia_ back then. A visit to the Roman ruins is definitely worth seeing.
+
 
 ![Capitolium](img/brescia/capitolium.jpg)
 
