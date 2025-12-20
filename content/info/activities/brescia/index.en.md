@@ -12,7 +12,7 @@ summary: "Explore Brescia's Roman ruins, medieval castles, and museums, and enjo
 Brescia is often overlooked, as it sits between Milan and Venice, but the Lioness of Italy is a lovely city with a lot to offer. Here is a small guide to our favorite places.
 
 ## Roman Brescia
-A good place to start is the [**Via dei Musei**](https://www.bresciamusei.com/en/museums-and-venues/brixia-roman-archaeological-area/), where you can find the **Capitolium**, the **Roman Theatre** and the **Santa Giulia Museum**. These sites brought the UNESCO World Heritage acknowledgement to the city and give you a sense of the city's ancient history, which was called _Brixia_ back then. A visit to the Roman ruins is definitely worth considering.
+A good place to start is the [**Via dei Musei**](https://www.bresciamusei.com/en/museums-and-venues/brixia-roman-archaeological-area/), where you can find the **Capitolium**, the **Roman Theatre** and the **Santa Giulia Museum**. These sites brought the UNESCO World Heritage acknowledgement to the city. The Roman ruins give you a sense of the city's ancient history, which was called _Brixia_ back then.
 
 
 ![Capitolium](img/brescia/capitolium.jpg)
@@ -29,7 +29,7 @@ Back in the center, you can stroll through the main squares. **Piazza della Logg
 ![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
 
 ## Culture
-For museums, we recommend the [**Santa Giulia Museum**](https://www.bresciamusei.com/en/museums-and-venues/santa-giulia-museum/). Housed in a monastery, it tells the story of the city from pre-Roman times to the present day, with exhibitios changing every year. The mosaics of an old Roman house and the treasure of the Langobards are probably the highlight of the permanent exhibit.
+For museums, we recommend the [**Santa Giulia Museum**](https://www.bresciamusei.com/en/museums-and-venues/santa-giulia-museum/). Housed in a monastery, it tells the story of the city from pre-Roman times to the present day, with exhibitios changing every year. The mosaics of an old Roman house (Domus Ortaglia) and the treasure of the Langobards are probably the highlight of the permanent exhibit.
 
 ![Santa Giulia Museum](img/brescia/santa-giulia.jpg)
 
