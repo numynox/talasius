@@ -9,10 +9,10 @@ featureimage: "img/brescia/castle-tower.jpg"
 summary: "Explore Brescia's Roman ruins, medieval castles, and museums, and enjoy its local culture and cuisine."
 ---
 
-Brescia is often overlooked, sitting between Milan and Venice, but the Lioness of Italy is a lovely city with a lot to offer. Here is a small guide to our favorite places.
+Brescia is often overlooked, as it sits between Milan and Venice, but the Lioness of Italy is a lovely city with a lot to offer. Here is a small guide to our favorite places.
 
 ## Roman Brescia
-A good place to start is the [**Via dei Musei**](https://www.bresciamusei.com/en/museums-and-venues/brixia-roman-archaeological-area/), where you can find the **Capitolium**, the **Roman Theatre** and the **Santa Giulia Museum**. These sites brought the UNESCO World Heritage acknowledgement to the city and give you a sense of the city's ancient history, which was called _Brixia_ back then. A visit to the Roman ruins is definitely worth seeing.
+A good place to start is the [**Via dei Musei**](https://www.bresciamusei.com/en/museums-and-venues/brixia-roman-archaeological-area/), where you can find the **Capitolium**, the **Roman Theatre** and the **Santa Giulia Museum**. These sites brought the UNESCO World Heritage acknowledgement to the city. The Roman ruins give you a sense of the city's ancient history, which was called _Brixia_ back then.
 
 
 ![Capitolium](img/brescia/capitolium.jpg)
@@ -31,11 +31,11 @@ Fun fact: the Italian word for _stutter_ (tartagliare) was born in Brescia. In 1
 ![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
 
 ## Culture
-For museums, we recommend the [**Santa Giulia Museum**](https://www.bresciamusei.com/en/museums-and-venues/santa-giulia-museum/). Housed in a monastery, it tells the story of the city from pre-Roman times to the present day, with exhibitios changing every year. The mosaics of an old Roman house and the treasure of the Langobards are probably the highlight of the permanent exhibit.
+For museums, we recommend the [**Santa Giulia Museum**](https://www.bresciamusei.com/en/museums-and-venues/santa-giulia-museum/). Housed in a monastery, it tells the story of the city from pre-Roman times to the present day. The mosaics of an old Roman house (Domus Ortaglia) and the treasure of the Langobards are probably the highlight of the permanent exhibit. The museum also hosts changing art exhibitions.
 
 ![Santa Giulia Museum](img/brescia/santa-giulia.jpg)
 
 ## Essential Tip
-When you want to take an afternoon break, try a **Pirlo**. It's the local version of the Spritz, but typically made with still white wine. Just find a table at a bar in one of the squares and enjoy the atmosphere. Pirlo can be understood as 'curl', which can be seen when the Aperol or acampari get poured in the glass, or 'fall', which can be seen when someone enjoys it too much.
+When you want to take an afternoon break, try a **Pirlo**. It's the local version of the Spritz, but typically made with still white wine. Just find a table at a bar in one of the squares and enjoy the atmosphere. The word Pirlo translates to _curl_ (when the Campari gets poured in the glass) or to _fall_ (when someone enjoys too much of it).
 
 ![Pirlo](img/brescia/pirlo.jpg)
