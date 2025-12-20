@@ -12,7 +12,7 @@ summary: "Brescia è la base perfetta per esplorare alcune delle città più fam
 Brescia è un ottimo punto di partenza per visitare alcune delle città più famose del Nord Italia. Tutte sono facilmente raggiungibili in treno.
 
 ## Bergamo
-La **Città Alta** è un gioiello medievale circondato da mura venete. Prendete la funicolare per salire e passeggiate per le sue stradine acciottolate. Non lasciatevi tentare dall'eretica **Polenta e Osei* in version dolce ;)
+La **Città Alta** è un gioiello medievale circondato da mura venete. Prendete la funicolare per salire e passeggiate per le sue stradine acciottolate. Non lasciatevi tentare dall'eretica *Polenta e Osei* in version dolce ;)
 
 ![Bergamo](img/other/bergamo.jpg)
 
