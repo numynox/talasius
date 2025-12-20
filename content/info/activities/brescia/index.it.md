@@ -32,7 +32,6 @@ Per i musei, consigliamo il [**Museo di Santa Giulia**](https://www.bresciamusei
 ![Santa Giulia Museum](img/brescia/santa-giulia.jpg)
 
 ## Consiglio Essenziale
-Quando volete fare una pausa pomeridiana, provate un **Pirlo**. È la versione locale dello Spritz, ma tipicamente fatta con vino bianco fermo. Trovate un tavolo in un bar in una delle piazze e godetevi l'atmosfera. Pirlo può essere tradotto con 'ricciolo',
-visibile nel bicchiere quando l'Aperol o il Campari vengono versati, o 'caduta', visibile quando qualcuno ne assaggia troppo.
+Quando volete fare una pausa pomeridiana, provate un **Pirlo**. È la versione locale dello Spritz, ma tipicamente fatta con vino bianco fermo. Trovate un tavolo in un bar in una delle piazze e godetevi l'atmosfera. La parola Pirlo si traduce con _ricciolo_ (quando si versa il Campari nel bicchiere), o _caduta_ (quando qualcuno ne ha bevuto troppo).
 
 ![Pirlo](img/brescia/pirlo.jpg)
