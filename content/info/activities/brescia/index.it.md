@@ -17,7 +17,7 @@ Un buon punto di partenza è [**Via dei Musei**](https://www.bresciamusei.com/mu
 ![Capitolium](img/brescia/capitolium.jpg)
 
 ## Il Falcone d'Italia
-Se non vi dispiace passeggiare, il **Castello di Brescia** è un'ottima metà. Conosciuto come il "Falcone d'Italia", si trova su una collina che domina la città. La salita è piuttosto panoramica e, una volta arrivati in cima, sarete ricompensati con una bella vista sui tetti della città. Da una delle torri si può godere del tramonto. La salita può essere accorciata, arrivando in auto al parcheggio antistante l'entrata pedonale al castello.
+Se non vi dispiace passeggiare, il **Castello di Brescia** è un'ottima meta. Conosciuto come il "Falcone d'Italia", si trova su una collina che domina la città. La salita è piuttosto panoramica e, una volta arrivati in cima, sarete ricompensati con una bella vista sui tetti della città. Da una delle torri si può godere del tramonto. La salita può essere accorciata, arrivando in auto al parcheggio antistante l'entrata pedonale al castello.
 
 ![Castello di Brescia](img/brescia/castle-gate.jpg)
 
@@ -32,6 +32,7 @@ Per i musei, consigliamo il [**Museo di Santa Giulia**](https://www.bresciamusei
 ![Santa Giulia Museum](img/brescia/santa-giulia.jpg)
 
 ## Consiglio Essenziale
-Quando volete fare una pausa pomeridiana, provate un **Pirlo**. È la versione locale dello Spritz, ma tipicamente fatta con vino bianco fermo. Trovate un tavolo in un bar in una delle piazze e godetevi l'atmosfera. Pirlo può essere tradotto con ricciolo (visibile quando l'aperol o il Campari sono versati nel bicchiere) o caduta ('ho fatto un pirlo' diventa 'sono caduto').
+Quando volete fare una pausa pomeridiana, provate un **Pirlo**. È la versione locale dello Spritz, ma tipicamente fatta con vino bianco fermo. Trovate un tavolo in un bar in una delle piazze e godetevi l'atmosfera. Pirlo può essere tradotto con 'ricciolo',
+visibile nel bicchiere quando l'Aperol o il Campari vengono versati, o 'caduta', visibile quando qualcuno ne assaggia troppo.
 
 ![Pirlo](img/brescia/pirlo.jpg)
