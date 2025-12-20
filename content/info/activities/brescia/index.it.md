@@ -29,7 +29,7 @@ Fun fact: il verbo _tartagliare_ ha una relazione speciale con Brescia. Nel 1512
 ![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
 
 ## Cultura
-Per i musei, consigliamo il [**Museo di Santa Giulia**](https://www.bresciamusei.com/musei-e-luoghi/museo-di-santa-giulia/). Ospitato in un monastero, racconta la storia della città dall'epoca preromana ai giorni nostri, con (solitamente) interessanti mostre temporanee. I mosaici della domus romana e il tesoro dei Longobardi sono probabilmente i punti forti della mostra permanente.
+Per i musei, consigliamo il [**Museo di Santa Giulia**](https://www.bresciamusei.com/musei-e-luoghi/museo-di-santa-giulia/). Ospitato in un monastero, racconta la storia della città dall'epoca preromana ai giorni nostri, con (solitamente) interessanti mostre temporanee. I mosaici della domus romana e il tesoro dei Longobardi sono probabilmente i punti forti della mostra permanente. Il museo ospita anche mostre annuali di tutte le età.
 
 ![Santa Giulia Museum](img/brescia/santa-giulia.jpg)
 
