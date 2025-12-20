@@ -24,6 +24,8 @@ Wenn euch ein kleiner Spaziergang nichts ausmacht, ist das **Castello di Brescia
 ## Stadtzentrum
 Zurück im Zentrum könnt ihr durch die Hauptplätze schlendern. Die **Piazza della Loggia** hat mit ihrem Uhrturm ein deutlich venezianisches Flair. Ganz in der Nähe, an der **Piazza Paolo VI**, findet ihr etwas ziemlich Einzigartiges: den romanischen Alten und den neoklassischen Neuen Dom, die direkt nebeneinander stehen. Der Alte Dom hat einen besonderen, runden Grundriss.
 
+Fun fact: Das italienische Wort für _stottern_ (tartagliare) wurde in Brescia erfunden. Der Mathematiker Niccolò Tartaglia wurde 1512 als Kind im Alten Dom mit einem Messer an der Lippe verletzt. Neben seinem Sprachfehler ist er aber auch für das [Pascalsche Dreieck](https://de.wikipedia.org/wiki/Niccol%C3%B2_Tartaglia) bekannt.
+
 ![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
 
 ## Kultur
