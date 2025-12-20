@@ -9,9 +9,9 @@ featureimage: "img/garda/view.jpg"
 summary: "Scoprite le nostre escursioni preferite intorno al Lago d'Iseo e al Lago di Garda per panorami mozzafiato."
 ---
 
-Se vi piace camminare, siete nel posto giusto. Ecco i nostri sentieri preferiti intorno ai laghi.
+Se vi piace camminare, siete nel posto giusto. Ecco i nostri sentieri preferiti con vista sui laghi.
 
-> **Nota importante:** alcune delle escursioni qui presentate sono impegnative e comportano rischi alpini. Valutate realisticamente le vostre capacità e non esitate a contattarci direttamente se avete domande su un tour specifico.
+> **Nota importante:** alcune delle escursioni sono impegnative e richiedono esperienza. Valutate realisticamente le vostre capacità e non esitate a contattarci direttamente se avete domande su un tour specifico.
 
 ## Lago d'Iseo
 
