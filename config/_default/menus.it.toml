@@ -1,39 +1,63 @@
 [[main]]
-name = "Home"
-pageRef = "_index.it.md"
-weight = 10
-
-[[main]]
 name = "Dove"
 pageRef = "location/index.it.md"
-weight = 20
+weight = 10
 
 [[main]]
 name = "Quando"
 pageRef = "agenda/index.it.md"
-weight = 30
-
-[[main]]
-name = "Informazioni Utili"
-weight = 40
-
-[[main]]
-name = "Arrivo"
-parent = "Informazioni Utili"
-pageRef = "info/arrival/index.it.md"
-weight = 10
-
-[[main]]
-name = "Alloggio"
-parent = "Informazioni Utili"
-pageRef = "info/accommodation/index.it.md"
 weight = 20
 
 [[main]]
-name = "Guida turistica"
-parent = "Informazioni Utili"
-pageRef = "info/activities/index.it.md"
+name = "Arrivo"
+pageRef = "info/arrival/index.it.md"
 weight = 30
+
+[[main]]
+name = "Alloggio"
+pageRef = "info/accommodation/index.it.md"
+weight = 40
+
+[[main]]
+name = "Guida turistica"
+pageRef = "info/activities/index.it.md"
+weight = 50
+
+[[main]]
+name = "Visits turistica a Brescia"
+parent = "Guida turistica"
+pageRef = "info/activities/brescia/index.it.md"
+weight = 10
+
+[[main]]
+name = "Escursionismo"
+parent = "Guida turistica"
+pageRef = "info/activities/hikes/index.it.md"
+weight = 20
+
+[[main]]
+name = "Lago d'Iseo"
+parent = "Guida turistica"
+pageRef = "info/activities/iseo/index.it.md"
+weight = 30
+
+[[main]]
+name = "Lago di Garda"
+parent = "Guida turistica"
+pageRef = "info/activities/garda/index.it.md"
+weight = 40
+
+[[main]]
+name = "Città"
+parent = "Guida turistica"
+pageRef = "info/activities/cities/index.it.md"
+weight = 50
+
+[[main]]
+name = "Cantine"
+parent = "Guida turistica"
+pageRef = "info/activities/wine/index.it.md"
+weight = 60
 
 [[footer]]
 name = "Note legali"
