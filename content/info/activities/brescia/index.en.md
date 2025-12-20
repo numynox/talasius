@@ -26,6 +26,8 @@ If you don't mind a little walk, the **Castello di Brescia** is a great spot. Kn
 ## City Center
 Back in the center, you can stroll through the main squares. **Piazza della Loggia** has a distinct Venetian feel with its clock tower. Nearby at **Piazza Paolo VI**, you'll find something quite unique: the Old romanic Duomo, with an atypical circular outline, and the neoclassic New Duomo standing side by side.
 
+Fun fact: the Italian word for _stutter_ (tartagliare) was born in Brescia. In 1512, the mathematician Niccolò Tartaglia was hurt on his lip with a knife in the Old Duomo. Besides his speech impediment, he is also known for [Pascal's triangle](https://de.wikipedia.org/wiki/Niccol%C3%B2_Tartaglia).
+
 ![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
 
 ## Culture
