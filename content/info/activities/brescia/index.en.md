@@ -34,6 +34,6 @@ For museums, we recommend the [**Santa Giulia Museum**](https://www.bresciamusei
 ![Santa Giulia Museum](img/brescia/santa-giulia.jpg)
 
 ## Essential Tip
-When you want to take an afternoon break, try a **Pirlo**. It's the local version of the Spritz, but typically made with still white wine. Just find a table at a bar in one of the squares and enjoy the atmosphere. Pirlo can be understood as 'curl', which can be seen when the Campari get poured in the glass, or 'fall', which can be seen when someone enjoys it too much.
+When you want to take an afternoon break, try a **Pirlo**. It's the local version of the Spritz, but typically made with still white wine. Just find a table at a bar in one of the squares and enjoy the atmosphere. The word Pirlo translates to _curl_ (when the Campari gets poured in the glass) or to _fall_ (when someone enjoys too much of it).
 
 ![Pirlo](img/brescia/pirlo.jpg)
