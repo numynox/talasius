@@ -9,7 +9,7 @@ featureimage: "img/brescia/castle-tower.jpg"
 summary: "Esplorate Brescia con le sue rovine romane, un castello medievale, musei, e godetevi la cultura e la cucina locale."
 ---
 
-Brescia viene spesso trascurata tra Milano e Venezia, ma è una bella città che offre varie possibilità. Ecco una piccola guida ai nostri luoghi preferiti.
+Brescia viene spesso trascurata, essendo tra Milano e Venezia, ma la Leonessa d'Italia offre diverse attività. Ecco una piccola guida ai nostri luoghi preferiti.
 
 ## Brescia Romana
 Un buon punto di partenza è [**Via dei Musei**](https://www.bresciamusei.com/musei-e-luoghi/parco-archeologico/), dove potete trovare il **Capitolium**, il **Teatro Romano** e il **Museo di Santa Giulia**. Questi siti hanno contribuito a rendere Brescia patrimonio dell'UNESCO e danno un'idea della storia antica della città, che ai tempi si chiamava _Brixia_. Una visita ai resti romani e ai tesori dei Longobardi merita di essere considerata.
