@@ -12,7 +12,7 @@ summary: "Esplorate Brescia con le sue rovine romane, un castello medievale, mus
 Brescia viene spesso trascurata, essendo tra Milano e Venezia, ma la Leonessa d'Italia offre diverse attività. Ecco una breve guida ai nostri luoghi preferiti.
 
 ## Brescia Romana
-Un buon punto di partenza è [**Via dei Musei**](https://www.bresciamusei.com/musei-e-luoghi/parco-archeologico/), dove potete trovare il **Capitolium**, il **Teatro Romano** e il **Museo di Santa Giulia**. Questi siti hanno contribuito a rendere Brescia patrimonio dell'UNESCO e danno un'idea della storia antica della città, che ai tempi si chiamava _Brixia_. Una visita ai resti romani e ai tesori dei Longobardi merita di essere considerata.
+Un buon punto di partenza è [**Via dei Musei**](https://www.bresciamusei.com/musei-e-luoghi/parco-archeologico/), dove potete trovare il **Capitolium**, il **Teatro Romano** e il **Museo di Santa Giulia**. Questi siti hanno contribuito a rendere Brescia patrimonio dell'UNESCO e danno un'idea della storia antica della città, che ai tempi si chiamava _Brixia_. Una visita ai resti romani merita di essere considerata.
 
 ![Capitolium](img/brescia/capitolium.jpg)
 
