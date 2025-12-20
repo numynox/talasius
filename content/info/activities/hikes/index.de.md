@@ -108,7 +108,7 @@ Die Wanderung zur **Punta Larici** startet im beschaulichen Bergdorf Pregasina, 
 {{< hike-badges start="Baitoni am Idrosee" distance="70 min" duration="4 h" ascent="250 m" >}}
 
 
-Ein gut gepflegter **Klettersteig** direkt entlang des Ufers des Idrosees. Der Rückweg führt mit einigen Höhenmetern zurück durch den Wald. Das Highlight ist eine Seilbrücke über das Wasser.
+Ein gut gepflegter **Klettersteig** direkt entlang des Ufers des Idrosees. Der Rückweg führt mit einigen Höhenmetern zurück durch den Wald. Das Highlight ist eine Seilbrücke über das Wasser. Die Klettersteigausrüstung kann beim Campingplatz am Startpunkt geliehen werden.
 
 {{< wikiloc id="244035671" >}}
 
