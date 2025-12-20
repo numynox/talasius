@@ -108,7 +108,7 @@ The hike to **Punta Larici** starts in the tranquil mountain village of Pregasin
 {{< hike-badges start="Baitoni on Lake Idro" distance="70 min" duration="4 h" ascent="250 m" >}}
 
 
-A well-maintained **via ferrata** directly along the shore of Lake Idro. The return path leads back through the forest with some elevation gain. The highlight is a rope bridge over the water.
+A well-maintained **via ferrata** directly along the shore of Lake Idro. The return path leads back through the forest with some elevation gain. The highlight is a rope bridge over the water. Equipment for the via ferrata can be rented at the campground near the start.
 
 {{< wikiloc id="244035671" >}}
 
