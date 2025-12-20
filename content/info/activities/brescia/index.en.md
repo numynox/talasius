@@ -29,7 +29,7 @@ Back in the center, you can stroll through the main squares. **Piazza della Logg
 ![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
 
 ## Culture
-For museums, we recommend the [**Santa Giulia Museum**](https://www.bresciamusei.com/en/museums-and-venues/santa-giulia-museum/). Housed in a monastery, it tells the story of the city from pre-Roman times to the present day, with exhibitios changing every year. The mosaics of an old Roman house (Domus Ortaglia) and the treasure of the Langobards are probably the highlight of the permanent exhibit.
+For museums, we recommend the [**Santa Giulia Museum**](https://www.bresciamusei.com/en/museums-and-venues/santa-giulia-museum/). Housed in a monastery, it tells the story of the city from pre-Roman times to the present day. The mosaics of an old Roman house (Domus Ortaglia) and the treasure of the Langobards are probably the highlight of the permanent exhibit. The museum also hosts a changing exhibition.
 
 ![Santa Giulia Museum](img/brescia/santa-giulia.jpg)
 
