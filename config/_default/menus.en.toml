@@ -1,39 +1,63 @@
 [[main]]
-name = "Home"
-pageRef = "_index.en.md"
-weight = 10
-
-[[main]]
 name = "Where"
 pageRef = "location/index.en.md"
-weight = 20
+weight = 10
 
 [[main]]
 name = "When"
 pageRef = "agenda/index.en.md"
-weight = 30
-
-[[main]]
-name = "Useful Information"
-weight = 40
-
-[[main]]
-name = "Arrival"
-parent = "Useful Information"
-pageRef = "info/arrival/index.en.md"
-weight = 10
-
-[[main]]
-name = "Accommodation"
-parent = "Useful Information"
-pageRef = "info/accommodation/index.en.md"
 weight = 20
 
 [[main]]
-name = "Travel Guide"
-parent = "Useful Information"
-pageRef = "info/activities/index.en.md"
+name = "Arrival"
+pageRef = "info/arrival/index.en.md"
 weight = 30
+
+[[main]]
+name = "Accommodation"
+pageRef = "info/accommodation/index.en.md"
+weight = 40
+
+[[main]]
+name = "Travel Guide"
+pageRef = "info/activities/index.de.md"
+weight = 50
+
+[[main]]
+name = "Sightseeing in Brescia"
+parent = "Travel Guide"
+pageRef = "info/activities/brescia/index.en.md"
+weight = 10
+
+[[main]]
+name = "Hiking"
+parent = "Travel Guide"
+pageRef = "info/activities/hikes/index.en.md"
+weight = 20
+
+[[main]]
+name = "Lake Iseo"
+parent = "Travel Guide"
+pageRef = "info/activities/iseo/index.en.md"
+weight = 30
+
+[[main]]
+name = "Lake Garda"
+parent = "Travel Guide"
+pageRef = "info/activities/garda/index.en.md"
+weight = 40
+
+[[main]]
+name = "Cities"
+parent = "Travel Guide"
+pageRef = "info/activities/cities/index.en.md"
+weight = 50
+
+[[main]]
+name = "Wineries"
+parent = "Travel Guide"
+pageRef = "info/activities/wine/index.en.md"
+weight = 60
 
 [[footer]]
 name = "Legal Notice"
