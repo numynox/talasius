@@ -48,7 +48,7 @@ Eine fantastische Gratwanderung. Die **Punta Almana** bietet spektakuläre Ausbl
 
 ### Monte Isola
 
-{{< hike-badges start="Peschiera Maraglio" distance="30 min" duration="34 h" ascent="450 m" >}}
+{{< hike-badges start="Peschiera Maraglio" distance="30 min" duration="4 h" ascent="450 m" >}}
 
 
 Eine einfache, teils steile aber lohnende Wanderung auf den Gipfel der Monte Isola mitten im Iseosee. Dort befindet sich eine kleine Kirche, von der ihr auf die den See umgebenden Gipfel blicken könnt.
