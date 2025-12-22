@@ -65,7 +65,7 @@ Eine einfache, teils steile aber lohnende Wanderung auf den Gipfel der Monte Iso
 {{< hike-badges start="Campione del Garda | Tignale" distance="60 min" duration="6.5 h | 3 h" ascent="1000 m | 300 m" >}}
 
 
-Der **Monte Cas** bietet einen Tiefblick auf die Wallfahrtskirche Montecastello und den See tief unten. Es fühlt sich an, als würdet ihr über dem Wasser fliegen. In der Nähe des Gipfels kann man Tunnel von Verteidigungsanlagen des ersten Weltkrieges begehen. Wir sind direkt am See in Campionde del Garda gestartet und sind nach einem lohnenden Umweg über Cadignano wieder abgestiegen. Eine deutlich einfachere Variante startet in Tignale zur Wallfahrtskirche und führt nach dem Gipfel über Prabione zurück zum Ausgangspunkt.
+Der **Monte Cas** bietet einen Tiefblick auf die Wallfahrtskirche Montecastello und den See tief unten. Es fühlt sich an, als würdet ihr über dem Wasser fliegen. In der Nähe des Gipfels kann man Tunnel von Verteidigungsanlagen des ersten Weltkrieges begehen. Wir sind direkt am See in Campione del Garda gestartet und sind nach einem lohnenden Umweg über Cadignano wieder abgestiegen. Eine deutlich einfachere Variante startet in Tignale zur Wallfahrtskirche und führt nach dem Gipfel über Prabione zurück zum Ausgangspunkt.
 
 {{< wikiloc id="244035710" >}}
 
