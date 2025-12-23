@@ -1,5 +1,5 @@
 ---
-title: "Sightseeing in Brescia"
+title: "Brescia"
 date: 2023-11-20T10:00:00+01:00
 draft: false
 weight: 10
@@ -22,9 +22,13 @@ Wenn euch ein kleiner Spaziergang nichts ausmacht, ist das **Castello di Brescia
 ## Stadtzentrum
 Zurück im Zentrum könnt ihr durch die Hauptplätze schlendern. Die **Piazza della Loggia** hat mit ihrem Uhrturm ein deutlich venezianisches Flair. Ganz in der Nähe, an der **Piazza Paolo VI**, findet ihr etwas ziemlich Einzigartiges: den romanischen Alten und den neoklassischen Neuen Dom, die direkt nebeneinander stehen. Der Alte Dom hat einen besonderen, runden Grundriss.
 
+![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
+
 Fun fact: Das italienische Wort für _stottern_ (tartagliare) wurde in Brescia erfunden. Der Mathematiker Niccolò Tartaglia wurde 1512 als Kind im Alten Dom mit einem Messer an der Lippe verletzt. Neben seinem Sprachfehler ist er aber auch für das [Pascalsche Dreieck](https://de.wikipedia.org/wiki/Niccol%C3%B2_Tartaglia) bekannt.
 
-![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
+![Duomo](img/brescia/duomo.jpg)
+
+Auch sehr sehenswert ist das **Teatro Grande**, ein im 17. Jahurdert im Rococo-Stil gebauter Theaterkomplex. Auch abseits der Vorführungen lässt sich das Gebäude durch einen Besuch im [Café des Theaters](https://maps.app.goo.gl/8PDxcbi9GehsmQfQ9) bestaunen. Das Café ist nur am Wochenende zwischen 10 und 20 Uhr geöffnet.
 
 ## Kultur
 Was Museen angeht, empfehlen wir das [**Santa Giulia Museum**](https://www.bresciamusei.com/en/museums-and-venues/santa-giulia-museum/). Es befindet sich in einem Kloster und erzählt die Geschichte der Stadt von der vorrömischen Zeit bis heute auf sehr anschauliche Weise. Die Mosaike eines alten römischen Hauses (Domus Ortaglia) und die Schätze der Longobarden gehören zu den Highlights. Darüber hinaus gibt es dort wechselnde Kunstausstellungen.

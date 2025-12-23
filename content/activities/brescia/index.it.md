@@ -1,5 +1,5 @@
 ---
-title: "Visita turistica a Brescia"
+title: "Brescia"
 date: 2023-11-20T10:00:00+01:00
 draft: false
 weight: 10
@@ -22,9 +22,13 @@ Se non vi dispiace passeggiare, il **Castello di Brescia** è un'ottima meta. Co
 ## Centro Città
 Tornati in centro, potete passeggiare per le piazze principali. **Piazza della Loggia** ha una distinta atmosfera veneziana con la sua torre dell'orologio. Vicino, in **Piazza Paolo VI**, troverete il romanico Duomo Vecchio, con un'interessante pianta circolare, e il neoclassico Duomo Nuovo, l'uno accanto all'altro.
 
+![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
+
 Fun fact: il verbo _tartagliare_ ha una relazione speciale con Brescia. Nel 1512, il matematico Niccolò Fontan noto come Niccolò Tartaglia, allora bambino, fu ferito al labbro mentre cercava riparo nel Duomo Vecchio. Al di là del termine, Tartaglia sarà poi conosciuto per il [triangolo di Tartaglia](https://it.wikipedia.org/wiki/Triangolo_di_Tartaglia).
 
-![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
+![Duomo](img/brescia/duomo.jpg)
+
+Anche molto interessante è il **Teatro Grande**, un complesso teatrale costruito nel XVII secolo in stile rococò. Anche al di fuori degli spettacoli, l'edificio può essere ammirato visitando il [caffè del teatro](https://maps.app.goo.gl/8PDxcbi9GehsmQfQ9). Il caffè è aperto solo nei fine settimana dalle 10 alle 20.
 
 ## Cultura
 Per i musei, consigliamo il [**Museo di Santa Giulia**](https://www.bresciamusei.com/musei-e-luoghi/museo-di-santa-giulia/). Ospitato in un monastero, racconta la storia della città dall'epoca preromana ai giorni nostri, con (solitamente) interessanti mostre temporanee. I mosaici della domus romana e il tesoro dei Longobardi sono probabilmente i punti forti della mostra permanente. Il museo ospita anche mostre annuali di tutte le età.

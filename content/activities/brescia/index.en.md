@@ -1,5 +1,5 @@
 ---
-title: "Sightseeing in Brescia"
+title: "Brescia"
 date: 2023-11-20T10:00:00+01:00
 draft: false
 weight: 10
@@ -24,9 +24,13 @@ If you don't mind a little walk, the **Castello di Brescia** is a great spot. Kn
 ## City Center
 Back in the center, you can stroll through the main squares. **Piazza della Loggia** has a distinct Venetian feel with its clock tower. Nearby at **Piazza Paolo VI**, you'll find something quite unique: the Old romanic Duomo, with an atypical circular outline, and the neoclassic New Duomo standing side by side.
 
+![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
+
 Fun fact: the Italian word for _stutter_ (tartagliare) was born in Brescia. In 1512, the mathematician Niccolò Tartaglia was hurt on his lip with a knife in the Old Duomo. Besides his speech impediment, he is also known for [Pascal's triangle](https://en.wikipedia.org/wiki/Niccol%C3%B2_Tartaglia).
 
-![Piazza della Loggia](img/brescia/piazza-loggia.jpg)
+![Duomo](img/brescia/duomo.jpg)
+
+Also worth seeing is the **Teatro Grande**, built in the 17th century in Rococo style. Even outside of performances, the building can be admired by visiting the [theater's café](https://maps.app.goo.gl/8PDxcbi9GehsmQfQ9). The café is only open on weekends between 10 AM and 8 PM.
 
 ## Culture
 For museums, we recommend the [**Santa Giulia Museum**](https://www.bresciamusei.com/en/museums-and-venues/santa-giulia-museum/). Housed in a monastery, it tells the story of the city from pre-Roman times to the present day. The mosaics of an old Roman house (Domus Ortaglia) and the treasure of the Langobards are probably the highlight of the permanent exhibit. The museum also hosts changing art exhibitions.

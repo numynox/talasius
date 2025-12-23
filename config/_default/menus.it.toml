@@ -24,7 +24,7 @@ pageRef = "activities/index.it.md"
 weight = 50
 
 [[main]]
-name = "Visits turistica a Brescia"
+name = "Brescia"
 parent = "Guida turistica"
 pageRef = "activities/brescia/index.it.md"
 weight = 10
