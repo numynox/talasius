@@ -16,4 +16,4 @@ La fine della giornata è prevista tra le 21:00 e le 22:00, lasciandovi abbastan
 
 ## Attività mattutine
 
-Se avete voglia di fare un giro sul lago prima della festa, vi consigliamo una breve gita con il [battello da Sulzano a Peschiera Maraglio](https://navigazionelagoiseo.it/) su Monte Isola, l'isola situata al centro del lago. Potete decidere di passeggiare lungo il lago o godervi la vista mentre bevete un caffè. Il battello [parte ogni 20 minuti](https://navigazionelagoiseo.it/orari/Sulzano.pdf) e i biglietti possono essere acquistati allo sportello vicino al molo.
+Se avete voglia di fare un giro sul lago prima della festa, vi consigliamo una breve gita con il [battello da Sulzano a Peschiera Maraglio](https://navigazionelagoiseo.it/) su Monte Isola, l'isola situata al centro del lago. Potete decidere di passeggiare lungo il lago o godervi la vista mentre bevete un caffè. Per questo, dovreste pianificare almeno 2 ore. Il battello [parte ogni 20 minuti](https://navigazionelagoiseo.it/orari/Sulzano.pdf) e i biglietti possono essere acquistati allo sportello vicino al molo.

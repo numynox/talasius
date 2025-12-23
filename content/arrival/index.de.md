@@ -4,7 +4,7 @@ featureimage: "img/brescia/panorama.jpg"
 summary: "Informationen zur Anreise mit Zug, Flugzeug oder Auto sowie Möglichkeiten für Fahrgemeinschaften."
 ---
 
-Wir sind uns bewusst, dass die Feier in Italien CO₂-Emissionen verursacht. Um unseren Fußabdruck zu reduzieren, möchten wir euch helfen, die effizientesten Reisemöglichkeiten zu finden und euch mit anderen Gästen zu verbinden, um gemeinsam zu reisen.
+Wir sind uns bewusst, dass die Feier in Italien CO₂-Emissionen verursacht. Um unseren Fußabdruck zu reduzieren, möchten wir euch helfen, die effizientesten Reisemöglichkeiten zu finden und euch mit anderen Gästen in Kontakt zu bringen, um gemeinsam zu reisen.
 
 ## Mit dem Zug
 
@@ -14,7 +14,7 @@ Für unsere Gäste, die aus oder durch Deutschland anreisen, gibt es drei bequem
 *   **Frankfurt nach Mailand:** Ein direkter [Eurocity Express ECE151](https://www.zugreiseblog.de/zug-frankfurt-mailand/), der täglich um 08:02 Uhr vom Frankfurter Hauptbahnhof abfährt und um 15:35 Uhr in Milano Centrale ankommt, betrieben von der SBB. Von Mailand aus könnt ihr einen Trenitalia-Hochgeschwindigkeitszug oder einen Regionalzug nach Brescia nehmen.
 *   Die direkte [ÖBB Nightjet](https://www.nightjet.com/de/reiseziele/) Verbindung wird 2026 leider aufgrund von Bauarbeiten nicht bedient. Ihr könnt jedoch mit dem Nachtzug von **München nach Venedig** fahren, dort die Stadt besuchen und im Anschluss mit dem Trenitalia Hochgeschwindigkeitszug weiter nach Brescia fahren.
 
-Um die günstigsten Tickets zu erhalten, empfehlen wir, [DB](https://www.bahn.de/?lang=de), [ÖBB](https://www.oebb.at/) und [Trenitalia](https://www.trenitalia.com/de.html) für alle Verbindungen sowie [SBB](https://www.sbb.ch/) für die Frankfurt-Verbindung zu prüfen. Möglicherweise müsst ihr zwei separate Tickets buchen (z. B. Erlangen nach Verona mit der DB und Verona nach Brescia mit Trenitalia oder Erlangen nach München mit der DB und München nach Brescia mit der ÖBB). Regionalzüge in Italien können über Trenitalia oder direkt am Bahnhof gekauft werden. Sie sind nicht teuer und der Preis ändert sich nicht, wenn sie am Reisetag gekauft werden.
+Um die günstigsten Tickets zu erhalten, empfehlen wir, [DB](https://www.bahn.de/?lang=de), [ÖBB](https://www.oebb.at/) und [Trenitalia](https://www.trenitalia.com/de.html) für alle Verbindungen zu prüfen (sowie [SBB](https://www.sbb.ch/) für die Frankfurt-Verbindung). Möglicherweise müsst ihr zwei separate Tickets buchen (z. B. Erlangen nach Verona mit der DB und Verona nach Brescia mit Trenitalia oder Erlangen nach München mit der DB und München nach Brescia mit der ÖBB). Regionalzüge in Italien können über Trenitalia oder direkt am Bahnhof gekauft werden. Sie sind nicht teuer und der Preis ändert sich nicht, wenn sie am Reisetag gekauft werden.
 
 ![Brescia](img/brescia/train.jpg)
 

@@ -16,4 +16,4 @@ The end of the celebration is planned between 9:00 PM and 10:00 PM leaving enoug
 
 ## Morning activities
 
-If you are up for an acitivity in the morning before the wedding, we recommend a short trip with the [boat from Sulzano to Peschiera Maraglio](https://navigazionelagoiseo.it/en/) on Monte Isola, the island located in the middle of the lake. You can enjoy a walk along the coast or a coffee in one of the restaurants. The boat [leaves every 20min](https://navigazionelagoiseo.it/orari/Sulzano.pdf) and tickets can be bought at the counter close the pier.
+If you are up for an acitivity in the morning before the wedding, we recommend a short trip with the [boat from Sulzano to Peschiera Maraglio](https://navigazionelagoiseo.it/en/) on Monte Isola, the island located in the middle of the lake. You can enjoy a walk along the coast or a coffee in one of the restaurants. For that, you should plan at least 2 hours. The boat [leaves every 20min](https://navigazionelagoiseo.it/orari/Sulzano.pdf) and tickets can be bought at the counter close the pier.
