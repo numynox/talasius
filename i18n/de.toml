@@ -18,3 +18,6 @@ other = "Dauer"
 
 [hike_ascent]
 other = "Höhenmeter"
+
+[hike_gpx]
+other = "GPX"

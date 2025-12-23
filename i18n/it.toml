@@ -24,3 +24,6 @@ other = "Durata"
 
 [hike_ascent]
 other = "Dislivello"
+
+[hike_gpx]
+other = "GPX"

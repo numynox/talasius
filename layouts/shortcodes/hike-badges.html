@@ -23,4 +23,10 @@
         <span class="hike-badge-value">{{ . }}</span>
     </div>
     {{ end }}
+    {{ with .Get "gpx" }}
+    <div class="hike-badge">
+        <span class="hike-badge-label">{{ i18n "hike_gpx" }}</span>
+        <span class="hike-badge-value"><a href="{{ relURL "" }}gpx/{{ . }}" download>Download</a></span>
+    </div>
+    {{ end }}
 </div>
