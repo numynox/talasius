@@ -2,8 +2,6 @@
 title: "Iseosee"
 date: 2023-11-20T10:00:00+01:00
 draft: false
-series: ["Reiseführer"]
-series_order: 3
 weight: 30
 featureimage: "img/iseo/boats.jpg"
 summary: "Entdeckt das verborgene Juwel Iseosee, von der Berginsel Monte Isola bis zu den geologischen Wundern von Zone."

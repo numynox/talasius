@@ -2,8 +2,6 @@
 title: "Cities"
 date: 2023-11-20T10:00:00+01:00
 draft: false
-series: ["Travel Guide"]
-series_order: 5
 weight: 50
 featureimage: "img/other/venice.jpg"
 summary: "Brescia is the perfect base for exploring Northern Italy's most famous cities by train."

@@ -2,8 +2,6 @@
 title: "Städte"
 date: 2023-11-20T10:00:00+01:00
 draft: false
-series: ["Reiseführer"]
-series_order: 5
 weight: 50
 featureimage: "img/other/venice.jpg"
 summary: "Brescia ist der perfekte Ausgangspunkt, um die berühmtesten Städte Norditaliens mit dem Zug zu erkunden."

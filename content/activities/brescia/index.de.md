@@ -2,8 +2,6 @@
 title: "Sightseeing in Brescia"
 date: 2023-11-20T10:00:00+01:00
 draft: false
-series: ["Reiseführer"]
-series_order: 1
 weight: 10
 featureimage: "img/brescia/castle-tower.jpg"
 summary: "Entdeckt Brescia mit seinen römischen Ruinen, mittelalterlichen Burgen und Museen, und genießt die lokale Kultur und Küche."

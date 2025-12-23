@@ -2,8 +2,6 @@
 title: "Escursionismo"
 date: 2023-11-20T10:00:00+01:00
 draft: false
-series: ["Guida turistica"]
-series_order: 2
 weight: 20
 featureimage: "img/garda/view.jpg"
 summary: "Scoprite le nostre escursioni preferite intorno al Lago d'Iseo e al Lago di Garda per panorami mozzafiato."

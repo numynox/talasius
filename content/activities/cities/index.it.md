@@ -2,8 +2,6 @@
 title: "Città"
 date: 2023-11-20T10:00:00+01:00
 draft: false
-series: ["Guida turistica"]
-series_order: 5
 weight: 50
 featureimage: "img/other/venice.jpg"
 summary: "Brescia è la base perfetta per esplorare alcune delle città più famose del Nord Italia in treno."
