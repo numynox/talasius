@@ -10,53 +10,53 @@ weight = 20
 
 [[main]]
 name = "Arrival"
-pageRef = "info/arrival/index.en.md"
+pageRef = "arrival/index.en.md"
 weight = 30
 
 [[main]]
 name = "Accommodation"
-pageRef = "info/accommodation/index.en.md"
+pageRef = "accommodation/index.en.md"
 weight = 40
 
 [[main]]
 name = "Travel Guide"
-pageRef = "info/activities/index.de.md"
+pageRef = "activities/index.de.md"
 weight = 50
 
 [[main]]
 name = "Sightseeing in Brescia"
 parent = "Travel Guide"
-pageRef = "info/activities/brescia/index.en.md"
+pageRef = "activities/brescia/index.en.md"
 weight = 10
 
 [[main]]
 name = "Hiking"
 parent = "Travel Guide"
-pageRef = "info/activities/hikes/index.en.md"
+pageRef = "activities/hikes/index.en.md"
 weight = 20
 
 [[main]]
 name = "Lake Iseo"
 parent = "Travel Guide"
-pageRef = "info/activities/iseo/index.en.md"
+pageRef = "in/activities/iseo/index.en.md"
 weight = 30
 
 [[main]]
 name = "Lake Garda"
 parent = "Travel Guide"
-pageRef = "info/activities/garda/index.en.md"
+pageRef = "activities/garda/index.en.md"
 weight = 40
 
 [[main]]
 name = "Cities"
 parent = "Travel Guide"
-pageRef = "info/activities/cities/index.en.md"
+pageRef = "activities/cities/index.en.md"
 weight = 50
 
 [[main]]
 name = "Wineries"
 parent = "Travel Guide"
-pageRef = "info/activities/wine/index.en.md"
+pageRef = "activities/wine/index.en.md"
 weight = 60
 
 [[footer]]
