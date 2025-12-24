@@ -30,7 +30,7 @@ Fun fact: the Italian word for _stutter_ (tartagliare) was born in Brescia. In 1
 
 ![Duomo](img/brescia/duomo.jpg)
 
-Also worth seeing is the **Teatro Grande**, built in the 17th century in Rococo style. Even outside of performances, the building can be admired by visiting the [theater's café](https://maps.app.goo.gl/8PDxcbi9GehsmQfQ9). The café is only open on weekends between 10 AM and 8 PM.
+Also worth seeing is the **Teatro Grande**, built in the 17th century in Rococo style. Even outside of performances, the building can be admired by visiting the [theater's café](https://maps.app.goo.gl/8PDxcbi9GehsmQfQ9). The café is only open on weekends between 10 AM and 8 PM. A [music video](https://youtu.be/PfC72IoFSTo?si=a-noRHHwlB7OfPb9) by the Italian rock band Måneskin, who won the Sanremo Festival and the Eurovision Song Contest in 2021, was filmed at the Teatro Grande.
 
 ## Culture
 For museums, we recommend the [**Santa Giulia Museum**](https://www.bresciamusei.com/en/museums-and-venues/santa-giulia-museum/). Housed in a monastery, it tells the story of the city from pre-Roman times to the present day. The mosaics of an old Roman house (Domus Ortaglia) and the treasure of the Langobards are probably the highlight of the permanent exhibit. The museum also hosts changing art exhibitions.
