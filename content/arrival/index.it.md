@@ -28,7 +28,7 @@ Se scegliete di viaggiare in aereo, suggeriamo uno dei seguenti aeroporti.
 
 L'Aeroporto di Verona (VRN) offre principalmente solo voli regionali.
 
-![Langenselbold](img/other/flight.jog)
+![Langenselbold](img/other/flight.jpg)
 
 ## Viaggiare insieme
 
