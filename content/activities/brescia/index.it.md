@@ -28,7 +28,7 @@ Fun fact: il verbo _tartagliare_ ha una relazione speciale con Brescia. Nel 1512
 
 ![Duomo](img/brescia/duomo.jpg)
 
-Anche molto interessante è il **Teatro Grande**, un complesso teatrale costruito nel XVII secolo in stile rococò. Anche al di fuori degli spettacoli, l'edificio può essere ammirato visitando il [caffè del teatro](https://maps.app.goo.gl/8PDxcbi9GehsmQfQ9). Il caffè è aperto solo nei fine settimana dalle 10 alle 20.
+Anche molto interessante è il **Teatro Grande**, un complesso teatrale costruito nel XVII secolo in stile rococò. Anche al di fuori degli spettacoli, l'edificio può essere ammirato visitando il [caffè del teatro](https://maps.app.goo.gl/8PDxcbi9GehsmQfQ9). Il caffè è aperto solo nei fine settimana dalle 10 alle 20. Al Teatro Grande è stato girato un [video musicale](https://youtu.be/PfC72IoFSTo?si=a-noRHHwlB7OfPb9) della rock band italiana Måneskin, che nel 2021 ha vinto il Festival di Sanremo e l'Eurovision Song Contest.
 
 ## Cultura
 Per i musei, consigliamo il [**Museo di Santa Giulia**](https://www.bresciamusei.com/musei-e-luoghi/museo-di-santa-giulia/). Ospitato in un monastero, racconta la storia della città dall'epoca preromana ai giorni nostri, con (solitamente) interessanti mostre temporanee. I mosaici della domus romana e il tesoro dei Longobardi sono probabilmente i punti forti della mostra permanente. Il museo ospita anche mostre annuali di tutte le età.
