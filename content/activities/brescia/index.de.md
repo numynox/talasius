@@ -28,7 +28,7 @@ Fun fact: Das italienische Wort für _stottern_ (tartagliare) wurde in Brescia e
 
 ![Duomo](img/brescia/duomo.jpg)
 
-Auch sehr sehenswert ist das **Teatro Grande**, ein im 17. Jahurdert im Rococo-Stil gebauter Theaterkomplex. Auch abseits der Vorführungen lässt sich das Gebäude durch einen Besuch im [Café des Theaters](https://maps.app.goo.gl/8PDxcbi9GehsmQfQ9) bestaunen. Das Café ist nur am Wochenende zwischen 10 und 20 Uhr geöffnet.
+Auch sehr sehenswert ist das **Teatro Grande**, ein im 17. Jahurdert im Rococo-Stil gebauter Theaterkomplex. Auch abseits der Vorführungen lässt sich das Gebäude durch einen Besuch im [Café des Theaters](https://maps.app.goo.gl/8PDxcbi9GehsmQfQ9) bestaunen. Das Café ist nur am Wochenende zwischen 10 und 20 Uhr geöffnet. Im Teatro Grande wurde ein [Musikvideo](https://youtu.be/PfC72IoFSTo?si=a-noRHHwlB7OfPb9) der italienischen Rockband Måneskin gedreht, die 2021 das Sanremo-Festival und den Eurovision Song Contest gewannen.
 
 ## Kultur
 Was Museen angeht, empfehlen wir das [**Santa Giulia Museum**](https://www.bresciamusei.com/en/museums-and-venues/santa-giulia-museum/). Es befindet sich in einem Kloster und erzählt die Geschichte der Stadt von der vorrömischen Zeit bis heute auf sehr anschauliche Weise. Die Mosaike eines alten römischen Hauses (Domus Ortaglia) und die Schätze der Longobarden gehören zu den Highlights. Darüber hinaus gibt es dort wechselnde Kunstausstellungen.
