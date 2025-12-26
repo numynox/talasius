@@ -17,6 +17,8 @@ Per i nostri ospiti che viaggiano da o attraverso la Germania, ci sono tre comod
 
 Per ottenere i biglietti più economici, consigliamo di controllare [DB](https://int.bahn.de/it), [ÖBB](https://www.oebb.at/en) e [Trenitalia](https://www.trenitalia.com/) per tutte le connessioni, così come [SBB](https://www.sbb.ch/it) per il collegamento da Francoforte. Potrebbe essere necessario prenotare due biglietti separati (ad es. da Erlangen a Verona con DB e da Verona a Brescia con Trenitalia, o da Erlangen a Monaco con DB e da Monaco a Brescia con ÖBB). I treni regionali in Italia possono essere acquistati tramite Trenitalia o direttamente in stazione. Non sono costosi e il prezzo non cambia se acquistati il giorno del viaggio.
 
+![Brescia](img/brescia/train.jpg)
+
 ## In aereo
 
 Se scegliete di viaggiare in aereo, suggeriamo uno dei seguenti aeroporti.
@@ -26,6 +28,8 @@ Se scegliete di viaggiare in aereo, suggeriamo uno dei seguenti aeroporti.
 *   **Milano Malpensa (MXP):** A circa **90 minuti** in auto da Iseo o Brescia, servito anch'esso da compagnie aeree standard. Se viaggiate con i mezzi pubblici, potete raggiungere la stazione centrale di Milano Centrale in treno o autobus in 60 minuti. Da lì, proseguite in treno per Brescia. Questa è l'opzione aeroportuale meno comoda dal punto di vista logistico.
 
 L'Aeroporto di Verona (VRN) offre principalmente solo voli regionali.
+
+![Langenselbold](img/other/flight.jpg)
 
 ## Viaggiare insieme
 

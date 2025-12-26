@@ -36,8 +36,11 @@ jobs:
         # HUGO_PARAMS_... environment variables override [params] in hugo.toml
         run: hugo --minify
         env:
-          HUGO_PARAMS_DROPBOXLINK: ${{ secrets.DROPBOX_UPLOAD_LINK }}
-          HUGO_PARAMS_AIRTABLERSVPLINK: ${{ secrets.AIRTABLE_RSVP_LINK }}
+          HUGO_PARAMS_AIRTABLERSVPLINKEN: ${{ secrets.AIRTABLE_RSVP_LINK_EN }}
+          HUGO_PARAMS_AIRTABLERSVPLINKDE: ${{ secrets.AIRTABLE_RSVP_LINK_DE }}
+          HUGO_PARAMS_AIRTABLERSVPLINKIT: ${{ secrets.AIRTABLE_RSVP_LINK_IT }}
+
+
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
