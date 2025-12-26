@@ -2,6 +2,7 @@
 title: "Anreise"
 featureimage: "img/brescia/panorama.jpg"
 summary: "Informationen zur Anreise mit Zug, Flugzeug oder Auto sowie Möglichkeiten für Fahrgemeinschaften."
+type: "info"
 ---
 
 Wir sind uns bewusst, dass die Feier in Italien CO₂-Emissionen verursacht. Um unseren Fußabdruck zu reduzieren, möchten wir euch helfen, die effizientesten Reisemöglichkeiten zu finden und euch mit anderen Gästen in Kontakt zu bringen, um gemeinsam zu reisen.
@@ -16,7 +17,7 @@ Für unsere Gäste, die aus oder durch Deutschland anreisen, gibt es drei bequem
 
 Um die günstigsten Tickets zu erhalten, empfehlen wir, [DB](https://www.bahn.de/?lang=de), [ÖBB](https://www.oebb.at/) und [Trenitalia](https://www.trenitalia.com/de.html) für alle Verbindungen zu prüfen (sowie [SBB](https://www.sbb.ch/) für die Frankfurt-Verbindung). Möglicherweise müsst ihr zwei separate Tickets buchen (z. B. Erlangen nach Verona mit der DB und Verona nach Brescia mit Trenitalia oder Erlangen nach München mit der DB und München nach Brescia mit der ÖBB). Regionalzüge in Italien können über Trenitalia oder direkt am Bahnhof gekauft werden. Sie sind nicht teuer und der Preis ändert sich nicht, wenn sie am Reisetag gekauft werden.
 
-![Brescia](img/brescia/train.jpg)
+![Brescia](img/brescia/train.jpg "Historische Lok auf der Burg von Brescia")
 
 ## Mit dem Flugzeug
 

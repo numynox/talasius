@@ -13,7 +13,7 @@ Wenn ihr gerne wandert, seid ihr hier genau richtig. Hier sind unsere Lieblingsw
 
 ## Iseosee
 
-![Corna Trentapassi](img/iseo/view8.jpg)
+![Corna Trentapassi](img/iseo/view8.jpg "Blick von der Corna Trentapassi auf Monte Isola")
 
 ### Corna Trentapassi
 
@@ -56,7 +56,7 @@ Eine einfache, teils steile aber lohnende Wanderung auf den Gipfel der Monte Iso
 
 ## Gardasee
 
-![Cima Comer](img/garda/cimacomer.jpg)
+![Cima Comer](img/garda/cimacomer.jpg "Blick von der Cima Comer auf den Gardasee")
 
 ### Monte Cas
 
@@ -99,7 +99,7 @@ Die Wanderung zur **Punta Larici** startet im beschaulichen Bergdorf Pregasina, 
 
 ## Nördlich von Brescia
 
-![Ferrata Sasse](img/other/idro.jpg)
+![Ferrata Sasse](img/other/idro.jpg "Die Ferrata Sasse über dem Idrosee")
 
 ### Ferrata Sasse
 

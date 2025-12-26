@@ -21,3 +21,6 @@ other = "Ascent"
 
 [hike_gpx]
 other = "GPX"
+
+[shortcode]
+recent_articles = "More information"

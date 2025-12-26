@@ -2,6 +2,7 @@
 title: "Alloggio"
 featureimage: "img/brescia/castle-tower.jpg"
 summary: "Trovate un alloggio sul Lago d'Iseo o a Brescia con qualche suggerimento sulla posizione."
+type: "info"
 ---
 
 
@@ -21,7 +22,7 @@ Se volete fermarvi più a lungo e avere una base centrale per esplorare diverse 
 *   **Collegamenti:** Brescia è ben collegata in treno a Milano, alla parte meridionale del Lago di Garda, Verona, Venezia e Torino.
 *   **Accesso in auto:** Il [centro storico di Brescia](https://www.bresciamobilita.it/map#/mode=busRoutes/poitypes=ztlentrance,ztlarea/date=07-12-2025/direction=0/) non è tipicamente accessibile in auto, a meno che il vostro alloggio non fornisca parcheggio e registri la vostra targa per l'accesso al centro. Il passaggio è consentito per auto elettriche, ma è comunque necessario richiedere un contrassegno. La zona a traffico limitato è chiamata **ZTL** e "ZTL attiva / ZTL closed" significa che non è consentito entrare senza registrazione.
 
-![Brescia](img/brescia/capitolium.jpg)
+![Brescia](img/brescia/capitolium.jpg "Il Capitolium di Brescia")
 
 ## Altre Opzioni
 

@@ -2,6 +2,7 @@
 title: "Accommodation"
 featureimage: "img/brescia/castle-tower.jpg"
 summary: "Find the perfect accommodation at Lake Iseo or in Brescia with our recommendations and location tips."
+type: "info"
 ---
 
 
@@ -21,7 +22,7 @@ If you want to stay longer and have a central base for exploring various places 
 *   **Connections:** Brescia is well connected by train to Milan, the southern part of Lake Garda, Verona, Venice, and Turin.
 *   **Access by car:** The [city center of Brescia](https://www.bresciamobilita.it/map#/mode=busRoutes/poitypes=ztlentrance,ztlarea/date=07-12-2025/direction=0/) cannot be accessed by car, unless your accommodation provides parking and registers your license plate for access to the city center. The restricted area is called **ZTL** (Zona di Traffico Limitato) and "ZTL attiva / ZTL closed" means you are not allowed to enter without registration.
 
-![Brescia](img/brescia/capitolium.jpg)
+![Brescia](img/brescia/capitolium.jpg "The Capitolium of Brescia")
 
 ## Other Options
 

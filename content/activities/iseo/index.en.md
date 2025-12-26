@@ -13,15 +13,19 @@ Less known than Lake Garda, but at least as beautiful, Lake Iseo lies in the nor
 
 Monte Isola is one of the largest lake islands in Europe and offers a wonderful atmosphere for exploring by bike or on foot. You can easily reach the island by [boat from Sulzano to Peschiera Maraglio](https://navigazionelagoiseo.it/en/). You can enjoy a walk along the coast or a coffee in one of the restaurants. The boat [runs every 20 minutes](https://navigazionelagoiseo.it/orari/Sulzano.pdf) and tickets can be bought at the counter near the pier. And if you have a little more time, you can also [hike to the church on the summit of Monte Isola](../hikes/#monte-isola).
 
-![Monte Isola](img/iseo/view4.jpg)
+![Monte Isola](img/iseo/view4.jpg "View from Punta Almana to Monte Isola")
 
 ## The Floating Piers
-In 2016, the artist Christo created **The Floating Piers**, a temporary installation that allowed people to walk on water from Sulzano to Monte Isola and the island of San Paolo. Although the installation is gone, the event put Lake Iseo on the world map. If you take the same route by boat today, you get a sense of the scale of the project.
+In 2016, the artist Christo created [**The Floating Piers**](https://en.wikipedia.org/wiki/The_Floating_Piers), a temporary installation that allowed people to walk on water between Sulzano, Monte Isola and the island of San Paolo. Although the installation is gone, the event put Lake Iseo on the world map. If you take the same route by boat today, you get a sense of the scale of the project.
+ 
+![Floating Piers](img/iseo/floatingpiers-air.jpg "The Floating Piers between Sulzano, Monte Isola and San Paolo. © Francesco Tengattini")
+
+![Floating Piers](img/iseo/floatingpiers.jpg "The Floating Piers were walkable for visitors. © Massimo Buizza")
 
 ## Piramidi di Zone
 For something truly unique, visit the **Piramidi di Zone**. These are massive earth pillars topped with large boulders, created by erosion. They look like something straight out of a fantasy movie. There is a well-marked circular trail that takes you through the reserve, offering various observation points to admire these geological giants. The path takes about 2 hours and starts at [Il Chiosco south of Zone](https://maps.app.goo.gl/FzSxnvpyEn2JfpreA), where you can also buy a ticket to visit the Piramidi di Zone.
 
-![Piramidi di Zone](img/iseo/zone.jpg)
+![Piramidi di Zone](img/iseo/zone.jpg "Piramidi di Zone from the lower viewpoint.")
 
 ## Riva
 

@@ -1,6 +1,8 @@
 ---
 title: "Veranstaltungsort"
 featureimage: "img/iseo/evening.jpg"
+type: "info"
+summary: "Informationen zur Location 'El dos del Bec', Anreise und Highlights rund um den Iseosee."
 ---
 
 ## Auf den Gipfeln des Iseosees
@@ -14,7 +16,7 @@ Wir verbringen unsere Zeit gerne in der Natur und lieben es, in den Bergen rund 
 
 Als Location haben wir uns für das Agriturismo "[El dos del Bec](https://www.eldosdelbec.com/)" entschieden. Es befindet sich in Toline, gelegen auf einer grünen Anhöhe am Fuße der Corna Trentapassi. Das Anwesen zeichnet sich durch seinen ländlichen Charme aus: Hier werden nicht nur Oliven und Kakis angebaut, sondern auch eine eigene Alpakaherde gehalten. Die Küche serviert stolz regionale Produkte. Besonders schön ist der weite Blick vom Restaurant direkt auf den Iseosee, der unserer Feier einen einzigartigen Rahmen gibt.
 
-![El dos del Bec](img/dosdelbec/exterior.jpg)
+![El dos del Bec](img/dosdelbec/exterior.jpg "El dos del Bec im Winter mit der Corna Trentapassi im Hintergrund.")
 
 ## Anfahrt
 

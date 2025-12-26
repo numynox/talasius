@@ -27,3 +27,6 @@ other = "Dislivello"
 
 [hike_gpx]
 other = "GPX"
+
+[shortcode]
+recent_articles = "Ulteriori informazioni"

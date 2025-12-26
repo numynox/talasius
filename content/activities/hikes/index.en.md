@@ -13,7 +13,7 @@ If you like hiking, you've come to the right place. Here are our favorite trails
 
 ## Lake Iseo
 
-![Corna Trentapassi](img/iseo/view8.jpg)
+![Corna Trentapassi](img/iseo/view8.jpg "View from Corna Trentapassi to Monte Isola")
 
 ### Corna Trentapassi
 
@@ -56,7 +56,7 @@ A simple, partly steep but rewarding hike to the summit of Monte Isola in the mi
 
 ## Lake Garda
 
-![Cima Comer](img/garda/cimacomer.jpg)
+![Cima Comer](img/garda/cimacomer.jpg "View from Cima Comer over Lake Garda")
 
 ### Monte Cas
 
@@ -99,7 +99,7 @@ The hike to **Punta Larici** starts in the tranquil mountain village of Pregasin
 
 ## North of Brescia
 
-![Ferrata Sasse](img/other/idro.jpg)
+![Ferrata Sasse](img/other/idro.jpg "The Ferrata Sasse above Lake Idro")
 
 ### Ferrata Sasse
 

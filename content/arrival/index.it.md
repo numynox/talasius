@@ -2,6 +2,7 @@
 title: "Arrivo"
 featureimage: "img/brescia/panorama.jpg"
 summary: "Informazioni su come arrivare in treno, aereo o auto, oltre alle opzioni di carpooling."
+type: "info"
 ---
 
 Siamo consapevoli che la festa in Italia causa emissioni di CO₂. Per aiutare a ridurre la nostra impronta, vogliamo assistervi nel trovare le opzioni di viaggio più efficienti e mettervi in contatto con altri ospiti per viaggiare insieme.
@@ -16,7 +17,7 @@ Per i nostri ospiti che viaggiano da o attraverso la Germania, ci sono tre comod
 
 Per ottenere i biglietti più economici, consigliamo di controllare [DB](https://int.bahn.de/it), [ÖBB](https://www.oebb.at/en) e [Trenitalia](https://www.trenitalia.com/) per tutte le connessioni, così come [SBB](https://www.sbb.ch/it) per il collegamento da Francoforte. Potrebbe essere necessario prenotare due biglietti separati (ad es. da Erlangen a Verona con DB e da Verona a Brescia con Trenitalia, o da Erlangen a Monaco con DB e da Monaco a Brescia con ÖBB). I treni regionali in Italia possono essere acquistati tramite Trenitalia o direttamente in stazione. Non sono costosi e il prezzo non cambia se acquistati il giorno del viaggio.
 
-![Brescia](img/brescia/train.jpg)
+![Brescia](img/brescia/train.jpg "Locomotiva storica al castello di Brescia")
 
 ## In aereo
 

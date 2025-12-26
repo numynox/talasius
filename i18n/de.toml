@@ -21,3 +21,6 @@ other = "Höhenmeter"
 
 [hike_gpx]
 other = "GPX"
+
+[shortcode]
+recent_articles = "Weitere Informationen"

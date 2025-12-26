@@ -13,7 +13,7 @@ Se vi piace camminare, siete nel posto giusto. Ecco i nostri sentieri preferiti 
 
 ## Lago d'Iseo
 
-![Corna Trentapassi](img/iseo/view8.jpg)
+![Corna Trentapassi](img/iseo/view8.jpg "Vista dalla Corna Trentapassi su Monte Isola")
 
 ### Corna Trentapassi
 
@@ -56,7 +56,7 @@ Un'escursione semplice, in parte ripida ma gratificante sulla cima di Monte Isol
 
 ## Lago di Garda
 
-![Cima Comer](img/garda/cimacomer.jpg)
+![Cima Comer](img/garda/cimacomer.jpg "Vista dalla Cima Comer sul Lago di Garda")
 
 ### Monte Cas
 
@@ -99,7 +99,7 @@ L'escursione a **Punta Larici** inizia nel tranquillo villaggio montano di Prega
 
 ## A nord di Brescia
 
-![Ferrata Sasse](img/other/idro.jpg)
+![Ferrata Sasse](img/other/idro.jpg "La Ferrata Sasse sopra il Lago d'Idro")
 
 ### Ferrata Sasse
 

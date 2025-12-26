@@ -1,4 +1,9 @@
 [[main]]
+name = "Home"
+pageRef = "index.de.md"
+weight = 5
+
+[[main]]
 name = "Wo"
 pageRef = "location/index.de.md"
 weight = 10
