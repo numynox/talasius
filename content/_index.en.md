@@ -10,4 +10,10 @@ We are looking forward to celebrating our wedding with you. Here you will find a
 
 {{< rsvp-button >}}Let us know if you come!{{< /rsvp-button >}}
 
-{{< icon "heart" >}} Please let us know if you are able to attend until **February 28, 2026**.
+{{< alert icon="heart" >}}
+Please let us know if you are able to attend until **February 28, 2026**.
+{{< /alert >}}
+
+&nbsp;
+
+&nbsp;

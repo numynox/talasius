@@ -1,6 +1,7 @@
 ---
 title: "Event location"
 featureimage: "img/iseo/evening.jpg"
+type: "info"
 ---
 
 ## On the peaks of Lake Iseo

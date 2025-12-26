@@ -16,7 +16,7 @@ enableCodeCopy = false
 replyByEmail = false
 
 mainSections = ["info"]
-# robots = ""
+robots = "none"
 
 disableImageOptimization = false
 disableImageOptimizationMD = false

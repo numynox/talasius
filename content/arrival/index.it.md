@@ -2,6 +2,7 @@
 title: "Arrivo"
 featureimage: "img/brescia/panorama.jpg"
 summary: "Informazioni su come arrivare in treno, aereo o auto, oltre alle opzioni di carpooling."
+type: "info"
 ---
 
 Siamo consapevoli che la festa in Italia causa emissioni di CO₂. Per aiutare a ridurre la nostra impronta, vogliamo assistervi nel trovare le opzioni di viaggio più efficienti e mettervi in contatto con altri ospiti per viaggiare insieme.

@@ -2,6 +2,7 @@
 title: "Programma"
 featureimage: "img/iseo/boats.jpg"
 showTableOfContents: false
+type: "info"
 ---
 
 Non vediamo l'ora di festeggiare con voi in

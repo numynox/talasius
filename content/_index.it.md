@@ -10,4 +10,6 @@ Non vediamo l'ora di festeggiare il nostro matrimonio con voi. Qui troverete tut
 
 {{< rsvp-button >}}Fateci sapere se venite!{{< /rsvp-button >}}
 
-{{< icon "heart" >}} Fateci sapere entro il **28 febbraio 2026** se parteciperete.
+{{< alert icon="heart" >}}
+Fateci sapere entro il **28 febbraio 2026** se parteciperete.
+{{< /alert >}}

@@ -2,6 +2,7 @@
 title: "Agenda"
 featureimage: "img/iseo/boats.jpg"
 showTableOfContents: false
+type: "info"
 ---
 
 We are excited to celebrate with you on

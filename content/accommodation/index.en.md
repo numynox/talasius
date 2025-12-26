@@ -2,6 +2,7 @@
 title: "Accommodation"
 featureimage: "img/brescia/castle-tower.jpg"
 summary: "Find the perfect accommodation at Lake Iseo or in Brescia with our recommendations and location tips."
+type: "info"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Luogo dell'evento"
 featureimage: "img/iseo/evening.jpg"
+type: "info"
 ---
 
 ## Sulle vette del Lago d'Iseo
