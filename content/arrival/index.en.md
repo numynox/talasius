@@ -17,7 +17,7 @@ For our guests traveling from or through Germany, there are three convenient opt
 
 To get the cheapest tickets, we recommend checking [DB](https://int.bahn.de/en?dbkanal_007=sprachauswahl-en), [ÖBB](https://www.oebb.at/en), and [Trenitalia](https://www.trenitalia.com/en.html) for all connections, as well as [SBB](https://www.sbb.ch/en) for the Frankfurt connection. You may need to book two separate tickets (e.g. Erlangen to Verona with DB and Verona to Brescia with Trenitalia, or Erlangen to Munich with DB and Munich to Brescia with ÖBB). Regional trains in Italy can be purchased through Trenitalia or directly at the station. They are not expensive, and the price does not change if purchased on the day of travel.
 
-![Brescia](img/brescia/train.jpg)
+![Brescia](img/brescia/train.jpg "Historical locomotive at the castle of Brescia")
 
 ## By plane
 

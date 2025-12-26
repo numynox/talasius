@@ -2,6 +2,7 @@
 title: "Luogo dell'evento"
 featureimage: "img/iseo/evening.jpg"
 type: "info"
+summary: "Informazioni sulla location 'El dos del Bec', come arrivare e punti di interesse locali attorno al Lago d'Iseo."
 ---
 
 ## Sulle vette del Lago d'Iseo
@@ -15,7 +16,7 @@ Ci piace trascorrere il nostro tempo nella natura e amiamo fare escursioni sulle
 
 Come location abbiamo scelto l'Agriturismo "[El dos del Bec](https://www.eldosdelbec.com/)". Si trova a Toline, situato su una verde collina ai piedi della Corna Trentapassi. La proprietà si distingue per il suo fascino agricolo: qui non si coltivano solo olive e cachi, ma si alleva anche un proprio gregge di alpaca. La cucina serve con orgoglio prodotti regionali. Particolarmente bella è l'ampia vista dal ristorante direttamente sul Lago d'Iseo, che offre alla nostra festa una cornice unica.
 
-![El dos del Bec](img/dosdelbec/exterior.jpg)
+![El dos del Bec](img/dosdelbec/exterior.jpg "El dos del Bec in inverno con la Corna Trentapassi sullo sfondo.")
 
 ## Arrivo
 

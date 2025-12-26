@@ -26,7 +26,7 @@ Zurück im Zentrum könnt ihr durch die Hauptplätze schlendern. Die **Piazza de
 
 Fun fact: Das italienische Wort für _stottern_ (tartagliare) wurde in Brescia erfunden. Der Mathematiker Niccolò Tartaglia wurde 1512 als Kind im Alten Dom mit einem Messer an der Lippe verletzt. Neben seinem Sprachfehler ist er aber auch für das [Pascalsche Dreieck](https://de.wikipedia.org/wiki/Niccol%C3%B2_Tartaglia) bekannt.
 
-![Duomo](img/brescia/duomo.jpg "Innenansicht des neuen Doms")
+![Duomo](img/brescia/duomo-vecchio-nuovo.jpg "Der neue Dom direkt vor dem alten Dom.")
 
 Auch sehr sehenswert ist das **Teatro Grande**, ein im 17. Jahurdert im Rococo-Stil gebauter Theaterkomplex. Auch abseits der Vorführungen lässt sich das Gebäude durch einen Besuch im [Café des Theaters](https://maps.app.goo.gl/8PDxcbi9GehsmQfQ9) bestaunen. Das Café ist nur am Wochenende zwischen 10 und 20 Uhr geöffnet. Im Teatro Grande wurde ein [Musikvideo](https://youtu.be/PfC72IoFSTo?si=a-noRHHwlB7OfPb9) der italienischen Rockband Måneskin gedreht, die 2021 das Sanremo-Festival und den Eurovision Song Contest gewannen.
 

@@ -2,6 +2,7 @@
 title: "Event location"
 featureimage: "img/iseo/evening.jpg"
 type: "info"
+summary: "Details about the venue 'El dos del Bec', how to get there, and local highlights around Lake Iseo."
 ---
 
 ## On the peaks of Lake Iseo

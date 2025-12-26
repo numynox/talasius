@@ -2,6 +2,7 @@
 title: "Our Wedding"
 date: 2023-10-26T19:55:29+02:00
 draft: false
+summary: "Welcome page with essential wedding information, schedule, venue details, and RSVP instructions."
 ---
 
 {{< lead >}}

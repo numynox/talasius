@@ -15,7 +15,7 @@ La perla del lago. **Sirmione** è una penisola che si protende nell'acqua. L'in
 
 Le **Grotte di Catullo** sono rovine di una villa romana e si trovano sulla punta della penisola. I romani utilizzavano l'acqua termale calda che sgorga presso Sirmione per le loro terme. Dalle rovine, o da una delle spiagge, la vista delle acque turchesi e del lago aperto è da non perdere.
 
-![Sirmione](img/garda/sirmione.jpg)
+![Sirmione](img/garda/sirmione.jpg "Il Castello Scaligero di Sirmione")
 
 ## Gardone Riviera
 
@@ -29,7 +29,7 @@ Per gli amanti della natura e della storia, la **Rocca di Manerba** è un punto 
 
 La salita viene ricompensata: la vetta offre una bella vista panoramica del lago e delle sue isole. Nelle giornate limpide, la vista spazia fino alle montagne sulla sponda opposta.
 
-![Rocca di Manerba](img/garda/manerba.jpg)
+![Rocca di Manerba](img/garda/manerba.jpg "Vista dalla Rocca di Manerba sul lato sud del Lago di Garda")
 
 ## Giro in bici da Limone sul Garda
 

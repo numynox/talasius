@@ -16,7 +16,11 @@ Die Monte Isola ist eine der größten Seeinseln Europas und bietet eine wunderv
 ![Monte Isola](img/iseo/view4.jpg "Blick von Punta Alama auf Monte Isola")
 
 ## The Floating Piers
-Im Jahr 2016 schuf der Künstler Christo **The Floating Piers**, eine temporäre Installation, die es Menschen ermöglichte, von Sulzano nach Monte Isola und zur Insel San Paolo über das Wasser zu gehen. Obwohl die Installation verschwunden ist, hat das Ereignis den Iseosee auf die Weltkarte gebracht. Wenn ihr heute die gleiche Strecke mit dem Boot fahrt, bekommt ihr ein Gefühl für die Dimension des Projekts.
+Im Jahr 2016 schuf der Künstler Christo [**The Floating Piers**](https://de.wikipedia.org/wiki/The_Floating_Piers), eine temporäre Installation, die es Menschen ermöglichte, zwischen Sulzano, Monte Isola und der Insel San Paolo über das Wasser zu gehen. Obwohl die Installation verschwunden ist, hat das Ereignis den Iseosee auf die Weltkarte gebracht. Wenn ihr heute die gleiche Strecke mit dem Boot fahrt, bekommt ihr ein Gefühl für die Dimension des Projekts.
+
+![Floating Piers](img/iseo/floatingpiers-air.jpg "Die Floating Piers zwischen Sulzano, Monte Isola und San Paolo. © Francesco Tengattini")
+
+![Floating Piers](img/iseo/floatingpiers.jpg "Die Floating Piers waren für Besucher begehbar. © Massimo Buizza")
 
 ## Piramidi di Zone
 Für etwas wirklich Einzigartiges besucht die **Piramidi di Zone**. Dies sind massive Erdpfeiler, die von großen Felsbrocken gekrönt werden, entstanden durch Erosion. Sie sehen aus wie aus einem Fantasy-Film. Es gibt einen gut markierten Rundweg, der euch durch das Reservat führt und verschiedene Aussichtspunkte bietet, um diese geologischen Riesen zu bewundern. Der Weg dauert etwa 2 Stunden und startet bei [Il Chiosco südlich von Zone](https://maps.app.goo.gl/FzSxnvpyEn2JfpreA), wo man auch ein Ticket für den Besuch der Piramidi di Zone kaufen kann.

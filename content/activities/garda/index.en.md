@@ -15,7 +15,7 @@ The pearl of the lake. **Sirmione** is a stunning peninsula jutting into the wat
 
 The **Grotte di Catullo** is located at the very tip of the peninsula. These impressive ruins of a Roman villa are a highlight. The Romans used the hot thermal water emerging near Sirmione for their baths. The views over the turquoise water from up there are simply incredible and bring history to life.
 
-![Sirmione](img/garda/sirmione.jpg)
+![Sirmione](img/garda/sirmione.jpg "The Scaliger Castle in Sirmione")
 
 ## Gardone Riviera
 
@@ -29,7 +29,7 @@ For nature and history lovers among you, the **Rocca di Manerba** is a must. The
 
 The climb is rewarded: The summit offers a beautiful panoramic view of the lower lake and its islands. On clear days, the view extends far across the water to the mountains on the other shore.
 
-![Rocca di Manerba](img/garda/manerba.jpg)
+![Rocca di Manerba](img/garda/manerba.jpg "View from Rocca di Manerba over the southern part of Lake Garda")
 
 ## Bike ride from Limone sul Garda
 

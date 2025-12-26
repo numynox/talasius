@@ -3,6 +3,7 @@ title: "Agenda"
 featureimage: "img/iseo/boats.jpg"
 showTableOfContents: false
 type: "info"
+summary: "Schedule and key timings for the wedding day, including ceremony time and practical details."
 ---
 
 We are excited to celebrate with you on

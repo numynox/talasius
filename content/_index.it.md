@@ -2,6 +2,7 @@
 title: "Il nostro matrimonio"
 date: 2023-10-26T19:55:29+02:00
 draft: false
+summary: "Pagina di benvenuto con informazioni essenziali sul matrimonio, programma, location e istruzioni per RSVP."
 ---
 
 {{< lead >}}
@@ -13,3 +14,7 @@ Non vediamo l'ora di festeggiare il nostro matrimonio con voi. Qui troverete tut
 {{< alert icon="heart" >}}
 Fateci sapere entro il **28 febbraio 2026** se parteciperete.
 {{< /alert >}}
+
+&nbsp;
+
+&nbsp;
