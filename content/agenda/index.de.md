@@ -2,7 +2,7 @@
 title: "Ablauf"
 featureimage: "img/iseo/boats.jpg"
 showTableOfContents: false
-summary: "Alles, was ihr zum Ablauf am 7. Juli 2026 wissen müsst."
+summary: "Ablauf und die wichtigsten Zeiten an unserem Hochzeitstag, sowie praktische Details."
 type: "info"
 ---
 

@@ -14,7 +14,7 @@ We enjoy spending our time in nature and love hiking in the mountains around Lak
 
 ## El dos del Bec
 
-We have chosen the Agriturismo "[El dos del Bec](https://www.eldosdelbec.com/)" as our location. It is located in Toline, situated on a green hill at the foot of Corna Trentapassi. The property stands out for its agricultural charm: Not only are olives and persimmons grown here, but they also keep their own herd of alpacas. The kitchen proudly serves regional products. Especially beautiful is the wide view from the restaurant directly over Lake Iseo, which gives our celebration a unique setting.
+We have chosen the Agriturismo "[El dos del Bec](https://www.eldosdelbec.com/)" as our location. It is located in Toline, situated on a green hill at the foot of Corna Trentapassi. The property stands out for its rural charm: Not only are olives and persimmons grown here, but they also keep their own herd of alpacas. The kitchen proudly serves regional products. Especially beautiful is the wide view from the restaurant directly over Lake Iseo, which gives our celebration a unique setting.
 
 ![El dos del Bec](img/dosdelbec/exterior.jpg)
 
