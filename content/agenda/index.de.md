@@ -2,6 +2,7 @@
 title: "Ablauf"
 featureimage: "img/iseo/boats.jpg"
 showTableOfContents: false
+type: "info"
 ---
 
 

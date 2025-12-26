@@ -15,7 +15,7 @@ Die Perle des Sees. **Sirmione** ist eine atemberaubende Halbinsel, die ins Wass
 
 Die **Grotte di Catullo** befindet sich ganz an der Spitze der Halbinsel. Diese beeindruckenden Ruinen einer römischen Villa sind ein Highlight. Die Römer nutzten das bei Sirmione austretende heiße Thermalwasser für ihre Bäder. Die Ausblicke über das türkisfarbene Wasser von dort oben sind einfach unglaublich und lassen die Geschichte lebendig werden.
 
-![Sirmione](img/garda/sirmione.jpg)
+![Sirmione](img/garda/sirmione.jpg "Die Skaligerburg in Sirmione")
 
 ## Gardone Riviera
 
@@ -29,7 +29,7 @@ Für Natur- und Geschichtsliebhaber unter euch ist die **Rocca di Manerba** ein 
 
 Der Aufstieg wird belohnt: Der Gipfel bietet eine schöne Panoramaansicht des unteren Sees und seiner Inseln. An klaren Tagen reicht der Blick weit über das Wasser bis zu den Bergen am anderen Ufer.
 
-![Rocca di Manerba](img/garda/manerba.jpg)
+![Rocca di Manerba](img/garda/manerba.jpg "Blick vom Rocca di Manerba auf den südlichen Gardasee")
 
 ## Radtour ab Limone sul Garda
 
