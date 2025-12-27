@@ -79,3 +79,12 @@ img.rounded-full {
 html.dark img.rounded-full {
     border-color: white;
 }
+
+/* Homepage-only alert overlay: applied via conditional class on shortcode */
+.home-alert-overlay {
+    background: rgba(var(--color-neutral-900), 0.3);
+}
+
+html.dark .home-alert-overlay {
+    background: rgba(var(--color-neutral-900), 0.5);
+}
