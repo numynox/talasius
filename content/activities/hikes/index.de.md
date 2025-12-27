@@ -97,14 +97,21 @@ Die Wanderung zur **Punta Larici** startet im beschaulichen Bergdorf Pregasina, 
 {{< wikiloc id="244038543" >}}
 
 
-## Nördlich von Brescia
+## Brescia und Umgebung
 
 ![Ferrata Sasse](img/other/idro.jpg "Die Ferrata Sasse über dem Idrosee")
+
+### Monte Maddalena
+
+{{< hike-badges start="Monte Maddalena" distance="20min" duration="2h" ascent="150m" gpx="monte-maddalena.gpx" >}}
+
+Die _Via Panoramica_ führt direkt von Brescia in 13 Kehren auf den **Monte Maddalena** und überwindet dabei knapp 700 Höhenmeter. Vom Gipfel aus kann man eine schöne Rundwanderung oder aber auch nur einen kurzen Spaziergang machen und bei gutem Wetter bis zum Gardasee im Osten und zum Monte Rosa im Westen schauen. Zudem hat man einen direkten Blick auf die Marmor-Werke von Botticino.
+
+{{< wikiloc id="244931605" >}}
 
 ### Ferrata Sasse
 
 {{< hike-badges start="Baitoni am Idrosee" distance="70min" duration="4h" ascent="250m" gpx="ferrata-sasse.gpx" >}}
-
 
 Ein gut gepflegter **Klettersteig** direkt entlang des Ufers des Idrosees. Der Rückweg führt mit einigen Höhenmetern zurück durch den Wald. Das Highlight ist eine Seilbrücke über das Wasser. Die Klettersteigausrüstung kann beim Campingplatz am Startpunkt geliehen werden.
 

@@ -110,6 +110,14 @@ Una **via ferrata** ben tenuta direttamente lungo la riva del Lago d'Idro. Il se
 
 {{< wikiloc id="244035671" >}}
 
+### Monte Maddalena
+
+{{< hike-badges start="Monte Maddalena" distance="20min" duration="2h" ascent="150m" gpx="monte-maddalena.gpx" >}}
+
+La Via Panoramica sale direttamente da Brescia in 13 tornanti fino al **Monte Maddalena**, superando quasi 700 metri di dislivello. Dalla cima si può fare una bella escursione ad anello o anche solo una breve passeggiata e, con bel tempo, si può vedere fino al Lago di Garda a est e al Monte Rosa a ovest. Inoltre si ha una vista diretta sulle cave di marmo di Botticino.
+
+{{< wikiloc id="244931605" >}}
+
 ### Corna Blacca
 
 {{< hike-badges start="Maniva" distance="60min" duration="5h" ascent="500m" gpx="corna-blacca.gpx" >}}

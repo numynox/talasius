@@ -110,6 +110,14 @@ A well-maintained **via ferrata** directly along the shore of Lake Idro. The ret
 
 {{< wikiloc id="244035671" >}}
 
+### Monte Maddalena
+
+{{< hike-badges start="Monte Maddalena" distance="20min" duration="2h" ascent="150m" gpx="monte-maddalena.gpx" >}}
+
+The Via Panoramica climbs directly from Brescia in 13 hairpin bends up to **Monte Maddalena**, gaining nearly 700 meters of elevation. From the summit you can enjoy a pleasant circular hike or just a short stroll, and on clear days you can see as far as Lake Garda to the east and Monte Rosa to the west. You also get a direct view of the marble works of Botticino.
+
+{{< wikiloc id="244931605" >}}
+
 ### Corna Blacca
 
 {{< hike-badges start="Maniva" distance="60min" duration="5h" ascent="500m" gpx="corna-blacca.gpx" >}}
