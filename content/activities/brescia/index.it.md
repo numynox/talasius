@@ -39,3 +39,9 @@ Per i musei, consigliamo il [**Museo di Santa Giulia**](https://www.bresciamusei
 Quando volete fare una pausa pomeridiana, provate un **Pirlo**. È la versione locale dello Spritz, ma tipicamente fatta con vino bianco fermo. Trovate un tavolo in un bar in una delle piazze e godetevi l'atmosfera. La parola Pirlo si traduce con _ricciolo_ (quando si versa il Campari nel bicchiere), o _caduta_ (quando qualcuno ne ha bevuto troppo).
 
 ![Pirlo](img/brescia/pirlo.jpg)
+
+## Monte Maddalena
+
+La Via Panoramica sale direttamente da Brescia in 13 tornanti fino al **Monte Maddalena**, superando quasi 700 metri di dislivello. In alernativa, potete prendere il bus della linea 6. Dalla cima si può fare una [bella escursione ad anello](../hikes/#monte-maddalena) o anche solo una breve passeggiata e, con bel tempo, si può vedere fino al Lago di Garda a est e al Monte Rosa a ovest. Inoltre si ha una vista diretta sulle cave di marmo di Botticino.
+
+![Monte Maddalena](img/brescia/monte-maddalena.jpg)

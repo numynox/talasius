@@ -39,3 +39,9 @@ Was Museen angeht, empfehlen wir das [**Santa Giulia Museum**](https://www.bresc
 Wenn ihr eine Pause am Nachmittag machen wollt, probiert einen **Pirlo**. Das ist die lokale Variante des Spritz, aber typischerweise mit stillem Weißwein gemacht. Sucht euch einfach einen Tisch in einer Bar auf einem der Plätze und genießt die Atmosphäre. Das Wort Pirlo kann übersetzt werden  entweder als _Locke_ (wenn der Campari in das Glas fließt) oder als _Fall_ (wenn jemand zu viel davon hatte).
 
 ![Pirlo](img/brescia/pirlo.jpg)
+
+### Monte Maddalena
+
+Die _Via Panoramica_ führt direkt von Brescia in 13 Kehren auf den **Monte Maddalena** und überwindet dabei knapp 700 Höhenmeter. Alternativ könnt ihr auch die Buslinie 6 nehmen. Vom Gipfel aus kann man eine [schöne Rundwanderung](../hikes/#monte-maddalena) oder aber auch nur einen kurzen Spaziergang machen und bei gutem Wetter bis zum Gardasee im Osten und zum Monte Rosa im Westen schauen. Zudem hat man einen direkten Blick auf die Marmor-Werke von Botticino.
+
+![Monte Maddalena](img/brescia/monte-maddalena.jpg)

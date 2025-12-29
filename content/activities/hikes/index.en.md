@@ -101,6 +101,14 @@ The hike to **Punta Larici** starts in the tranquil mountain village of Pregasin
 
 ![Ferrata Sasse](img/other/idro.jpg "The Ferrata Sasse above Lake Idro")
 
+### Monte Maddalena
+
+{{< hike-badges start="Monte Maddalena" distance="20min" duration="2h" ascent="150m" gpx="monte-maddalena.gpx" >}}
+
+The Via Panoramica climbs directly from Brescia in 13 hairpin bends up to **Monte Maddalena**, gaining nearly 700 meters of elevation. Alternatively, you can take bus line 6. From the summit you can enjoy a pleasant circular hike or just a short stroll, and on clear days you can see as far as Lake Garda to the east and Monte Rosa to the west. You also get a direct view of the marble works of Botticino.
+
+{{< wikiloc id="244931605" >}}
+
 ### Ferrata Sasse
 
 {{< hike-badges start="Baitoni on Lake Idro" distance="70min" duration="4h" ascent="250m" gpx="ferrata-sasse.gpx" >}}
@@ -109,14 +117,6 @@ The hike to **Punta Larici** starts in the tranquil mountain village of Pregasin
 A well-maintained **via ferrata** directly along the shore of Lake Idro. The return path leads back through the forest with some elevation gain. The highlight is a rope bridge over the water. Equipment for the via ferrata can be rented at the campground near the start.
 
 {{< wikiloc id="244035671" >}}
-
-### Monte Maddalena
-
-{{< hike-badges start="Monte Maddalena" distance="20min" duration="2h" ascent="150m" gpx="monte-maddalena.gpx" >}}
-
-The Via Panoramica climbs directly from Brescia in 13 hairpin bends up to **Monte Maddalena**, gaining nearly 700 meters of elevation. From the summit you can enjoy a pleasant circular hike or just a short stroll, and on clear days you can see as far as Lake Garda to the east and Monte Rosa to the west. You also get a direct view of the marble works of Botticino.
-
-{{< wikiloc id="244931605" >}}
 
 ### Corna Blacca
 
