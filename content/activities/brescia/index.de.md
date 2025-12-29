@@ -40,7 +40,7 @@ Wenn ihr eine Pause am Nachmittag machen wollt, probiert einen **Pirlo**. Das is
 
 ![Pirlo](img/brescia/pirlo.jpg)
 
-### Monte Maddalena
+## Monte Maddalena
 
 Die _Via Panoramica_ führt direkt von Brescia in 13 Kehren auf den **Monte Maddalena** und überwindet dabei knapp 700 Höhenmeter. Alternativ könnt ihr auch die Buslinie 6 nehmen. Vom Gipfel aus kann man eine [schöne Rundwanderung](../hikes/#monte-maddalena) oder aber auch nur einen kurzen Spaziergang machen und bei gutem Wetter bis zum Gardasee im Osten und zum Monte Rosa im Westen schauen. Zudem hat man einen direkten Blick auf die Marmor-Werke von Botticino.
 

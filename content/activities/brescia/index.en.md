@@ -42,7 +42,7 @@ When you want to take an afternoon break, try a **Pirlo**. It's the local versio
 
 ![Pirlo](img/brescia/pirlo.jpg)
 
-### Monte Maddalena
+## Monte Maddalena
 
 {{< hike-badges start="Monte Maddalena" distance="20min" duration="2h" ascent="150m" gpx="monte-maddalena.gpx" >}}
 
