@@ -7,7 +7,7 @@ featureimage: "img/brescia/castle-tower.jpg"
 summary: "Entdeckt Brescia mit seinen römischen Ruinen, mittelalterlichen Burgen und Museen, und genießt die lokale Kultur und Küche."
 ---
 
-Brescia wird zwischen Mailand und Venedig oft übersehen, ist aber eine schöne Stadt, die viel zu bieten hat. Hier erfahrt ihr, was uns in Brescia besonders gefällt.
+Brescia, auch genannt die _Löwin Italiens_ hat viel zu bieten. Hier erfahrt ihr, was uns in Brescia besonders gefällt.
 
 ## Römisches Brescia
 Ein guter Startpunkt ist die [**Via dei Musei**](https://www.bresciamusei.com/en/museums-and-venues/brixia-roman-archaeological-area/), wo ihr das **Capitolium**, das **römische Theater** und das **Santa Giulia Museum** findet. Durch diese Orte wurde die Stadt zum UNESCO-Weltkulturerbe. Die römischen Ruinen vermitteln einen guten Eindruck der antiken Geschichte der Stadt, die damals _Brixia_ hieß.
