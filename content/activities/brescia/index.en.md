@@ -9,6 +9,12 @@ summary: "Explore Brescia's Roman ruins, medieval castles, and museums, and enjo
 
 Brescia, also called the _Lioness of Italy_ is a lovely city with a lot to offer. Here is a small guide to our favorite places.
 
+> [!INFO]- Our favorite restaurants
+> - Trattoria _Briscola_ (great view over the city)
+> - Pizzeria _La Serenella_ or _Il Serbatoio_
+> - Trattoria _La Buca_ or _Gasparo_ (classic Brescia cuisine)
+> - Ice cream parlor _Bedussi_ or _Ribera_
+
 ## Roman Brescia
 A good place to start is the [**Via dei Musei**](https://www.bresciamusei.com/en/museums-and-venues/brixia-roman-archaeological-area/), where you can find the **Capitolium**, the **Roman Theatre** and the **Santa Giulia Museum**. These sites brought the UNESCO World Heritage acknowledgement to the city. The Roman ruins give you a sense of the city's ancient history, which was called _Brixia_ back then.
 

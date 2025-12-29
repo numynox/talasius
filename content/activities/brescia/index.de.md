@@ -9,6 +9,12 @@ summary: "Entdeckt Brescia mit seinen römischen Ruinen, mittelalterlichen Burge
 
 Brescia, auch genannt die _Löwin Italiens_ hat viel zu bieten. Hier erfahrt ihr, was uns in Brescia besonders gefällt.
 
+> [!INFO]- Unsere Lieblingsrestaurants
+> - Trattoria _Briscola_ (toller Blick über die Stadt)
+> - Pizzeria _La Serenella_ oder _Il Serbatoio_
+> - Trattoria _La Buca_ oder _Gasparo_ (klassische Küche aus Brescia)
+> - Eisdiele _Bedussi_ oder _Ribera_
+
 ## Römisches Brescia
 Ein guter Startpunkt ist die [**Via dei Musei**](https://www.bresciamusei.com/en/museums-and-venues/brixia-roman-archaeological-area/), wo ihr das **Capitolium**, das **römische Theater** und das **Santa Giulia Museum** findet. Durch diese Orte wurde die Stadt zum UNESCO-Weltkulturerbe. Die römischen Ruinen vermitteln einen guten Eindruck der antiken Geschichte der Stadt, die damals _Brixia_ hieß.
 

@@ -9,6 +9,12 @@ summary: "Esplorate Brescia con le sue rovine romane, un castello medievale, mus
 
 Brescia, la _Leonessa d'Italia_ offre diverse attività. Ecco una breve guida ai nostri luoghi preferiti.
 
+> [!INFO]- I nostri ristoranti preferiti
+> - Trattoria _Briscola_ (bella vista sulla città)
+> - Pizzeria _La Serenella_ o _Il Serbatoio_
+> - Trattoria _La Buca_ o _Gasparo_ (cucina tradizionale di Brescia)
+> - Gelateria _Bedussi_ o _Ribera_
+
 ## Brescia Romana
 Un buon punto di partenza è [**Via dei Musei**](https://www.bresciamusei.com/musei-e-luoghi/parco-archeologico/), dove potete trovare il **Capitolium**, il **Teatro Romano** e il **Museo di Santa Giulia**. Questi siti hanno contribuito a rendere Brescia patrimonio dell'UNESCO e danno un'idea della storia antica della città, che ai tempi si chiamava _Brixia_. Una visita ai resti romani merita di essere considerata.
 
