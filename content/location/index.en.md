@@ -24,10 +24,9 @@ The Agriturismo can be reached comfortably from Brescia by car in about 40 minut
 
 There is also a train from Brescia to Toline, but the last connection back is already at 8 pm.
 
-> **El Dos Del Bec**<br>
+> [!INFO] El Dos Del Bec
 > Via Canale<br>
 > 25055 Pisogne (Brescia)
->
 
 {{< button href="https://www.google.com/maps/dir/?api=1&destination=45.783692,10.0880215" target="_blank" >}}{{< icon "google" >}} Google Maps{{< /button >}} &nbsp;
 {{< button href="https://maps.apple.com/?daddr=45.783692,10.0880215&dirflg=d" target="_blank" >}}{{< icon "apple" >}} Apple Maps{{< /button >}}
