@@ -24,7 +24,7 @@ L'Agriturismo è raggiungibile comodamente da Brescia in auto in circa 40 minuti
 
 Da Brescia c'è anche un treno per Toline, ma l'ultimo collegamento di ritorno è già alle 20:00.
 
-> **El Dos Del Bec**<br>
+> [!INFO] El Dos Del Bec
 > Via Canale<br>
 > 25055 Pisogne (Brescia)
 
