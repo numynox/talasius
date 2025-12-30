@@ -9,7 +9,8 @@ summary: "Scoprite le nostre escursioni preferite intorno al Lago d'Iseo e al La
 
 Se vi piace camminare, siete nel posto giusto. Ecco i nostri sentieri preferiti con vista sui laghi.
 
-> **Nota importante:** alcune delle escursioni sono impegnative e richiedono esperienza. Valutate realisticamente le vostre capacità e non esitate a contattarci direttamente se avete domande su un tour specifico.
+> [!WARNING] Nota importante
+> Alcune delle escursioni sono impegnative e richiedono esperienza. Valutate realisticamente le vostre capacità e non esitate a contattarci direttamente se avete domande su un tour specifico.
 
 ## Lago d'Iseo
 
@@ -22,7 +23,8 @@ Se vi piace camminare, siete nel posto giusto. Ecco i nostri sentieri preferiti 
 
 Per la migliore vista sul Lago d'Iseo, dovete assolutamente salire sulla **Corna Trentapassi**. È una salita ripida, ma credeteci, il panorama a 360 gradi dalla vetta ne vale assolutamente la pena. Avete tutto il lago e Monte Isola come su un vassoio d'argento. Inoltre, potete vedere la nostra location del matrimonio dall'alto. La parte meridionale dell'escursione circolare conduce lungo un sentiero esposto. Se questo non fa per voi, si può percorrere la parte settentrionale sia all'andata che al ritorno.
 
-*Suggerimento: Potete combinare questa escursione con una passeggiata alle [Piramidi di Zone](../iseo) – impressionanti piramidi di terra che fanno davvero scena.*
+> [!TIP] Suggerimento
+> Potete combinare questa escursione con una passeggiata alle [Piramidi di Zone](../iseo#piramidi-di-zone).
 
 {{< wikiloc id="244033705" >}}
 
