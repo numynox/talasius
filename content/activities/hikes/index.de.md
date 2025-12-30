@@ -23,7 +23,8 @@ Wenn ihr gerne wandert, seid ihr hier genau richtig. Hier sind unsere Lieblingsw
 
 Für den besten Blick auf den Iseosee müsst ihr unbedingt auf die **Corna Trentapassi**. Es ist ein steiler Anstieg, aber glaubt uns, das 360-Grad-Panorama vom Gipfel ist es absolut wert. Ihr habt den ganzen See und die Monte Isola wie auf dem Präsentierteller. Außerdem könnt ihr unsere Hochzeitslocation noch einmal von oben sehen. Der südliche Teil der Rundwanderung führt über einen exponierten Pfad. Falls das nichts für euch ist, kann auch der nördliche Teil auf dem Hin- und Rückweg genommen werden.
 
-*Tipp: Ihr könnt diese Wanderung mit einem Spaziergang zu den [Piramidi di Zone](../iseo) verbinden – beeindruckende Erdpyramiden, die echt was her machen.*
+> [!TIP] Tipp
+> Ihr könnt diese Wanderung mit einem Spaziergang zu den [Piramidi di Zone](../iseo#piramidi-di-zone) verbinden.
 
 {{< wikiloc id="244033705" >}}
 
