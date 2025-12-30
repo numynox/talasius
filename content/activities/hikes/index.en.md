@@ -9,7 +9,8 @@ summary: "Discover our favorite hikes around Lake Iseo and Lake Garda for breath
 
 If you like hiking, you've come to the right place. Here are our favorite trails around the lakes.
 
-> **Important Note:** some of the hikes presented here are demanding and involve alpine hazards. Please assess your abilities realistically and feel free to contact us directly if you have questions about a specific tour.
+> [!WARNING] Important Note
+> Some of the hikes presented here are demanding and involve alpine hazards. Please assess your abilities realistically and feel free to contact us directly if you have questions about a specific tour.
 
 ## Lake Iseo
 
@@ -22,7 +23,8 @@ If you like hiking, you've come to the right place. Here are our favorite trails
 
 For the best view of Lake Iseo, you absolutely must go up **Corna Trentapassi**. It's a steep climb, but believe us, the 360-degree panorama from the summit is absolutely worth it. You have the whole lake and Monte Isola laid out before you. Plus, you can see our wedding venue from above. The southern part of the circular hike leads along an exposed path. If this is not for you, the northern part can also be taken on the way there and back.
 
-*Tip: You can combine this hike with a walk to the [Piramidi di Zone](../iseo) – impressive earth pyramids that are really something special.*
+> [!TIP] Tip
+> You can combine this hike with a walk to the [Piramidi di Zone](../iseo#piramidi-di-zone).
 
 {{< wikiloc id="244033705" >}}
 
