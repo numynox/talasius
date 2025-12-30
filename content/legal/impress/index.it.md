@@ -7,7 +7,7 @@ layout: "simple"
 
 Responsabile dei contenuti<br>
 Jannis Dickmann & Giulia Buizza<br>
-jannis.dickmann+numynox@gmail.com
+webmaster@iseo26.eu
 
 ## Risoluzione delle controversie UE
 
