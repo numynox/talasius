@@ -9,7 +9,8 @@ summary: "Entdeckt unsere liebsten Wanderungen rund um den Iseosee und Gardasee 
 
 Wenn ihr gerne wandert, seid ihr hier genau richtig. Hier sind unsere Lieblingswege rund um die Seen.
 
-> **Wichtiger Hinweis:** Einige der hier vorgestellten Wanderungen sind anspruchsvoll und mit alpinen Gefahren verbunden. Bitte schätzt eure Fähigkeiten realistisch ein und sprecht uns gerne direkt an, wenn ihr Fragen zu einer bestimmten Tour habt.
+> [!WARNING] Wichtiger Hinweis
+> Einige der hier vorgestellten Wanderungen sind anspruchsvoll und mit alpinen Gefahren verbunden. Bitte schätzt eure Fähigkeiten realistisch ein und sprecht uns gerne direkt an, wenn ihr Fragen zu einer bestimmten Tour habt.
 
 ## Iseosee
 
