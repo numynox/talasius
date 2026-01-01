@@ -11,12 +11,14 @@ We enjoy spending our time in nature and love hiking in the mountains around Lak
 
 ![Iseosee](img/iseo/selfie.jpg)
 
+## El Dos del Bec
+As a venue we chose the agriturismo ["El Dos del Bec"](https://www.eldosdelbec.com/), which is located on a green hill at the foot of the Corna Trentapassi in Toline. The property enjoys a panoramic view of Lake Iseo, thanks to its privileged position opposite Lovere and the gorge of Castro, with a glimpse of the Orobie alps, recognizable in winter by their snow-capped peaks.
 
-## El dos del Bec
+![El Dos del Bec](https://www.eldosdelbec.com/wp-content/uploads/2024/03/PANORAMA-DOS-DEL-BEC-.jpg "View of the lake and the agriturismo. © El Dos del Bec")
 
-We have chosen the Agriturismo "[El dos del Bec](https://www.eldosdelbec.com/)" as our location. It is located in Toline, situated on a green hill at the foot of Corna Trentapassi. The property stands out for its rural charm: Not only are olives and persimmons grown here, but they also keep their own herd of alpacas. The kitchen proudly serves regional products. Especially beautiful is the wide view from the restaurant directly over Lake Iseo, which gives our celebration a unique setting.
+The name translates to "the bump of the buck", where 'buck' is the male goat, recalling the farming tradition around the lake and throughout Val Camonica. The farm associated with the agriturismo currently raises various animals, including sheep, cattle, and alpacas, the latter chosen for their sustainability. In addition, the cultivation of olive trees, chestnuts, fruit trees, and many other varieties allows the agriturismo to create high-quality locally sourced dishes (_"a kilometro zero"_) and menus that respect the seasonality of the products. El Dos del Bec will surprise you with delicious dishes typical for the lake and its mountains!
 
-![El dos del Bec](img/dosdelbec/exterior.jpg)
+![El Dos del Bec](img/dosdelbec/exterior.jpg "El Dos del Bec in winter with the Corna Trentapassi in the background.")
 
 ## Getting to the venue
 

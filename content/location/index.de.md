@@ -11,12 +11,14 @@ Wir verbringen unsere Zeit gerne in der Natur und lieben es, in den Bergen rund 
 
 ![Iseosee](img/iseo/selfie.jpg)
 
+## El Dos del Bec
+Als Location haben wir das Agriturismo ["El Dos del Bec"](https://www.eldosdelbec.com/) gewählt, das auf einem grünen Hügel am Fuße der Corna Trentapassi in Toline liegt. Die Anlage bietet einen Panoramablick auf den Iseosee, dank der privilegierten Lage gegenüber von Lovere und der Schlucht von Castro, mit einem Blick auf die Gruppe der Alpi Orobie, die im Winter an ihren schneebedeckten Gipfeln zu erkennen sind.
 
-## El dos del Bec
+![El Dos del Bec](https://www.eldosdelbec.com/wp-content/uploads/2024/03/PANORAMA-DOS-DEL-BEC-.jpg "Blick auf den See und das Agriturismo. © El Dos del Bec")
 
-Als Location haben wir uns für das Agriturismo "[El dos del Bec](https://www.eldosdelbec.com/)" entschieden. Es befindet sich in Toline, gelegen auf einer grünen Anhöhe am Fuße der Corna Trentapassi. Das Anwesen zeichnet sich durch seinen ländlichen Charme aus: Hier wachsen nicht nur Oliven und Kakis, sondern es wird auch eine eigene Alpakaherde gehalten. Die Küche serviert stolz regionale Produkte. Besonders schön ist der weite Blick vom Restaurant direkt auf den Iseosee, der unserer Feier einen einzigartigen Rahmen gibt.
+Der Name lässt sich mit "der Buckel des Bocks" übersetzen, wobei 'Bock' der männliche Ziegenbock ist, und auf die bäuerliche Tradition rund um den See und im gesamten Val Camonica verweist. Der zum Agriturismo gehörende Bauernhof hält heute verschiedene Tiere, darunter Schafe, Rinder und Alpakas, wobei letztere wegen ihrer Nachhaltigkeit gewählt wurden. Zusätzlich ermöglichen der Anbau von Olivenbäumen, Kastanien, Obstbäumen und vielen weiteren Sorten dem Agriturismo, hochwertige Gerichte mit Zutaten aus der Region (_"a kilometro zero"_) zuzubereiten und Menüs, die die Saisonalität der Produkte respektieren. El Dos del Bec wird euch mit köstlichen Gerichten typisch für den See und seiner Berge überraschen!
 
-![El dos del Bec](img/dosdelbec/exterior.jpg "El dos del Bec im Winter mit der Corna Trentapassi im Hintergrund.")
+![El Dos del Bec](img/dosdelbec/exterior.jpg "El Dos del Bec im Winter mit der Corna Trentapassi im Hintergrund.")
 
 ## Anfahrt zur Location
 

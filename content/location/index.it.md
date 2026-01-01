@@ -11,12 +11,16 @@ Ci piace trascorrere il nostro tempo nella natura e amiamo fare escursioni sulle
 
 ![Iseosee](img/iseo/selfie.jpg)
 
+## El Dos del Bec
 
-## El dos del Bec
+Come location abbiamo scelto l'agriturismo ["El Dos del Bec"](https://www.eldosdelbec.com/), che si trova su una verde collina ai piedi della Corna Trentapassi a Toline. La proprietà gode di una vista panoramica sul lago di Iseo, grazie alla sua posizione privilegiata di fronte a Lovere e all'orrido di Castro, con uno scorcio sul gruppo della Alpi Orobie, in inverno riconoscibili per le loro vette innevate.
 
-Come location abbiamo scelto l'Agriturismo "[El dos del Bec](https://www.eldosdelbec.com/)". Si trova a Toline, situato su una verde collina ai piedi della Corna Trentapassi. La proprietà si distingue per il suo fascino agricolo: qui non si coltivano solo olive e cachi, ma si alleva anche un proprio gregge di alpaca. La cucina serve con orgoglio prodotti regionali. Particolarmente bella è l'ampia vista dal ristorante direttamente sul Lago d'Iseo, che offre alla nostra festa una cornice unica.
+![El Dos del Bec](https://www.eldosdelbec.com/wp-content/uploads/2024/03/PANORAMA-DOS-DEL-BEC-.jpg "Vista del lago e dell'agriturismo. © El Dos del Bec")
 
-![El dos del Bec](img/dosdelbec/exterior.jpg "El dos del Bec in inverno con la Corna Trentapassi sullo sfondo.")
+Il nome si traduce con "Il dosso del becco", dove il becco è il maschio della capra nel dialetto locale, che richiama la tradizione contadina dei dintorni del lago e dell'intera Val Camonica. L'azienda agricola associata all'agriturismo ad oggi alleva diversi animali, tra cui ovini, bovini, e alpaca, quest'ultimi scelti per la loro sostenibilità. In aggiunta, la coltivazione di ulivi, castagni, alberi da frutto, e molte altre varietá, permette all'agriturismo di comporre piatti di elevata qualità a kilometro zero e menu che rispettano la stagionalità dei prodotti.
+El Dos del Bec vi sorprenderà con buonissimi piatti tipici del lago e dei suoi monti!
+
+![El Dos del Bec](img/dosdelbec/exterior.jpg "El Dos del Bec in inverno con la Corna Trentapassi sullo sfondo.")
 
 ## Come arrivare
 
