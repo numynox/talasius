@@ -4,17 +4,22 @@ date: 2023-11-20T10:00:00+01:00
 draft: false
 weight: 60
 featureimage: "img/other/vino-tedesco.jpg"
-summary: "Explore the world-famous wine regions of Franciacorta and Lugana right at our doorstep."
+summary: "Explore the world-famous wine regions of Franciacorta and Lugana right on our doorstep."
 ---
 
-Great news: Our wedding location is perfectly situated between two renowned wine regions: Franciacorta to the west and Lugana to the east.
+Our wedding venue is perfectly located between two renowned wine regions: Franciacorta to the west and Lugana to the east.
+
+> [!INFO]
+> For visiting wineries, booking in advance is recommended; tastings typically cost between €25 and €100.
 
 ## Franciacorta
-The **Franciacorta** region, located south of Lake Iseo, is famous for its sparkling method champenoise wines. Think of it as Italy's answer to Champagne.
-*   **What to do:** Visit a historic winery (cantina) for a tour and tasting. Famous names include *Berlucchi*, *Ca' del Bosco*, and *Bellavista*, but smaller family-run wineries often offer a more intimate experience.
-*   **The Wine:** You have to try the *Franciacorta Satèn*, a silky, smooth sparkling wine unique to this region.
+The region **Franciacorta**, south of Lake Iseo, is famous for its sparkling wines produced by the traditional bottle-fermentation method. Franciacorta Brut and Satèn are Italy's answer to Champagne. Visit a historic winery and take a tour with tasting. Famous names include
+- [Ferghettina](https://www.ferghettina.it/en/visit-the-winery/),
+- [Ca' del Bosco](https://www.cadelbosco.com/en/visit-the-cellar/), and
+- [Monte Rossa](https://www.monterossa.com/en/monte-rossa-shop-en/visits-and-events/).
 
 ## Lugana
-Located on the southern shores of Lake Garda, the **Lugana** region produces excellent white wines, primarily from the Turbiana grape.
-*   **What to do:** Drive through the vineyards around Sirmione and Desenzano. Many wineries offer tastings without prior booking, so you can just drop by.
-*   **The Wine:** Lugana is a fresh, mineral white wine that pairs perfectly with lake fish.
+Located on the southern shore of Lake Garda, the **Lugana** region produces excellent white wines, mainly from the Turbiana grape. Lugana is a fresh, mineral white wine that pairs perfectly with freshwater fish. Drive through the vineyards around Sirmione and Desenzano. Recommended wineries for a visit and tasting include
+- [Ca' dei Frati](https://cadeifrati.it/en/tour-booking/),
+- [Ca' Maiol](https://www.camaiol.it/en/experiences/), and
+- [Olivini](https://www.famigliaolivini.com/en/experience/).

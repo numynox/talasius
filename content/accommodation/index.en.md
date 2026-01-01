@@ -10,7 +10,7 @@ There is a broad range of accommodation options available at Lake Iseo and in Br
 
 ## Staying at Lake Iseo
 
-If you prefer to stay close to the venue and enjoy the lake atmosphere, we recommend looking for hotels in **Pisogne**, **Marone**, or **Sale Marasino**. The town of **Iseo** itself offers even more choices and a lively promenade.
+If you prefer to stay close to the venue and enjoy the lake atmosphere, we recommend looking for hotels in **Pisogne** or **Lovere** in the north, **Marone**, **Sale Marasino**, or **Sulzano** in the east. The town of **Iseo** itself offers even more choices and a lively promenade.
 
 ![Iseo](img/iseo/water2.jpg)
 
@@ -18,7 +18,7 @@ If you prefer to stay close to the venue and enjoy the lake atmosphere, we recom
 
 If you want to stay longer and have a central base for exploring various places between Lake Iseo and Lake Garda, we recommend staying in **Brescia**.
 
-*   **Location:** Any hotel in the city center between *Via Pusterla* and *Via Vittorio Emanuele II*, or along *Via Crocifissa di Rosa* is a good choice.
+*   **Location:** Any hotel in the city center between *Via Pusterla* and *Via Vittorio Emanuele II*, or along *Via Crocifissa di Rosa* is a good choice. For 4-star hotels, you can choose between the hotels _Ambasciatori_, _Master_, and _Vittoria_.
 *   **Connections:** Brescia is well connected by train to Milan, the southern part of Lake Garda, Verona, Venice, and Turin.
 *   **Access by car:** The [city center of Brescia](https://www.bresciamobilita.it/map#/mode=busRoutes/poitypes=ztlentrance,ztlarea/date=07-12-2025/direction=0/) cannot be accessed by car, unless your accommodation provides parking and registers your license plate for access to the city center. The restricted area is called **ZTL** (Zona di Traffico Limitato) and "ZTL attiva / ZTL closed" means you are not allowed to enter without registration.
 
