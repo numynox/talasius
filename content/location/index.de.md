@@ -18,11 +18,13 @@ Als Location haben wir uns für das Agriturismo "[El dos del Bec](https://www.el
 
 ![El dos del Bec](img/dosdelbec/exterior.jpg "El dos del Bec im Winter mit der Corna Trentapassi im Hintergrund.")
 
-## Anfahrt
+## Anfahrt zur Location
 
 Das Agriturismo ist von Brescia aus bequem mit dem Auto in etwa 40 Minuten zu erreichen (60 Minuten vom Flughafen Bergamo). Direkt vor Ort stehen ausreichend Parkplätze zur Verfügung. Bitte beachtet, dass die letzten Meter zur Location über eine steile und relativ schmale Straße führen. Wer sein Auto lieber unten im Ort Toline parken möchte, kann für das letzte Stück einen Shuttleservice nutzen (diesbezüglich werden wir uns noch mal bei euch melden).
 
-Von Brescia fährt auch ein Zug nach Toline, allerdings ist die letzte Verbindung zurück bereits um 20 Uhr.
+Wenn ihr lieber nicht fahren wollt, teilt uns dies bitte in eurer Zusage mit. Wir können euch mit Gästen in Kontakt bringen, die freie Plätze in ihrem Auto haben. Ebenso, wenn ihr ein Auto habt und eine Mitfahrgelegenheit anbieten könnt, gebt uns bitte Bescheid.
+
+Von Brescia fährt auch ein Zug nach Toline, allerdings ist die letzte Verbindung zurück bereits um 20 Uhr. Deshalb sind wir am Überlegen, ob wir für interessierte Gäste auf eigene Kosten einen Bus mieten, um zurück von Toline nach Brescia zu kommen, ggf. mit einem Stop in Iseo. Alternativ könnten wir den Bus auch für Hin- und Rückfahrt mieten. Lasst uns bei eurer Rückmeldung wissen, ob ihr Interesse daran habt.
 
 > [!INFO] El Dos Del Bec
 > Via Canale<br>

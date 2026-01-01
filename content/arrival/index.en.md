@@ -37,11 +37,4 @@ Traveling together is not only more environmentally friendly but also more fun! 
 
 ## Getting to the venue
 
-To reach the wedding venue, we recommend the following options.
-
-*   **Car:** A car is the most convenient way to reach the venue. Rental cars are available at all airports and in Brescia.
-*   **Carpooling:** If you prefer not to rent a car, please let us know in the RSVP. We can put you in touch with guests who have free seats in their car. Likewise, if you have a car and can offer a ride, please let us know.
-*   **Train:** It is possible to reach the venue by train from Brescia, but please note that the **last train back departs at 8:00 PM**, while the party will continue for longer.
-*   **Taxi:** We **do not recommend** relying on taxis to get to or from the venue, as they can be unreliable even from nearby towns like Pisogne.
-
-If you have any questions, don't hesitate to contact us.
+You can find all you need to know about how to get to the venue [on this page](../location/#getting-to-the-venue).

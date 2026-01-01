@@ -11,7 +11,7 @@ Wir freuen uns darauf, mit euch zu feiern am
 
 {{< countdown date="2026-07-11T12:00:00" >}}
 
-Bitte kommt um 12:00 Uhr zu [El dos del Bec](/content/location/index.de.md).
+Bitte kommt bis spätestens 12:00 Uhr zu [El dos del Bec](/content/location/index.de.md).
 
 
 Das Ende der Feier ist zwischen 21:00 und 22:00 Uhr geplant, sodass genügend Zeit bleibt, um zu eurem Hotel zurückzukehren.

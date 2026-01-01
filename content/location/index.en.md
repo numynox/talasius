@@ -18,11 +18,13 @@ We have chosen the Agriturismo "[El dos del Bec](https://www.eldosdelbec.com/)" 
 
 ![El dos del Bec](img/dosdelbec/exterior.jpg)
 
-## Arrival
+## Getting to the venue
 
 The Agriturismo can be reached comfortably from Brescia by car in about 40 minutes (60 minutes from Bergamo Airport). Sufficient parking spaces are available directly on site. Please note that the last meters to the location lead over a steep and relatively narrow road. Those who prefer to park their car down in the village of Toline can use a shuttle service for the last part (we will contact you for this at a later point).
 
-There is also a train from Brescia to Toline, but the last connection back is already at 8 pm.
+If you prefer not to drive, please let us know in the RSVP. We can put you in touch with guests who have free seats in their car. Likewise, if you have a car and can offer a ride, please let us know.
+
+There is also a train from Brescia to Toline, but the last connection back is already at 8 pm. Therefore, we consider to book a bus for all interested guests at your own cost back from Toline to Brescia with a potential stop in Iseo. Alternatively, the bus could also be booked in both directions. Please let us know in your RSVP if you are interested.
 
 > [!INFO] El Dos Del Bec
 > Via Canale<br>

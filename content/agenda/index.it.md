@@ -10,7 +10,7 @@ Non vediamo l'ora di festeggiare con voi in
 
 {{< countdown date="2026-07-11T12:00:00" >}}
 
-Vi preghiamo di arrivare a [El dos del Bec](/content/location/index.it.md) alle 12:00.
+Vi preghiamo di arrivare a [El dos del Bec](/content/location/index.it.md) entro le ore 12:00.
 
 La fine della giornata è prevista tra le 21:00 e le 22:00, lasciandovi abbastanza tempo per il rientro.
 

@@ -35,13 +35,6 @@ L'Aeroporto di Verona (VRN) offre principalmente solo voli regionali.
 
 Viaggiare insieme non è solo più ecologico ma anche più divertente! Se siete interessati al carpooling o a viaggiare in gruppo, fatecelo sapere nella vostra conferma (RSVP). Vi aggiungeremo a un gruppo WhatsApp dove potrete coordinarvi con gli altri ospiti.
 
-## Arrivare alla location
+## Come arrivare alla location
 
-Per raggiungere il luogo del matrimonio, consigliamo le seguenti opzioni.
-
-*   **Auto:** L'auto è il modo più comodo per raggiungere la location. Le auto a noleggio sono disponibili in tutti gli aeroporti e a Brescia.
-*   **Carpooling:** Se non volete noleggiare un'auto, fatecelo sapere nella conferma (RSVP). Possiamo mettervi in contatto con ospiti che hanno posti liberi nella loro auto. Allo stesso modo, se avete un'auto e potete offrire un passaggio, fatecelo sapere.
-*   **Treno:** È possibile raggiungere la location in treno da Brescia, ma tenete presente che l'**ultimo treno per il ritorno parte alle 20:00**, mentre la festa continuerà più a lungo.
-*   **Taxi:** **Sconsigliamo** di affidarsi ai taxi per raggiungere o lasciare la location, poiché possono essere inaffidabili anche da paesi vicini come Pisogne.
-
-Se avete domande, non esitate a contattarci.
+Informazioni su come raggiungere l'agriturismo le [trovate qui](../location/#come-arrivare).

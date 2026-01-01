@@ -37,11 +37,4 @@ Gemeinsam zu reisen ist nicht nur umweltfreundlicher, sondern macht auch mehr Sp
 
 ## Anreise zur Location
 
-Um den Hochzeitsort zu erreichen, empfehlen wir die folgenden Optionen.
-
-*   **Auto:** Ein Auto ist der bequemste Weg, um den Ort zu erreichen. Mietwagen sind an allen Flughäfen und in Brescia verfügbar.
-*   **Fahrgemeinschaften:** Wenn ihr lieber keinen Mietwagen nehmen möchtet, teilt uns dies bitte in eurer Zu- oder Absage mit. Wir können euch mit Gästen in Kontakt bringen, die freie Plätze in ihrem Auto haben. Ebenso, wenn ihr ein Auto habt und eine Mitfahrgelegenheit anbieten könnt, gebt uns bitte Bescheid.
-*   **Zug:** Es ist möglich, den Ort mit dem Zug von Brescia aus zu erreichen, aber bitte beachtet, dass der **letzte Zug zurück um 20:00 Uhr abfährt**, während die Party länger andauern wird.
-*   **Taxi:** Wir empfehlen **nicht**, sich auf Taxis zu verlassen, um zum oder vom Ort zu gelangen, da sie selbst von nahegelegenen Städten wie Pisogne unzuverlässig sein können.
-
-Wenn ihr Fragen habt, zögert nicht, uns zu kontaktieren.
+Alles wichtige zur Anreise zur Location haben wir [hier zusammengefasst](../location/#anfahrt-zur-location).

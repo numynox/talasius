@@ -18,11 +18,13 @@ Come location abbiamo scelto l'Agriturismo "[El dos del Bec](https://www.eldosde
 
 ![El dos del Bec](img/dosdelbec/exterior.jpg "El dos del Bec in inverno con la Corna Trentapassi sullo sfondo.")
 
-## Arrivo
+## Come arrivare
 
 L'Agriturismo è raggiungibile comodamente da Brescia in auto in circa 40 minuti (60 minuti dall'aeroporto di Bergamo). Ci sono sufficienti parcheggi direttamente in loco. Si prega di notare che gli ultimi metri verso la location portano su una strada ripida e relativamente stretta. Chi preferisce lasciare l'auto giù nel paese di Toline può utilizzare un servizio navetta per l'ultimo tratto (per questo vi contatteremo più in là).
 
-Da Brescia c'è anche un treno per Toline, ma l'ultimo collegamento di ritorno è già alle 20:00.
+Se non volete guidare, fatecelo sapere nella conferma (RSVP). Possiamo mettervi in contatto con ospiti che hanno posti liberi nella loro auto. Allo stesso modo, se avete un'auto e potete offrire un passaggio, fatecelo sapere.
+
+Da Brescia c'è anche un treno per Toline, ma l'ultimo collegamento di ritorno è già alle ore 20:00. Stiamo valutando di prenotare un bus (per chi avrá interesse, a sue spese) per tornare da Toline a Brescia con una possibile fermata intermedia a Iseo. Oppure sia per l'andata che per il ritorno. Fateci sapere nella vostra RSVP se siete interessati.
 
 > [!INFO] El Dos Del Bec
 > Via Canale<br>
