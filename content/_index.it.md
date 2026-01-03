@@ -9,10 +9,4 @@ summary: "Pagina di benvenuto con informazioni essenziali sul matrimonio, progra
 Non vediamo l'ora di festeggiare il nostro matrimonio con voi. Qui troverete tutte le informazioni importanti. La festa si terrà [l'11 luglio 2026 dalle ore 12:00](agenda/) presso l'agriturismo [El Dos del Bec](location/) sul lato orientale del Lago d'Iseo.
 {{< /lead >}}
 
-{{< rsvp-button >}}Fateci sapere se venite!{{< /rsvp-button >}}
-
-{{< alert icon="heart" >}}
-Vi preghiamo di farci sapere entro il **28 febbraio 2026** se parteciperete.
-{{< /alert >}}
-
-&mdash;&mdash;&mdash;&mdash;
+{{< rsvp-button call="Vi preghiamo di farci sapere entro il **28 febbraio 2026** se parteciperete." >}}Fateci sapere se venite!{{< /rsvp-button >}}
