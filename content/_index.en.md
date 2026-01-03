@@ -15,6 +15,4 @@ We are looking forward to celebrating our wedding with you. Here you will find a
 Please let us know if you are able to attend until **February 28, 2026**.
 {{< /alert >}}
 
-&nbsp;
-
-&nbsp;
+&mdash;&mdash;&mdash;&mdash;

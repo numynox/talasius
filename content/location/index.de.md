@@ -2,7 +2,8 @@
 title: "Veranstaltungsort"
 featureimage: "img/iseo/evening.jpg"
 type: "info"
-summary: "Informationen zur Location 'El dos del Bec', Anreise und Highlights rund um den Iseosee."
+summary: "Informationen zur Location 'El dos del Bec' und zur Anreise."
+weight: 10
 ---
 
 ## Auf den Gipfeln des Iseosees

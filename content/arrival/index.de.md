@@ -3,6 +3,7 @@ title: "Anreise"
 featureimage: "img/brescia/panorama.jpg"
 summary: "Informationen zur Anreise mit Zug, Flugzeug oder Auto sowie Möglichkeiten für Fahrgemeinschaften."
 type: "info"
+weight: 30
 ---
 
 Wir sind uns bewusst, dass die Feier in Italien CO₂-Emissionen verursacht. Um unseren Fußabdruck zu reduzieren, möchten wir euch helfen, die effizientesten Reisemöglichkeiten zu finden und euch mit anderen Gästen in Kontakt zu bringen, um gemeinsam zu reisen.

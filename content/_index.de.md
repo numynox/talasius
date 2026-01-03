@@ -15,6 +15,4 @@ Wir freuen uns, gemeinsam mit euch unsere Hochzeit zu feiern. Hier findet ihr al
 Bitte teilt uns bis zum **28. Februar 2026** mit, ob ihr kommen könnt.
 {{< /alert >}}
 
-&nbsp;
-
-&nbsp;
+&mdash;&mdash;&mdash;&mdash;

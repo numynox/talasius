@@ -3,7 +3,8 @@ title: "Programma"
 featureimage: "img/iseo/boats.jpg"
 showTableOfContents: false
 type: "info"
-summary: "Orario e informazioni principali per la giornata del matrimonio, inclusi orari e dettagli pratici."
+summary: "Orario per la giornata del matrimonio, inclusi dettagli pratici."
+weight: 20
 ---
 
 Non vediamo l'ora di festeggiare con voi in

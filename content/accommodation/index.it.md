@@ -3,6 +3,7 @@ title: "Alloggio"
 featureimage: "img/brescia/castle-tower.jpg"
 summary: "Trovate un alloggio sul Lago d'Iseo o a Brescia con qualche suggerimento sulla posizione."
 type: "info"
+weight: 40
 ---
 
 C'è un'ampia scelta di hotel disponibili sul Lago d'Iseo e a Brescia, o altrove, a seconda delle vostre preferenze. Ecco i nostri consigli.

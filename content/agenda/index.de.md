@@ -2,8 +2,9 @@
 title: "Ablauf"
 featureimage: "img/iseo/boats.jpg"
 showTableOfContents: false
-summary: "Ablauf und die wichtigsten Zeiten an unserem Hochzeitstag, sowie praktische Details."
+summary: "Ablauf an unserem Hochzeitstag, sowie praktische Details."
 type: "info"
+weight: 20
 ---
 
 

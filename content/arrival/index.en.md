@@ -3,6 +3,7 @@ title: "Arrival"
 featureimage: "img/brescia/panorama.jpg"
 summary: "Information on getting there by train, plane, or car, as well as carpooling options."
 type: "info"
+weight: 30
 ---
 
 We are aware that the celebration in Italy causes CO₂ emissions. To help reduce our footprint, we want to assist you in finding the most efficient travel options and connecting you with other guests to travel together.

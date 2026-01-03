@@ -1,8 +1,9 @@
 ---
 title: "Unterkunft"
 featureimage: "img/brescia/castle-tower.jpg"
-summary: "Findet die perfekte Unterkunft am Iseosee oder in Brescia mit unseren Empfehlungen und Tipps zur Lage."
+summary: "Findet eine Unterkunft am Iseosee oder in Brescia mit unseren Empfehlungen und Tipps zur Lage."
 type: "info"
+weight: 40
 ---
 
 Es gibt eine große Auswahl an Hoteloptionen am Iseosee und in Brescia, je nach euren Vorlieben. Hier sind unsere Empfehlungen.

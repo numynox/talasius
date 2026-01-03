@@ -1,10 +1,12 @@
 {{ $recentArticles := 5 }}
 {{ $recentArticles = .Site.Params.homepage.showRecentItems }}
 
-
 <section class="space-y-10 w-full">
   {{ $pages := union .Site.RegularPages .Site.Sections }}
-  {{ range first $recentArticles (.Paginate (where $pages "Type" "in" .Site.Params.mainSections)).Pages }}
+  {{ $pages = where $pages "Type" "in" .Site.Params.mainSections }}
+  {{ $pages = sort $pages "Params.weight" "desc" }}
+  {{ range first $recentArticles (.Paginate $pages).Pages
+  }}
     {{ partial "article-link/simple.html" . }}
   {{ end }}
 </section>

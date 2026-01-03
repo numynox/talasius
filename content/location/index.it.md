@@ -2,7 +2,8 @@
 title: "Luogo dell'evento"
 featureimage: "img/iseo/evening.jpg"
 type: "info"
-summary: "Informazioni sulla location 'El dos del Bec', come arrivare e punti di interesse locali attorno al Lago d'Iseo."
+summary: "Informazioni sulla location 'El dos del Bec' e come arrivare."
+weight: 10
 ---
 
 ## Sulle vette del Lago d'Iseo
