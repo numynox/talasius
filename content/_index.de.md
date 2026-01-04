@@ -1,8 +1,8 @@
 ---
-title: "Unsere Hochzeit"
+title: "Giulia & Jannis"
 date: 2023-10-26T19:55:29+02:00
 draft: false
-summary: "Begrüßungsseite mit wichtigen Informationen zur Hochzeit, Ablauf, Location und RSVP-Anleitung."
+summary: "Alle wichtigen Informationen zu unserer Hochzeitsfeier."
 ---
 
 {{< lead >}}

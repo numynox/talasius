@@ -1,8 +1,8 @@
 ---
-title: "Il nostro matrimonio"
+title: "Giulia & Jannis"
 date: 2023-10-26T19:55:29+02:00
 draft: false
-summary: "Pagina di benvenuto con informazioni essenziali sul matrimonio, programma, location e istruzioni per RSVP."
+summary: "Tutte le informazioni sul nostro matrimonio."
 ---
 
 {{< lead >}}
