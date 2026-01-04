@@ -46,12 +46,19 @@ Una fantastica escursione in cresta. La **Punta Almana** offre viste spettacolar
 
 {{< wikiloc id="244035642" >}}
 
+### Monte Rodondone
+
+{{< hike-badges start="Santa Maria del Giogo" distance="40min" duration="3.5h" ascent="500m" gpx="monte-rodondone.gpx" >}}
+
+L'alternativa più breve e leggermente meno faticosa alla Punta Almana è quella di percorrere la cresta a sud di essa, passando per il **Monte Rodondone**. In auto si percorre una stradina stretta fino al Santuario Santa Maria del Giogo, dove inizia l'escursione. Rispetto a Punta Almana, qui troverete molti più roccoli (vedi foto su Wikiloc). Chi ha ancora energie può comunque salire a Punta Almana dalla Croce di Pezzolo.
+
+{{< wikiloc id="245870316">}}
+
 ### Monte Isola
 
 {{< hike-badges start="Peschiera Maraglio" distance="30min" duration="3-4h" ascent="450m" gpx="monte-isola.gpx" >}}
 
-
-Un'escursione semplice, in parte ripida ma gratificante sulla cima di Monte Isola nel mezzo del Lago d'Iseo. Lì si trova una piccola chiesa, da cui potete ammirare le cime che circondano il lago.
+Un'escursione semplice, in parte ripida ma gratificante sulla cima di Monte Isola nel mezzo del Lago d'Iseo. Lì si trova una piccola chiesa, da cui potete ammirare le cime che circondano il lago. Potete trovare [maggiori informazioni sul traghetto qui](../iseo/#monte-isola).
 
 {{< wikiloc id="244035654" >}}
 

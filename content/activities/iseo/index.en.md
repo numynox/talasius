@@ -27,10 +27,12 @@ For something truly unique, visit the **Piramidi di Zone**. These are massive ea
 
 ![Piramidi di Zone](img/iseo/zone.jpg "Piramidi di Zone from the lower viewpoint.")
 
+{{< wikiloc id="245867084" >}}
+
 ## Riva
 
-The famous **Riva boats** originated on Lake Iseo. In Sarnico, these elegant wooden boats, considered the epitome of luxury and Italian design, are still manufactured today.
+The famous **Riva boats** originated on Lake Iseo. In Sarnico, these [elegant wooden boats](https://www.ferrettigroup.com/en-us/Corporate/Shipyards/Sarnico), considered the epitome of luxury and Italian design, are still manufactured today.
 
 ## Valcamonica
 
-North of the lake stretches the **Valcamonica**, known for its prehistoric rock engravings. This UNESCO World Heritage site is home to thousands of engravings dating back up to 8000 years, offering a fascinating glimpse into the lives of our ancestors.
+North of the lake stretches the **Valcamonica**, known for its [prehistoric rock engravings](https://museilombardia.cultura.gov.it/en/museums/parco-nazionale-delle-incisioni-rupestri/). This UNESCO World Heritage site is home to thousands of engravings dating back up to 8000 years, offering a fascinating glimpse into the lives of our ancestors.

@@ -41,17 +41,23 @@ Der Riese des Sees. Der **Monte Guglielmo** (oder "Gölem", wie die Einheimische
 
 {{< hike-badges start="Portole" distance="45min" duration="5h" ascent="900m" gpx="punta-almana.gpx" >}}
 
-
 Eine fantastische Gratwanderung. Die **Punta Almana** bietet spektakuläre Ausblicke auf den See und die umliegenden Berge. Besonders schön finden wir den Weg über die Forcella di Sale ausgehend von Portole. Entlang des Grats werdet ihr sogenannte _Roccoli_ sehen, Aufbauten der Einheimischen um Singvögel anzulocken -- und sie nach deren Abschuss bei einem _Spiedo_ zu grillen.
 
 {{< wikiloc id="244035642" >}}
+
+### Monte Rodondone
+
+{{< hike-badges start="Santa Maria del Giogo" distance="40min" duration="3.5h" ascent="500m" gpx="monte-rodondone.gpx" >}}
+
+Die kürzere und etwas weniger anstrengende Alternative zur Punta Almana ist die Begehung des Grats südlich davon vorbei am **Monte Rodondone**. Mit dem Auto fährt man über eine schmale Straße bis zum Santuario Santa Maria del Giogo wo die Wanderung beginnt. Im Vergleich zur Punta Almana findet ihr noch viel mehr Roccoli (siehe Bild auf Wikiloc). Wer doch noch mehr Kraft hat kann ab Croce di Pezzolo trotzdem noch auf die Punta Almana aufsteigen.
+
+{{< wikiloc id="245870316">}}
 
 ### Monte Isola
 
 {{< hike-badges start="Peschiera Maraglio" distance="30min" duration="3-4h" ascent="450m" gpx="monte-isola.gpx" >}}
 
-
-Eine einfache, teils steile aber lohnende Wanderung auf den Gipfel der Monte Isola mitten im Iseosee. Dort befindet sich eine kleine Kirche, von der ihr auf die den See umgebenden Gipfel blicken könnt.
+Eine einfache, teils steile aber lohnende Wanderung auf den Gipfel der Monte Isola mitten im Iseosee. Dort befindet sich eine kleine Kirche, von der ihr auf die den See umgebenden Gipfel blicken könnt. Ihr findet [weitere Informationen zur Fähre hier](../iseo/#monte-isola).
 
 {{< wikiloc id="244035654" >}}
 

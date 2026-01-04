@@ -27,10 +27,12 @@ Per qualcosa di veramente unico, visitate le **Piramidi di Zone**. Si tratta di 
 
 ![Piramidi di Zone](img/iseo/zone.jpg "Piramidi di Zone dal belvedere inferiore")
 
+{{< wikiloc id="245867084" >}}
+
 ## Riva
 
-Le famose **barche Riva** hanno origine sul Lago d'Iseo. A Sarnico vengono ancora oggi prodotte queste eleganti barche in legno, considerate l'epitome del lusso e del design italiano.
+Le famose **barche Riva** hanno origine sul Lago d'Iseo. A Sarnico vengono ancora oggi prodotte queste [eleganti barche in legno](https://www.ferrettigroup.com/it-it/Corporate/Shipyards/Sarnico), considerate l'epitome del lusso e del design italiano.
 
 ## Valcamonica
 
-A nord del lago si estende la **Valcamonica**, nota per le sue incisioni rupestri preistoriche. Questo sito patrimonio dell'UNESCO ospita migliaia di incisioni che risalgono fino a 8000 anni fa e offrono uno sguardo affascinante sulla vita dei nostri antenati.
+A nord del lago si estende la **Valcamonica**, nota per le sue [incisioni rupestri preistoriche](https://museilombardia.cultura.gov.it/musei/parco-nazionale-delle-incisioni-rupestri/). Questo sito patrimonio dell'UNESCO ospita migliaia di incisioni che risalgono fino a 8000 anni fa e offrono uno sguardo affascinante sulla vita dei nostri antenati.

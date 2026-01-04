@@ -46,12 +46,19 @@ A fantastic ridge walk. **Punta Almana** offers spectacular views of the lake an
 
 {{< wikiloc id="244035642" >}}
 
+### Monte Rodondone
+
+{{< hike-badges start="Santa Maria del Giogo" distance="40min" duration="3.5h" ascent="500m" gpx="monte-rodondone.gpx" >}}
+
+A shorter and slightly less strenuous alternative to Punta Almana is to walk along the ridge south of it, past Monte Rodondone. Take a car along a narrow road to the Santuario Santa Maria del Giogo, where the hike begins. Compared to Punta Almana, you will find many more roccoli (see picture on Wikiloc). If you still have energy left, you can still climb Punta Almana from Croce di Pezzolo.
+
+{{< wikiloc id="245870316">}}
+
 ### Monte Isola
 
 {{< hike-badges start="Peschiera Maraglio" distance="30min" duration="3-4h" ascent="450m" gpx="monte-isola.gpx" >}}
 
-
-A simple, partly steep but rewarding hike to the summit of Monte Isola in the middle of Lake Iseo. There is a small church there, from which you can look at the peaks surrounding the lake.
+A simple, partly steep but rewarding hike to the summit of Monte Isola in the middle of Lake Iseo. There is a small church there, from which you can look at the peaks surrounding the lake. You can find [more information on the ferry here](../iseo/#monte-isola).
 
 {{< wikiloc id="244035654" >}}
 

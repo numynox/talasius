@@ -27,10 +27,12 @@ Für etwas wirklich Einzigartiges besucht die **Piramidi di Zone**. Dies sind ma
 
 ![Piramidi di Zone](img/iseo/zone.jpg "Piramidi di Zone vom unteren Aussichtspunkt")
 
+{{< wikiloc id="245867084" >}}
+
 ## Riva
 
-Die berühmten **Riva-Boote** haben ihren Ursprung am Iseosee. In Sarnico werden diese eleganten Holzboote, die als Inbegriff von Luxus und italienischem Design gelten, noch immer hergestellt.
+Die berühmten **Riva-Boote** haben ihren Ursprung am Iseosee. In Sarnico werden diese [eleganten Holzboote](https://www.ferrettigroup.com/de-de/Corporate/Shipyards/Sarnico), die als Inbegriff von Luxus und italienischem Design gelten, noch immer hergestellt.
 
 ## Valcamonica
 
-Nördlich des Sees erstreckt sich das **Valcamonica**, das für seine prähistorischen Felsritzungen bekannt ist. Diese UNESCO-Weltkulturerbestätte beherbergt tausende von Gravuren, die bis zu 8000 Jahre alt sind und einen faszinierenden Einblick in das Leben unserer Vorfahren geben.
+Nördlich des Sees erstreckt sich das **Valcamonica**, das für seine [prähistorischen Felsritzungen](https://museilombardia.cultura.gov.it/en/museums/parco-nazionale-delle-incisioni-rupestri/) bekannt ist. Diese UNESCO-Weltkulturerbestätte beherbergt tausende von Gravuren, die bis zu 8000 Jahre alt sind und einen faszinierenden Einblick in das Leben unserer Vorfahren geben.
