@@ -34,7 +34,7 @@ Verona Airport (VRN) mostly offers regional flights only.
 
 ## Traveling together
 
-Traveling together is not only more environmentally friendly but also more fun! If you are interested in carpooling or traveling in groups, please let us know in your RSVP. We will add you to a WhatsApp group where you can coordinate with other guests.
+Traveling together is not only more environmentally friendly but also more fun! If you are interested in carpooling or traveling in groups, please let us know in your RSVP. We will add you to a chat group where you can coordinate with other guests.
 
 ## Getting to the venue
 

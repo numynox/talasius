@@ -49,7 +49,7 @@ Eine fantastische Gratwanderung. Die **Punta Almana** bietet spektakuläre Ausbl
 
 {{< hike-badges start="Santa Maria del Giogo" distance="40min" duration="3.5h" ascent="500m" gpx="monte-rodondone.gpx" >}}
 
-Die kürzere und etwas weniger anstrengende Alternative zur Punta Almana ist die Begehung des Grats südlich davon vorbei am **Monte Rodondone**. Mit dem Auto fährt man über eine schmale Straße bis zum Santuario Santa Maria del Giogo wo die Wanderung beginnt. Im Vergleich zur Punta Almana findet ihr noch viel mehr Roccoli (siehe Bild auf Wikiloc). Wer doch noch mehr Kraft hat kann ab Croce di Pezzolo trotzdem noch auf die Punta Almana aufsteigen.
+Die kürzere und etwas weniger anstrengende Alternative zur Punta Almana ist die Begehung des Grats südlich davon vorbei am **Monte Rodondone**. Mit dem Auto fährt man über eine schmale Straße bis zum Santuario Santa Maria del Giogo wo die Wanderung beginnt. Im Vergleich zur Punta Almana findet ihr noch viel mehr Roccoli (siehe Bild auf Wikiloc). Wer doch noch mehr Kraft hat kann ab Croce di Pezzolo trotzdem noch auf die Punta Almana aufsteigen (2h länger).
 
 {{< wikiloc id="245870316">}}
 

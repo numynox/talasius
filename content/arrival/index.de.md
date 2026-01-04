@@ -34,7 +34,7 @@ Der Flughafen Verona (VRN) bietet meistens nur regionale Flüge an.
 
 ## Gemeinsam reisen
 
-Gemeinsam zu reisen ist nicht nur umweltfreundlicher, sondern macht auch mehr Spaß! Wenn ihr an Fahrgemeinschaften oder Gruppenreisen interessiert seid, teilt uns dies bitte in eurer Zu- oder Absage mit. Wir werden euch zu einer WhatsApp-Gruppe hinzufügen, in der ihr euch mit anderen Gästen abstimmen könnt.
+Gemeinsam zu reisen ist nicht nur umweltfreundlicher, sondern macht auch mehr Spaß! Wenn ihr an Fahrgemeinschaften oder Gruppenreisen interessiert seid, teilt uns dies bitte in eurer Zu- oder Absage mit. Wir werden euch zu einer Chat-Gruppe hinzufügen, in der ihr euch mit anderen Gästen abstimmen könnt.
 
 ## Anreise zur Location
 

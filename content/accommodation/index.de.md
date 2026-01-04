@@ -18,7 +18,7 @@ Wenn ihr in der Nähe des Veranstaltungsortes bleiben und die Seeatmosphäre gen
 
 Wenn ihr länger bleiben und eine zentrale Basis haben möchtet, um verschiedene Orte zwischen dem Iseosee und dem Gardasee zu erkunden, empfehlen wir einen Aufenthalt in **Brescia**.
 
-*   **Lage:** Jedes Hotel im Stadtzentrum zwischen *Via Pusterla* und *Via Vittorio Emanuele II* oder entlang der *Via Crocifissa di Rosa* ist eine gute Wahl. Bei 4-Sterne-Hotels habt ihr die Wahl zwischen den Hotels _Ambasciatori_, _Master_ und _Vittoria_.
+*   **Lage:** Jedes Hotel im Stadtzentrum zwischen *Via Pusterla* und *Via Vittorio Emanuele II* oder entlang der *Via Crocifissa di Rosa* ist eine gute Wahl. Bei 4- oder 5-Sterne-Hotels habt ihr die Wahl zwischen den Hotels _Ambasciatori_, _Master_ und _Vittoria_.
 *   **Verbindungen:** Brescia ist mit dem Zug gut an Mailand, den südlichen Teil des Gardasees, Verona, Venedig und Turin angebunden.
 *   **Anreise mit dem Auto:** Das [Stadtzentrum von Brescia](https://www.bresciamobilita.it/map#/mode=busRoutes/poitypes=ztlentrance,ztlarea/date=07-12-2025/direction=0/) ist nicht mit dem Auto erreichbar, es sei denn, eure Unterkunft bietet Parkplätze an und registriert euer Kennzeichen für die Zufahrt zum Stadtzentrum. Der beschränkte Bereich heißt **ZTL** (Zona a Traffico Limitato) und "ZTL attiva / ZTL closed" bedeutet, dass ihr ohne Registrierung nicht einfahren dürft.
 

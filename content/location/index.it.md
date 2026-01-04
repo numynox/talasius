@@ -18,14 +18,13 @@ Come location abbiamo scelto l'agriturismo ["El Dos del Bec"](https://www.eldosd
 
 ![El Dos del Bec](https://www.eldosdelbec.com/wp-content/uploads/2024/03/PANORAMA-DOS-DEL-BEC-.jpg "Vista del lago e dell'agriturismo. © El Dos del Bec")
 
-Il nome si traduce con "Il dosso del becco", dove il becco è il maschio della capra nel dialetto locale, che richiama la tradizione contadina dei dintorni del lago e dell'intera Val Camonica. L'azienda agricola associata all'agriturismo ad oggi alleva diversi animali, tra cui ovini, bovini, e alpaca, quest'ultimi scelti per la loro sostenibilità. In aggiunta, la coltivazione di ulivi, castagni, alberi da frutto, e molte altre varietá, permette all'agriturismo di comporre piatti di elevata qualità a kilometro zero e menu che rispettano la stagionalità dei prodotti.
-El Dos del Bec vi sorprenderà con buonissimi piatti tipici del lago e dei suoi monti!
+Il nome si traduce con "Il dosso del becco", dove il becco è il maschio della capra nel dialetto locale, che richiama la tradizione contadina dei dintorni del lago e dell'intera Val Camonica. L'azienda agricola associata all'agriturismo ad oggi alleva diversi animali, tra cui ovini, bovini, e alpaca, quest'ultimi scelti per la loro sostenibilità. In aggiunta, la coltivazione di ulivi, castagni, alberi da frutto, e molte altre varietá, permette all'agriturismo di comporre piatti di elevata qualità a chilometro zero e menu che rispettano la stagionalità dei prodotti. El Dos del Bec vi sorprenderà con buonissimi piatti tipici del lago e dei suoi monti!
 
 ![El Dos del Bec](img/dosdelbec/exterior.jpg "El Dos del Bec in inverno con la Corna Trentapassi sullo sfondo.")
 
 ## Come arrivare
 
-L'Agriturismo è raggiungibile comodamente da Brescia in auto in circa 40 minuti (60 minuti dall'aeroporto di Bergamo). Ci sono sufficienti parcheggi direttamente in loco. Si prega di notare che gli ultimi metri verso la location portano su una strada ripida e relativamente stretta. Chi preferisce lasciare l'auto giù nel paese di Toline può utilizzare un servizio navetta per l'ultimo tratto (per questo vi contatteremo più in là).
+L'agriturismo è raggiungibile comodamente da Brescia in auto in circa 40 minuti (60 minuti dall'aeroporto di Bergamo). Ci sono sufficienti parcheggi direttamente in loco. Si prega di notare che gli ultimi metri verso la location portano su una strada ripida e relativamente stretta. Chi preferisce lasciare l'auto giù nel paese di Toline può utilizzare un servizio navetta per l'ultimo tratto (per questo vi contatteremo più in là).
 
 Se non volete guidare, fatecelo sapere nella conferma (RSVP). Possiamo mettervi in contatto con ospiti che hanno posti liberi nella loro auto. Allo stesso modo, se avete un'auto e potete offrire un passaggio, fatecelo sapere.
 

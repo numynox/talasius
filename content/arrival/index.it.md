@@ -34,7 +34,7 @@ L'Aeroporto di Verona (VRN) offre principalmente solo voli regionali.
 
 ## Viaggiare insieme
 
-Viaggiare insieme non è solo più ecologico ma anche più divertente! Se siete interessati al carpooling o a viaggiare in gruppo, fatecelo sapere nella vostra conferma (RSVP). Vi aggiungeremo a un gruppo WhatsApp dove potrete coordinarvi con gli altri ospiti.
+Viaggiare insieme non è solo più ecologico ma anche più divertente! Se siete interessati al carpooling o a viaggiare in gruppo, fatecelo sapere nella vostra conferma (RSVP). Vi aggiungeremo a una chat dove potrete coordinarvi con gli altri ospiti.
 
 ## Come arrivare alla location
 

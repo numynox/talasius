@@ -50,7 +50,7 @@ Una fantastica escursione in cresta. La **Punta Almana** offre viste spettacolar
 
 {{< hike-badges start="Santa Maria del Giogo" distance="40min" duration="3.5h" ascent="500m" gpx="monte-rodondone.gpx" >}}
 
-L'alternativa più breve e leggermente meno faticosa alla Punta Almana è quella di percorrere la cresta a sud di essa, passando per il **Monte Rodondone**. In auto si percorre una stradina stretta fino al Santuario Santa Maria del Giogo, dove inizia l'escursione. Rispetto a Punta Almana, qui troverete molti più roccoli (vedi foto su Wikiloc). Chi ha ancora energie può comunque salire a Punta Almana dalla Croce di Pezzolo.
+L'alternativa più breve e leggermente meno faticosa a Punta Almana è quella di percorrere la cresta più a sud, passando per il **Monte Rodondone**. In auto si guida lungo una stradina stretta fino al Santuario di Santa Maria del Giogo, dove inizia l'escursione. Rispetto a Punta Almana, qui troverete molti più roccoli (vedi foto su Wikiloc). Chi ha ancora energie può comunque salire a Punta Almana dalla Croce di Pezzolo (2h in più).
 
 {{< wikiloc id="245870316">}}
 

@@ -17,13 +17,13 @@ As a venue we chose the agriturismo ["El Dos del Bec"](https://www.eldosdelbec.c
 
 ![El Dos del Bec](https://www.eldosdelbec.com/wp-content/uploads/2024/03/PANORAMA-DOS-DEL-BEC-.jpg "View of the lake and the agriturismo. © El Dos del Bec")
 
-The name translates to "the bump of the buck", where 'buck' is the male goat, recalling the farming tradition around the lake and throughout Val Camonica. The farm associated with the agriturismo currently raises various animals, including sheep, cattle, and alpacas, the latter chosen for their sustainability. In addition, the cultivation of olive trees, chestnuts, fruit trees, and many other varieties allows the agriturismo to create high-quality locally sourced dishes (_"a kilometro zero"_) and menus that respect the seasonality of the products. El Dos del Bec will surprise you with delicious dishes typical for the lake and its mountains!
+The name translates to "the bump of the buck", where 'buck' is the male goat, recalling the farming tradition around the lake and throughout Val Camonica. The farm associated with the agriturismo currently raises various animals, including sheep, cattle, and alpacas, the latter chosen for their sustainability. In addition, the cultivation of olive trees, chestnuts, fruit trees, and many other varieties allows the agriturismo to create high-quality locally sourced dishes _("a chilometro zero")_ and menus that respect the seasonality of the products. El Dos del Bec will surprise you with delicious dishes typical for the lake and its mountains!
 
 ![El Dos del Bec](img/dosdelbec/exterior.jpg "El Dos del Bec in winter with the Corna Trentapassi in the background.")
 
 ## Getting to the venue
 
-The Agriturismo can be reached comfortably from Brescia by car in about 40 minutes (60 minutes from Bergamo Airport). Sufficient parking spaces are available directly on site. Please note that the last meters to the location lead over a steep and relatively narrow road. Those who prefer to park their car down in the village of Toline can use a shuttle service for the last part (we will contact you for this at a later point).
+The agriturismo can be reached comfortably from Brescia by car in about 40 minutes (60 minutes from Bergamo Airport). Sufficient parking spaces are available directly on site. Please note that the last meters to the location lead over a steep and relatively narrow road. Those who prefer to park their car down in the village of Toline can use a shuttle service for the last part (we will contact you for this at a later point).
 
 If you prefer not to drive, please let us know in the RSVP. We can put you in touch with guests who have free seats in their car. Likewise, if you have a car and can offer a ride, please let us know.
 

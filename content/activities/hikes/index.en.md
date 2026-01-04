@@ -50,7 +50,7 @@ A fantastic ridge walk. **Punta Almana** offers spectacular views of the lake an
 
 {{< hike-badges start="Santa Maria del Giogo" distance="40min" duration="3.5h" ascent="500m" gpx="monte-rodondone.gpx" >}}
 
-A shorter and slightly less strenuous alternative to Punta Almana is to walk along the ridge south of it, past Monte Rodondone. Take a car along a narrow road to the Santuario Santa Maria del Giogo, where the hike begins. Compared to Punta Almana, you will find many more roccoli (see picture on Wikiloc). If you still have energy left, you can still climb Punta Almana from Croce di Pezzolo.
+A shorter and slightly less strenuous alternative to Punta Almana is to walk along the ridge south of it, past Monte Rodondone. Take a car along a narrow road to the Santuario Santa Maria del Giogo, where the hike begins. Compared to Punta Almana, you will find many more roccoli (see picture on Wikiloc). If you still have energy left, you can additionally climb Punta Almana from Croce di Pezzolo (2h longer).
 
 {{< wikiloc id="245870316">}}
 

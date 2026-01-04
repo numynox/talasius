@@ -43,7 +43,7 @@ weight = 20
 [[main]]
 name = "Lake Iseo"
 parent = "Travel Guide"
-pageRef = "in/activities/iseo/index.en.md"
+pageRef = "activities/iseo/index.en.md"
 weight = 30
 
 [[main]]
