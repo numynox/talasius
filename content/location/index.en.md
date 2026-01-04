@@ -23,7 +23,9 @@ The name translates to "the bump of the buck", where 'buck' is the male goat, re
 
 ## Getting to the venue
 
-The agriturismo can be reached comfortably from Brescia by car in about 40 minutes (60 minutes from Bergamo Airport). Sufficient parking spaces are available directly on site. Please note that the last meters to the location lead over a steep and relatively narrow road. Those who prefer to park their car down in the village of Toline can use a shuttle service for the last part (we will contact you for this at a later point).
+The agriturismo can be reached comfortably from Brescia by car in about 40 minutes (60 minutes from Bergamo Airport). Sufficient parking spaces are available directly on site. Please note that the last meters to the location lead over a steep and relatively narrow road.
+
+Those who prefer to park their car down in the village of Toline can use a shuttle service for the last part (we will contact you for this at a later point). At the entrance to the village, near the soccer field, there is a [parking lot with several spaces](https://maps.app.goo.gl/tubdDC8BPpfMjufP7). Alternatively, there are other spaces on [via Bonetti](https://maps.app.goo.gl/CRgGxV4AzRgdqU3P8) or along [via Giovine](https://maps.app.goo.gl/WgkbBPk3veWxQ4Gs9).
 
 If you prefer not to drive, please let us know in the RSVP. We can put you in touch with guests who have free seats in their car. Likewise, if you have a car and can offer a ride, please let us know.
 

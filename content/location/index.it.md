@@ -24,7 +24,9 @@ Il nome si traduce con "Il dosso del becco", dove il becco è il maschio della c
 
 ## Come arrivare
 
-L'agriturismo è raggiungibile comodamente da Brescia in auto in circa 40 minuti (60 minuti dall'aeroporto di Bergamo). Ci sono sufficienti parcheggi direttamente in loco. Si prega di notare che gli ultimi metri verso la location portano su una strada ripida e relativamente stretta. Chi preferisce lasciare l'auto giù nel paese di Toline può utilizzare un servizio navetta per l'ultimo tratto (per questo vi contatteremo più in là).
+L'agriturismo è raggiungibile comodamente da Brescia in auto in circa 40 minuti (60 minuti dall'aeroporto di Bergamo). Ci sono sufficienti parcheggi direttamente in loco. Si prega di notare che gli ultimi metri verso la location portano su una strada ripida e relativamente stretta.
+
+Chi preferisce lasciare l'auto giù nel paese di Toline può utilizzare un servizio navetta per l'ultimo tratto (per questo vi contatteremo più in là). All'ingresso del paese, presso il calcetto, c'è un [parcheggio con diversi posti](https://maps.app.goo.gl/tubdDC8BPpfMjufP7). In alternativa, in [via Bonetti](https://maps.app.goo.gl/CRgGxV4AzRgdqU3P8) o lungo [via Giovine](https://maps.app.goo.gl/WgkbBPk3veWxQ4Gs9) ci sono altri posti.
 
 Se non volete guidare, fatecelo sapere nella conferma (RSVP). Possiamo mettervi in contatto con ospiti che hanno posti liberi nella loro auto. Allo stesso modo, se avete un'auto e potete offrire un passaggio, fatecelo sapere.
 

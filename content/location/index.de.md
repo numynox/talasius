@@ -23,7 +23,9 @@ Der Name lässt sich mit "der Buckel des Bocks" übersetzen, wobei 'Bock' der m�
 
 ## Anfahrt zur Location
 
-Das Agriturismo ist von Brescia aus bequem mit dem Auto in etwa 40 Minuten zu erreichen (60 Minuten vom Flughafen Bergamo). Direkt vor Ort stehen ausreichend Parkplätze zur Verfügung. Bitte beachtet, dass die letzten Meter zur Location über eine steile und relativ schmale Straße führen. Wer sein Auto lieber unten im Ort Toline parken möchte, kann für das letzte Stück einen Shuttleservice nutzen (diesbezüglich werden wir uns noch mal bei euch melden).
+Das Agriturismo ist von Brescia aus bequem mit dem Auto in etwa 40 Minuten zu erreichen (60 Minuten vom Flughafen Bergamo). Direkt vor Ort stehen ausreichend Parkplätze zur Verfügung. Bitte beachtet, dass die letzten Meter zur Location über eine steile und relativ schmale Straße führen.
+
+Wer sein Auto lieber unten im Ort Toline parken möchte, kann für das letzte Stück einen Shuttleservice nutzen (diesbezüglich werden wir uns noch mal bei euch melden). Am Ortseingang beim Fußballplatz, gibt es einen [Parkplatz mit mehreren Stellplätzen](https://maps.app.goo.gl/tubdDC8BPpfMjufP7). Alternativ gibt es in der [via Bonetti](https://maps.app.goo.gl/CRgGxV4AzRgdqU3P8) oder entlang der [via Giovine](https://maps.app.goo.gl/WgkbBPk3veWxQ4Gs9) weitere Parkplätze.
 
 Wenn ihr lieber nicht fahren wollt, teilt uns dies bitte in eurer Zusage mit. Wir können euch mit Gästen in Kontakt bringen, die freie Plätze in ihrem Auto haben. Ebenso, wenn ihr ein Auto habt und eine Mitfahrgelegenheit anbieten könnt, gebt uns bitte Bescheid.
 
