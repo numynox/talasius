@@ -1,31 +1,95 @@
 {{ define "main" }}
-  <article>
+
+  <article id="quiz-article" 
+    data-lat="{{ .Params.latitude }}" 
+    data-lon="{{ .Params.longitude }}" 
+    data-uncertainty="{{ .Params.uncertainty }}">
     <header>
       {{ if .Params.showBreadcrumbs | default (site.Params.article.showBreadcrumbs | default false) }}
-        {{ partial "breadcrumbs.html" . }}
+      {{ partial "breadcrumbs.html" . }}
       {{ end }}
+      <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
     </header>
 
-    {{/* Large feature image */}}
-    {{ with .Params.featureImage }}
-      <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full max-w-3xl mx-auto rounded-lg shadow-lg mb-8">
-    {{ end }}
+    <div class="quiz-two-column">
+      {{/* Left column: Content */}}
+      <div class="quiz-content">
+        {{/* Unsolved state */}}
+        <div id="unsolved-state">
+          <p class="mb-4">{{ i18n "quiz.found_place_prompt" }}</p>
+          
+          <button 
+            onclick="solveQuiz()"
+            class="px-6 py-3 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors mb-4">
+            {{ i18n "quiz.solve_button" }}
+          </button>
 
-    {{/* Question */}}
-    {{ with .Params.question }}
-      <div class="text-center mb-8">
-        <h2 class="text-2xl font-bold text-neutral-900 dark:text-neutral-100 mb-4">{{ . }}</h2>
-        <button 
-          onclick="document.getElementById('answer').classList.toggle('hidden')"
-          class="px-6 py-3 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors">
-          {{ i18n "quiz.reveal_answer" | default "Antwort zeigen" }}
-        </button>
+          {{/* Error message display */}}
+          <div id="quiz-error" 
+            class="hidden px-4 py-3 rounded-lg border-l-4 border-red-500 bg-red-50 dark:bg-red-900/20 text-red-700 dark:text-red-300 mb-4"
+            data-error-no-gps="{{ i18n "quiz.error_no_gps" }}"
+            data-error-denied="{{ i18n "quiz.error_denied" }}"
+            data-error-unavailable="{{ i18n "quiz.error_unavailable" }}"
+            data-error-timeout="{{ i18n "quiz.error_timeout" }}"
+            data-error-generic="{{ i18n "quiz.error_generic" }}"
+            data-error-too-far="{{ i18n "quiz.error_too_far" }}">
+          </div>
+
+          {{/* Collapsible hint admonition */}}
+          {{ with .Params.help }}
+          <details class="admonition relative overflow-hidden rounded-lg border-l-4 my-3 px-4 py-3 shadow-sm group" data-type="tip">
+            <summary class="flex items-center gap-2 font-semibold text-inherit capitalize cursor-pointer">
+              <div class="flex shrink-0 h-5 w-5 items-center justify-center text-lg">
+                {{ partial "icon.html" "lightbulb" }}
+              </div>
+              <div class="grow">
+                {{ i18n "quiz.hint_title" }}
+              </div>
+              <div class="ms-auto flex h-5 w-5 items-center justify-center transition-transform ease-in-out -rotate-90 group-open:rotate-0 print:hidden">
+                {{ partial "icon.html" "chevron-down" }}
+              </div>
+            </summary>
+            <div class="admonition-content mt-3 text-base leading-relaxed text-inherit">
+              {{ . | markdownify }}
+            </div>
+          </details>
+          {{ end }}
+        </div>
+
+        {{/* Solved state */}}
+        <div id="solved-state">
+          <div class="admonition relative overflow-hidden rounded-lg border-l-4 my-3 px-4 py-3 shadow-sm" data-type="success">
+            <div class="flex items-center gap-2 font-semibold text-inherit capitalize">
+              <div class="flex shrink-0 h-5 w-5 items-center justify-center text-lg">
+                {{ partial "icon.html" "check" }}
+              </div>
+              <div class="grow">
+                {{ i18n "quiz.solved_title" }}
+              </div>
+            </div>
+            <div class="admonition-content mt-3 text-base leading-relaxed text-inherit">
+              <p>{{ i18n "quiz.solved_message" }}</p>
+            </div>
+          </div>
+          
+          <div class="prose dark:prose-invert mt-4">
+            {{ .Content }}
+          </div>
+        </div>
       </div>
-    {{ end }}
 
-    {{/* Answer (hidden by default) */}}
-    <div id="answer" class="hidden max-w-prose mx-auto prose dark:prose-invert">
-      {{ .Content }}
+      {{/* Right column: Picture */}}
+      <div class="quiz-image">
+        {{ with .Params.featureImage }}
+          <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full rounded-lg shadow-lg">
+        {{ end }}
+      </div>
     </div>
   </article>
+
+  {{/* Include quiz JavaScript */}}
+  {{ $quiz := resources.Get "js/quiz.js" }}
+  {{ if $quiz }}
+    <script src="{{ $quiz.RelPermalink }}"></script>
+  {{ end }}
 {{ end }}

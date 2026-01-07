@@ -2,7 +2,10 @@
 title: "Porta del Castello"
 type: "quiz"
 featureImage: "img/brescia/castle-gate.jpg"
-question: "Quale castello è conosciuto come 'Il Falcone d'Italia'?"
+help: "Cerca una fortezza su una collina con un famoso soprannome su un uccello rapace."
+latitude: 45.5443
+longitude: 10.2224
+uncertainty: 75
 weight: 2
 draft: false
 ---

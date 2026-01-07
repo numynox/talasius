@@ -2,7 +2,10 @@
 title: "Museum im Kloster"
 type: "quiz"
 featureImage: "img/brescia/santa-giulia.jpg"
-question: "In welchem besonderen Gebäude befindet sich das Santa Giulia Museum?"
+help: "Suche nach einem historischen religiösen Gebäude, das jetzt ein Museum beherbergt."
+latitude: 45.5383
+longitude: 10.2241
+uncertainty: 50
 weight: 5
 draft: false
 ---

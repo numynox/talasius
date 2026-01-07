@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{ partial "hero/background.html" }}
+
   <header>
     {{ if .Params.showBreadcrumbs | default (site.Params.list.showBreadcrumbs | default false) }}
       {{ partial "breadcrumbs.html" . }}

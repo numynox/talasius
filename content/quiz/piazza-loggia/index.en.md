@@ -2,7 +2,10 @@
 title: "Venetian Square"
 type: "quiz"
 featureImage: "img/brescia/piazza-loggia.jpg"
-question: "Which square in Brescia has a distinct Venetian feel with its clock tower?"
+help: "Look for a square with a clock tower that shows Venetian architectural influence."
+latitude: 45.5398
+longitude: 10.2190
+uncertainty: 40
 weight: 3
 draft: false
 ---

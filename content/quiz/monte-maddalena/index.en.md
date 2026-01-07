@@ -2,7 +2,10 @@
 title: "Mountain Summit with View"
 type: "quiz"
 featureImage: "img/brescia/monte-maddalena.jpg"
-question: "Which mountain offers a panoramic view over Brescia and, on clear days, as far as Lake Garda and Monte Rosa?"
+help: "Think of Brescia's local mountain with panoramic views and hairpin bends."
+latitude: 45.5712
+longitude: 10.2394
+uncertainty: 100
 weight: 7
 draft: false
 ---

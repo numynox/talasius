@@ -23,7 +23,17 @@ other = "Höhenmeter"
 other = "GPX"
 
 [quiz]
-reveal_answer = "Antwort zeigen"
+found_place_prompt = "Hast du diesen Ort gefunden? Wenn du denkst, dass du es geschafft hast, klicke auf die Schaltfläche unten und es wird dir zeigen, ob du richtig liegst."
+solve_button = "Lösen"
+hint_title = "Gib mir einen Hinweis"
+solved_title = "Gelöst"
+solved_message = "Du hast den Ort gefunden!"
+error_no_gps = "GPS wird von deinem Browser nicht unterstützt."
+error_denied = "Standortzugriff wurde verweigert. Bitte aktiviere die Standortdienste in deinen Browsereinstellungen."
+error_unavailable = "Standortinformationen sind nicht verfügbar. Bitte versuche es erneut."
+error_timeout = "Standortanfrage hat die Zeit überschritten. Bitte versuche es erneut."
+error_generic = "Dein Standort konnte nicht ermittelt werden. Bitte versuche es erneut."
+error_too_far = "Du bist {distance} Meter vom Standort entfernt."
 
 [shortcode]
 recent_articles = "Nützliche Informationen"

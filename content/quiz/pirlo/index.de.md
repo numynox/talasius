@@ -2,7 +2,10 @@
 title: "Lokales Getränk"
 type: "quiz"
 featureImage: "img/brescia/pirlo.jpg"
-question: "Welches lokale Getränk ist die Brescianer Variante des Spritz?"
+help: "Denk an einen lokalen Aperitif, der einem Spritz ähnelt."
+latitude: 45.5398
+longitude: 10.2190
+uncertainty: 100
 weight: 6
 draft: false
 ---

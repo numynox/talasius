@@ -2,7 +2,10 @@
 title: "Vetta Panoramica"
 type: "quiz"
 featureImage: "img/brescia/monte-maddalena.jpg"
-question: "Quale montagna offre una vista panoramica su Brescia e, con bel tempo, fino al Lago di Garda e al Monte Rosa?"
+help: "Pensa alla montagna di Brescia con vista panoramica e tornanti."
+latitude: 45.5712
+longitude: 10.2394
+uncertainty: 100
 weight: 7
 draft: false
 ---

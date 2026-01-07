@@ -2,7 +2,10 @@
 title: "Bevanda Locale"
 type: "quiz"
 featureImage: "img/brescia/pirlo.jpg"
-question: "Quale bevanda locale è la versione bresciana dello Spritz?"
+help: "Pensa a un aperitivo locale simile a uno Spritz."
+latitude: 45.5398
+longitude: 10.2190
+uncertainty: 100
 weight: 6
 draft: false
 ---

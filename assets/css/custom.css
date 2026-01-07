@@ -113,3 +113,48 @@ html.dark .home-alert-overlay {
     display: inline-block;
     width: 100%;
 }
+
+/* Quiz single page two-column layout */
+.quiz-two-column {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+@media (min-width: 768px) {
+    .quiz-two-column {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.quiz-content {
+    order: 2;
+}
+
+.quiz-image {
+    order: 1;
+}
+
+@media (min-width: 768px) {
+    .quiz-content {
+        order: 1;
+    }
+    
+    .quiz-image {
+        order: 2;
+    }
+}
+
+/* Quiz state display management */
+#solved-state {
+    display: none;
+}
+
+.solved #unsolved-state {
+    display: none;
+}
+
+.solved #solved-state {
+    display: block;
+}

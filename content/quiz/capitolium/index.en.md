@@ -2,7 +2,10 @@
 title: "Roman Temple"
 type: "quiz"
 featureImage: "img/brescia/capitolium.jpg"
-question: "In which city is this Roman Capitolium located?"
+help: "This ancient temple is located in a city in Northern Italy."
+latitude: 45.5394
+longitude: 10.2207
+uncertainty: 50
 weight: 1
 draft: false
 ---

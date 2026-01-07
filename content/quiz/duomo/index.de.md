@@ -2,7 +2,10 @@
 title: "Zwei Kathedralen"
 type: "quiz"
 featureImage: "img/brescia/duomo-vecchio-nuovo.jpg"
-question: "Welche besondere architektonische Eigenschaft hat der alte Dom (Duomo Vecchio) in Brescia?"
+help: "Überlege, was die Form dieser Kathedrale einzigartig macht."
+latitude: 45.5392
+longitude: 10.2175
+uncertainty: 40
 weight: 4
 draft: false
 ---

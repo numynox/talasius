@@ -23,7 +23,17 @@ other = "Ascent"
 other = "GPX"
 
 [quiz]
-reveal_answer = "Reveal Answer"
+found_place_prompt = "Have you found this place? If you think you did, click the button below and it will show you if you are right."
+solve_button = "Solve"
+hint_title = "Give me a hint"
+solved_title = "Solved"
+solved_message = "You have found the place!"
+error_no_gps = "GPS is not supported by your browser."
+error_denied = "Location access was denied. Please enable location services in your browser settings."
+error_unavailable = "Location information is unavailable. Please try again."
+error_timeout = "Location request timed out. Please try again."
+error_generic = "Could not get your location. Please try again."
+error_too_far = "You are {distance} meters away from the location."
 
 [shortcode]
 recent_articles = "Helpful information"

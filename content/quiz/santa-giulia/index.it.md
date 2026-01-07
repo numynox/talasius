@@ -2,7 +2,10 @@
 title: "Museo nel Monastero"
 type: "quiz"
 featureImage: "img/brescia/santa-giulia.jpg"
-question: "In quale edificio speciale si trova il Museo di Santa Giulia?"
+help: "Cerca un edificio religioso storico che ora ospita un museo."
+latitude: 45.5383
+longitude: 10.2241
+uncertainty: 50
 weight: 5
 draft: false
 ---

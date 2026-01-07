@@ -2,7 +2,10 @@
 title: "Berggipfel mit Aussicht"
 type: "quiz"
 featureImage: "img/brescia/monte-maddalena.jpg"
-question: "Welcher Berg bietet einen Panoramablick über Brescia und bei gutem Wetter bis zum Gardasee und Monte Rosa?"
+help: "Denk an Brescias Hausberg mit Panoramablick und Serpentinen."
+latitude: 45.5712
+longitude: 10.2394
+uncertainty: 100
 weight: 7
 draft: false
 ---

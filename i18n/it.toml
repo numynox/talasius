@@ -29,7 +29,17 @@ other = "Dislivello"
 other = "GPX"
 
 [quiz]
-reveal_answer = "Mostra risposta"
+found_place_prompt = "Hai trovato questo posto? Se pensi di averlo fatto, clicca il pulsante qui sotto e ti mostrerà se hai ragione."
+solve_button = "Risolvi"
+hint_title = "Dammi un suggerimento"
+solved_title = "Risolto"
+solved_message = "Hai trovato il posto!"
+error_no_gps = "Il GPS non è supportato dal tuo browser."
+error_denied = "L'accesso alla posizione è stato negato. Abilita i servizi di localizzazione nelle impostazioni del browser."
+error_unavailable = "Le informazioni sulla posizione non sono disponibili. Riprova."
+error_timeout = "La richiesta di posizione è scaduta. Riprova."
+error_generic = "Impossibile ottenere la tua posizione. Riprova."
+error_too_far = "Sei a {distance} metri dalla posizione."
 
 [shortcode]
 recent_articles = "Informazioni utili"

@@ -2,7 +2,10 @@
 title: "Castle Gate"
 type: "quiz"
 featureImage: "img/brescia/castle-gate.jpg"
-question: "Which castle is known as 'The Falcon of Italy'?"
+help: "Look for a fortress on a hill with a famous nickname about a bird of prey."
+latitude: 45.5443
+longitude: 10.2224
+uncertainty: 75
 weight: 2
 draft: false
 ---

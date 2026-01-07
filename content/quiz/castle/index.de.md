@@ -2,7 +2,10 @@
 title: "Burgtor"
 type: "quiz"
 featureImage: "img/brescia/castle-gate.jpg"
-question: "Welche Burg wird als 'Der Falke Italiens' bezeichnet?"
+help: "Suche nach einer Festung auf einem Hügel mit einem berühmten Spitznamen über einen Raubvogel."
+latitude: 45.5443
+longitude: 10.2224
+uncertainty: 75
 weight: 2
 draft: false
 ---

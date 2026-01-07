@@ -2,7 +2,10 @@
 title: "Venezianischer Platz"
 type: "quiz"
 featureImage: "img/brescia/piazza-loggia.jpg"
-question: "Welcher Platz in Brescia hat ein deutlich venezianisches Flair mit seinem Uhrturm?"
+help: "Suche nach einem Platz mit einem Uhrturm, der venezianischen architektonischen Einfluss zeigt."
+latitude: 45.5398
+longitude: 10.2190
+uncertainty: 40
 weight: 3
 draft: false
 ---
