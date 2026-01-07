@@ -1,26 +1,14 @@
-[days]
-other = "days"
+[countdown]
+days = "days"
+hours = "hours"
+minutes = "minutes"
 
-[hours]
-other = "hours"
-
-[minutes]
-other = "minutes"
-
-[hike_start]
-other = "Starting point"
-
-[hike_drive]
-other = "Drive"
-
-[hike_duration]
-other = "Duration"
-
-[hike_ascent]
-other = "Ascent"
-
-[hike_gpx]
-other = "GPX"
+[hike]
+start = "Starting point"
+drive = "Drive"
+duration = "Duration"
+ascent = "Ascent"
+gpx = "GPX"
 
 [quiz]
 found_place_prompt = "Have you found this place? If you think you did, click the button below and it will show you if you are right."

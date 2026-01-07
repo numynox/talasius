@@ -16,24 +16,7 @@
       <div class="quiz-content">
         {{/* Unsolved state */}}
         <div id="unsolved-state">
-          <p class="mb-4">{{ i18n "quiz.found_place_prompt" }}</p>
-          
-          <button 
-            onclick="solveQuiz()"
-            class="px-6 py-3 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors mb-4">
-            {{ i18n "quiz.solve_button" }}
-          </button>
-
-          {{/* Error message display */}}
-          <div id="quiz-error" 
-            class="hidden px-4 py-3 rounded-lg border-l-4 border-red-500 bg-red-50 dark:bg-red-900/20 text-red-700 dark:text-red-300 mb-4"
-            data-error-no-gps="{{ i18n "quiz.error_no_gps" }}"
-            data-error-denied="{{ i18n "quiz.error_denied" }}"
-            data-error-unavailable="{{ i18n "quiz.error_unavailable" }}"
-            data-error-timeout="{{ i18n "quiz.error_timeout" }}"
-            data-error-generic="{{ i18n "quiz.error_generic" }}"
-            data-error-too-far="{{ i18n "quiz.error_too_far" }}">
-          </div>
+          <p class="mb-5">{{ i18n "quiz.found_place_prompt" }}</p>
 
           {{/* Collapsible hint admonition */}}
           {{ with .Params.help }}
@@ -54,6 +37,23 @@
             </div>
           </details>
           {{ end }}
+          
+          <button 
+            onclick="solveQuiz()"
+            class="px-6 py-3 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors mt-5">
+            {{ i18n "quiz.solve_button" }}
+          </button>
+
+          {{/* Error message display */}}
+          <div id="quiz-error" 
+            class="hidden admonition relative overflow-hidden rounded-lg border-l-4 my-3 px-4 py-3 shadow-sm" data-type="warning"
+            data-error-no-gps="{{ i18n "quiz.error_no_gps" }}"
+            data-error-denied="{{ i18n "quiz.error_denied" }}"
+            data-error-unavailable="{{ i18n "quiz.error_unavailable" }}"
+            data-error-timeout="{{ i18n "quiz.error_timeout" }}"
+            data-error-generic="{{ i18n "quiz.error_generic" }}"
+            data-error-too-far="{{ i18n "quiz.error_too_far" }}">
+          </div>
         </div>
 
         {{/* Solved state */}}

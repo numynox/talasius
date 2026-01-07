@@ -1,11 +1,7 @@
-[days]
-other = "giorni"
-
-[hours]
-other = "ore"
-
-[minutes]
-other = "minuti"
+[countdown]
+days = "giorni"
+hours = "ore"
+minutes = "minuti"
 
 [article]
 part_of_series = "Questo articolo fa parte di una serie."
@@ -13,20 +9,12 @@ part = "Parte"
 this_article = "Questo articolo"
 related_articles = "Articoli correlati"
 
-[hike_start]
-other = "Punto di partenza"
-
-[hike_drive]
-other = "Arrivo in"
-
-[hike_duration]
-other = "Durata"
-
-[hike_ascent]
-other = "Dislivello"
-
-[hike_gpx]
-other = "GPX"
+[hike]
+start = "Punto di partenza"
+drive = "Arrivo in"
+duration = "Durata"
+ascent = "Dislivello"
+gpx = "GPX"
 
 [quiz]
 found_place_prompt = "Hai trovato questo posto? Se pensi di averlo fatto, clicca il pulsante qui sotto e ti mostrerà se hai ragione."

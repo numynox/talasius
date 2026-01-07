@@ -1,26 +1,14 @@
-[days]
-other = "Tage"
+[countdown]
+days = "Tage"
+hours = "Stunden"
+minutes = "Minuten"
 
-[hours]
-other = "Stunden"
-
-[minutes]
-other = "Minuten"
-
-[hike_start]
-other = "Startpunkt"
-
-[hike_drive]
-other = "Anfahrt"
-
-[hike_duration]
-other = "Dauer"
-
-[hike_ascent]
-other = "Höhenmeter"
-
-[hike_gpx]
-other = "GPX"
+[hike]
+start = "Startpunkt"
+drive = "Anfahrt"
+duration = "Dauer"
+ascent = "Höhenmeter"
+gpx = "GPX"
 
 [quiz]
 found_place_prompt = "Hast du diesen Ort gefunden? Wenn du denkst, dass du es geschafft hast, klicke auf die Schaltfläche unten und es wird dir zeigen, ob du richtig liegst."

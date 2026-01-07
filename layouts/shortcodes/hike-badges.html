@@ -1,31 +1,31 @@
 <div class="hike-badges">
     {{ with .Get "start" }}
     <div class="hike-badge">
-        <span class="hike-badge-label">{{ i18n "hike_start" }}</span>
+        <span class="hike-badge-label">{{ i18n "hike.start" }}</span>
         <span class="hike-badge-value">{{ . }}</span>
     </div>
     {{ end }}
     {{ with .Get "distance" }}
     <div class="hike-badge">
-        <span class="hike-badge-label">{{ i18n "hike_drive" }}</span>
+        <span class="hike-badge-label">{{ i18n "hike.drive" }}</span>
         <span class="hike-badge-value">{{ . }}</span>
     </div>
     {{ end }}
     {{ with .Get "duration" }}
     <div class="hike-badge">
-        <span class="hike-badge-label">{{ i18n "hike_duration" }}</span>
+        <span class="hike-badge-label">{{ i18n "hike.duration" }}</span>
         <span class="hike-badge-value">{{ . }}</span>
     </div>
     {{ end }}
     {{ with .Get "ascent" }}
     <div class="hike-badge">
-        <span class="hike-badge-label">{{ i18n "hike_ascent" }}</span>
+        <span class="hike-badge-label">{{ i18n "hike.ascent" }}</span>
         <span class="hike-badge-value">{{ . }}</span>
     </div>
     {{ end }}
     {{ with .Get "gpx" }}
     <div class="hike-badge">
-        <span class="hike-badge-label">{{ i18n "hike_gpx" }}</span>
+        <span class="hike-badge-label">{{ i18n "hike.gpx" }}</span>
         <span class="hike-badge-value"><a href="{{ relURL "" }}gpx/{{ . }}" download>Download</a></span>
     </div>
     {{ end }}
