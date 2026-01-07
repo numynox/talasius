@@ -1,0 +1,31 @@
+{{ define "main" }}
+  <article>
+    <header>
+      {{ if .Params.showBreadcrumbs | default (site.Params.article.showBreadcrumbs | default false) }}
+        {{ partial "breadcrumbs.html" . }}
+      {{ end }}
+    </header>
+
+    {{/* Large feature image */}}
+    {{ with .Params.featureImage }}
+      <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full max-w-3xl mx-auto rounded-lg shadow-lg mb-8">
+    {{ end }}
+
+    {{/* Question */}}
+    {{ with .Params.question }}
+      <div class="text-center mb-8">
+        <h2 class="text-2xl font-bold text-neutral-900 dark:text-neutral-100 mb-4">{{ . }}</h2>
+        <button 
+          onclick="document.getElementById('answer').classList.toggle('hidden')"
+          class="px-6 py-3 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors">
+          {{ i18n "quiz.reveal_answer" | default "Antwort zeigen" }}
+        </button>
+      </div>
+    {{ end }}
+
+    {{/* Answer (hidden by default) */}}
+    <div id="answer" class="hidden max-w-prose mx-auto prose dark:prose-invert">
+      {{ .Content }}
+    </div>
+  </article>
+{{ end }}

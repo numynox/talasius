@@ -22,5 +22,8 @@ other = "Ascent"
 [hike_gpx]
 other = "GPX"
 
+[quiz]
+reveal_answer = "Reveal Answer"
+
 [shortcode]
 recent_articles = "Helpful information"

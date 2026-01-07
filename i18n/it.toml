@@ -28,5 +28,8 @@ other = "Dislivello"
 [hike_gpx]
 other = "GPX"
 
+[quiz]
+reveal_answer = "Mostra risposta"
+
 [shortcode]
 recent_articles = "Informazioni utili"

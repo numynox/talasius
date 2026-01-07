@@ -88,3 +88,28 @@ html.dark img.rounded-full {
 html.dark .home-alert-overlay {
     background: rgba(var(--color-neutral-900), 0.5);
 }
+
+/* Quiz masonry layout - column-based for no gaps */
+.quiz-masonry {
+    column-count: 2;
+    column-gap: 1rem;
+}
+
+@media (width >= 853px) {
+    .quiz-masonry {
+        column-count: 3;
+    }
+}
+
+@media (width >= 1024px) {
+    .quiz-masonry {
+        column-count: 4;
+    }
+}
+
+.quiz-image-item {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    display: inline-block;
+    width: 100%;
+}

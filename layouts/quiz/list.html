@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <header>
+    {{ if .Params.showBreadcrumbs | default (site.Params.list.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+  </header>
+
+  {{/* Intro text */}}
+  <section class="mt-8 prose dark:prose-invert max-w-prose">
+    {{ .Content }}
+  </section>
+
+  {{/* Image grid - masonry layout */}}
+  <section class="mt-12 quiz-masonry">
+    {{ range .Pages }}
+      {{ $page := . }}
+      {{ with .Params.featureImage }}
+        <a href="{{ $page.Permalink }}" class="quiz-image-item group block overflow-hidden rounded-lg shadow-md hover:shadow-xl transition-shadow mb-2">
+          <img src="{{ . | relURL }}" alt="{{ $page.Title }}" class="nozoom w-full h-auto group-hover:scale-105 transition-transform duration-300">
+        </a>
+      {{ end }}
+    {{ end }}
+  </section>
+{{ end }}

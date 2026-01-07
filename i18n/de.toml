@@ -22,5 +22,8 @@ other = "Höhenmeter"
 [hike_gpx]
 other = "GPX"
 
+[quiz]
+reveal_answer = "Antwort zeigen"
+
 [shortcode]
 recent_articles = "Nützliche Informationen"
