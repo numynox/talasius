@@ -32,6 +32,7 @@ reset_progress = "Reimposta i progressi del quiz"
 attempt_one = "%d tentativo"
 attempts_many = "%d tentativi"
 reset_confirm = "Sei sicuro di voler eliminare tutti i progressi del quiz? Questa operazione non può essere annullata."
+back_to_list = "Torna alla lista"
 
 [shortcode]
 recent_articles = "Informazioni utili"

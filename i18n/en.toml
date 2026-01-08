@@ -26,6 +26,7 @@ reset_progress = "Reset quiz progress"
 attempt_one = "%d attempt"
 attempts_many = "%d attempts"
 reset_confirm = "Are you sure you want to delete all quiz progress? This cannot be undone."
+back_to_list = "Back to overview"
 
 [shortcode]
 recent_articles = "Helpful information"

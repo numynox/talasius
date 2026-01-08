@@ -4,11 +4,20 @@
     data-lat="{{ .Params.latitude }}" 
     data-lon="{{ .Params.longitude }}" 
     data-uncertainty="{{ .Params.uncertainty }}">
-    <header>
-      {{ if .Params.showBreadcrumbs | default (site.Params.article.showBreadcrumbs | default false) }}
-      {{ partial "breadcrumbs.html" . }}
-      {{ end }}
-      <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+    <header class="flex flex-col sm:flex-row sm:items-center sm:justify-between">
+      <div>
+        {{ if .Params.showBreadcrumbs | default (site.Params.article.showBreadcrumbs | default false) }}
+          {{ partial "breadcrumbs.html" . }}
+        {{ end }}
+        <h1 class="mt-3 sm:mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+      </div>
+
+      <div class="mt-3 sm:mt-0">
+        <a href="{{ "quiz/" | relLangURL }}" class="back-to-list !rounded-md bg-primary-600 my-0 px-3 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
+          {{ partial "icon.html" "list" }}
+          <span class="ms-2">{{ i18n "quiz.back_to_list" }}</span>
+        </a>
+      </div>
     </header>
 
     <div class="quiz-two-column">
