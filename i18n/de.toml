@@ -22,6 +22,7 @@ error_unavailable = "Standortinformationen sind nicht verfügbar. Bitte versuche
 error_timeout = "Standortanfrage hat die Zeit überschritten. Bitte versuche es erneut."
 error_generic = "Dein Standort konnte nicht ermittelt werden. Bitte versuche es erneut."
 error_too_far = "Du bist {distance} Meter vom Standort entfernt."
+reset_progress = "Quiz-Fortschritt zurücksetzen"
 
 [shortcode]
 recent_articles = "Nützliche Informationen"

@@ -22,6 +22,7 @@ error_unavailable = "Location information is unavailable. Please try again."
 error_timeout = "Location request timed out. Please try again."
 error_generic = "Could not get your location. Please try again."
 error_too_far = "You are {distance} meters away from the location."
+reset_progress = "Reset quiz progress"
 
 [shortcode]
 recent_articles = "Helpful information"

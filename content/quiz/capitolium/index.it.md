@@ -3,8 +3,8 @@ title: "Tempio Romano"
 type: "quiz"
 featureImage: "img/brescia/capitolium.jpg"
 help: "Questo antico tempio si trova in una città del Nord Italia."
-latitude: 45.5394
-longitude: 10.2207
+latitude: 45.546496105247485
+longitude: 10.227928615699017
 uncertainty: 50
 weight: 1
 draft: false

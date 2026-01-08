@@ -28,6 +28,7 @@ error_unavailable = "Le informazioni sulla posizione non sono disponibili. Ripro
 error_timeout = "La richiesta di posizione è scaduta. Riprova."
 error_generic = "Impossibile ottenere la tua posizione. Riprova."
 error_too_far = "Sei a {distance} metri dalla posizione."
+reset_progress = "Reimposta i progressi del quiz"
 
 [shortcode]
 recent_articles = "Informazioni utili"

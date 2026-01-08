@@ -3,8 +3,8 @@ title: "Roman Temple"
 type: "quiz"
 featureImage: "img/brescia/capitolium.jpg"
 help: "This ancient temple is located in a city in Northern Italy."
-latitude: 45.5394
-longitude: 10.2207
+latitude: 45.546496105247485
+longitude: 10.227928615699017
 uncertainty: 50
 weight: 1
 draft: false

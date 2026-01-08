@@ -40,7 +40,7 @@
           
           <button 
             onclick="solveQuiz()"
-            class="px-6 py-3 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors mt-5">
+            class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
             {{ i18n "quiz.solve_button" }}
           </button>
 
@@ -56,8 +56,8 @@
           </div>
         </div>
 
-        {{/* Solved state */}}
-        <div id="solved-state">
+        {{/* Solved state (hidden by default; JS will reveal if solved) */}}
+        <div id="solved-state" style="display:none;">
           <div class="admonition relative overflow-hidden rounded-lg border-l-4 my-3 px-4 py-3 shadow-sm" data-type="success">
             <div class="flex items-center gap-2 font-semibold text-inherit capitalize">
               <div class="flex shrink-0 h-5 w-5 items-center justify-center text-lg">
@@ -69,6 +69,7 @@
             </div>
             <div class="admonition-content mt-3 text-base leading-relaxed text-inherit">
               <p>{{ i18n "quiz.solved_message" }}</p>
+              <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300"><span id="quiz-solved-datetime"></span></p>
             </div>
           </div>
           
