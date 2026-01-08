@@ -13,7 +13,7 @@ gpx = "GPX"
 [quiz]
 found_place_prompt = "Hast du diesen Ort gefunden? Wenn du denkst, dass du es geschafft hast, klicke auf die Schaltfläche unten und es wird dir zeigen, ob du richtig liegst."
 solve_button = "Lösen"
-hint_title = "Gib mir einen Hinweis"
+hint_title = "Hinweis"
 solved_title = "Gelöst"
 solved_message = "Du hast den Ort gefunden!"
 error_no_gps = "GPS wird von deinem Browser nicht unterstützt."

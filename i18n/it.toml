@@ -19,7 +19,7 @@ gpx = "GPX"
 [quiz]
 found_place_prompt = "Hai trovato questo posto? Se pensi di averlo fatto, clicca il pulsante qui sotto e ti mostrerà se hai ragione."
 solve_button = "Risolvi"
-hint_title = "Dammi un suggerimento"
+hint_title = "Suggerimento"
 solved_title = "Risolto"
 solved_message = "Hai trovato il posto!"
 error_no_gps = "Il GPS non è supportato dal tuo browser."
