@@ -65,6 +65,12 @@ function solveQuiz() {
                     datetime: new Date().toISOString(),
                     lang: (document.documentElement && document.documentElement.lang) ? document.documentElement.lang : navigator.language || null
                 };
+                // include the canonical solution coordinates in the stored metadata
+                try {
+                    successMeta.solution = { lat: targetLat, lon: targetLon };
+                } catch (e) {
+                    // ignore
+                }
                 markSolvedById(id, successMeta);
                 applySolvedState(article, true);
                 // Populate solved datetime in single view
@@ -77,12 +83,12 @@ function solveQuiz() {
                         dateEl.textContent = successMeta.datetime;
                     }
                 }
-                // Populate attempts in single view: stored attempts + this success
+                // Populate attempts in single view: stored attempts (markSolvedById already increments)
                 const attemptsSpan = document.getElementById('quiz-solved-attempts');
                 if (attemptsSpan) {
                     const prevState = getStateForId(id) || {};
                     const storedAttempts = (prevState && prevState.attempts) ? prevState.attempts : 0;
-                    const attempts = storedAttempts + 1;
+                    const attempts = storedAttempts;
                     const oneFmt = attemptsSpan.dataset.attemptOne || '%d attempt';
                     const manyFmt = attemptsSpan.dataset.attemptsMany || '%d attempts';
                     let text = '';
@@ -192,6 +198,10 @@ function markSolvedById(id, successMeta) {
     if (!id) return;
     const state = loadState();
     const entry = state[id] || { solved: false, attempts: 0, success: null };
+    // If this is the first time marking solved, count it as an attempt
+    if (!entry.solved) {
+        entry.attempts = (entry.attempts || 0) + 1;
+    }
     entry.solved = true;
     if (successMeta) entry.success = successMeta;
     state[id] = entry;
@@ -267,11 +277,11 @@ function initQuizSingle() {
                 }
             }
         }
-        // populate attempts in single view (include successful attempt)
+        // populate attempts in single view
         const attemptsSpan = document.getElementById('quiz-solved-attempts');
         if (attemptsSpan) {
             const storedAttempts = (state && state.attempts) ? state.attempts : 0;
-            const attempts = storedAttempts + ((state && state.solved) ? 1 : 0);
+            const attempts = storedAttempts;
             const oneFmt = attemptsSpan.dataset.attemptOne || '%d attempt';
             const manyFmt = attemptsSpan.dataset.attemptsMany || '%d attempts';
             let text = '';
@@ -303,7 +313,7 @@ function initQuizList() {
             const attemptsEl = el.querySelector('.quiz-overlay-attempts');
             if (attemptsEl) {
                 const storedAttempts = (state && state.attempts) ? state.attempts : 0;
-                const attempts = storedAttempts + ((state && state.solved) ? 1 : 0);
+                const attempts = storedAttempts;
                 const oneFmt = attemptsEl.dataset.attemptOne || '%d attempt';
                 const manyFmt = attemptsEl.dataset.attemptsMany || '%d attempts';
                 let text = '';
@@ -385,6 +395,14 @@ document.addEventListener('DOMContentLoaded', function() {
                     lang: (document.documentElement && document.documentElement.lang) ? document.documentElement.lang : navigator.language || null,
                     debug: true
                 };
+                // include canonical solution coordinates when available
+                try {
+                    const solLat = parseFloat(article.dataset.lat);
+                    const solLon = parseFloat(article.dataset.lon);
+                    if (!isNaN(solLat) && !isNaN(solLon)) successMeta.solution = { lat: solLat, lon: solLon };
+                } catch (e) {
+                    // ignore
+                }
                 markSolvedById(id, successMeta);
                 applySolvedState(article, true);
                 // populate datetime
@@ -402,7 +420,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 if (attemptsSpanDbg) {
                     const prevState = getStateForId(id) || {};
                     const storedAttempts = (prevState && prevState.attempts) ? prevState.attempts : 0;
-                    const attempts = storedAttempts + 1;
+                    const attempts = storedAttempts;
                     const oneFmt = attemptsSpanDbg.dataset.attemptOne || '%d attempt';
                     const manyFmt = attemptsSpanDbg.dataset.attemptsMany || '%d attempts';
                     let text = '';
@@ -416,6 +434,66 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Normal click: run real solve flow which asks for GPS
                 solveQuiz();
             }
+        });
+    }
+});
+
+/* --- Export progress as JSON --- */
+function sanitizeFileName(name) {
+    if (!name) return 'quiz-progress';
+    // remove spaces, slashes, and special characters; keep alphanumerics, dash and underscore
+    return name.replace(/[^a-zA-Z0-9-_]/g, '_').replace(/_+/g, '_');
+}
+
+function buildExportObject(teamName) {
+    const state = loadState();
+    return {
+        exportedAt: new Date().toISOString(),
+        team: teamName || null,
+        version: QUIZ_STORAGE_KEY,
+        state: state
+    };
+}
+
+function triggerDownload(filename, content) {
+    try {
+        const blob = new Blob([content], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    } catch (e) {
+        console.error('Download failed', e);
+    }
+}
+
+function exportQuizProgress() {
+    try {
+        const btn = document.getElementById('quiz-export-button');
+        const promptMsg = (btn && btn.getAttribute('data-prompt')) ? btn.getAttribute('data-prompt') : 'Enter team name';
+        let team = window.prompt(promptMsg, '');
+        if (team === null) return; // user cancelled
+        team = team.trim();
+        const safeName = sanitizeFileName(team || 'team');
+        const exportObj = buildExportObject(team || null);
+        const filename = safeName + '-' + (new Date().toISOString().slice(0,19).replace(/[:T]/g,'-')) + '.json';
+        triggerDownload(filename, JSON.stringify(exportObj, null, 2));
+    } catch (e) {
+        console.error('exportQuizProgress error', e);
+    }
+}
+
+// Wire export button
+document.addEventListener('DOMContentLoaded', function() {
+    const exportBtn = document.getElementById('quiz-export-button');
+    if (exportBtn) {
+        exportBtn.addEventListener('click', function(e) {
+            e.preventDefault();
+            exportQuizProgress();
         });
     }
 });

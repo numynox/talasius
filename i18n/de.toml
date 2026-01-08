@@ -27,6 +27,8 @@ attempt_one = "%d Versuch"
 attempts_many = "%d Versuche"
 reset_confirm = "Möchtest du wirklich den gesamten Quiz-Fortschritt löschen? Dies kann nicht rückgängig gemacht werden."
 back_to_list = "Zur Übersicht"
+export_progress = "Fortschritt herunterladen"
+export_prompt_team = "Bitte gib euren Teamnamen ein, der im Export enthalten sein soll:" 
 
 [shortcode]
 recent_articles = "Nützliche Informationen"

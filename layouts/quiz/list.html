@@ -29,11 +29,14 @@
   </section>
 
   <section class="mt-6 prose max-w-prose">
-    <button id="quiz-reset-button" data-confirm="{{ i18n "quiz.reset_confirm" }}" class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
+    <button id="quiz-export-button" data-prompt="{{ i18n "quiz.export_prompt_team" }}" class="mr-3 !rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
+      {{ i18n "quiz.export_progress" }}
+    </button>
+    <button id="quiz-reset-button" data-confirm="{{ i18n "quiz.reset_confirm" }}" class="!rounded-md bg-neutral-800 px-4 py-2 !text-neutral !no-underline hover:!bg-neutral-700 dark:bg-neutral-600 dark:hover:!bg-neutral-500">
       {{ i18n "quiz.reset_progress" | default "Reset quiz progress" }}
     </button>
   </section>
-  {{/* Include quiz JavaScript so list page can show badges and handle reset */}}
+  
   {{ $quiz := resources.Get "js/quiz.js" }}
   {{ if $quiz }}
     <script src="{{ $quiz.RelPermalink }}"></script>
