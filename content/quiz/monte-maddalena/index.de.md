@@ -2,6 +2,7 @@
 title: "Berggipfel mit Aussicht"
 type: "quiz"
 featureImage: "img/brescia/monte-maddalena.jpg"
+solution: "Monte Maddalena"
 help: "Denk an Brescias Hausberg mit Panoramablick und Serpentinen."
 latitude: 45.5712
 longitude: 10.2394

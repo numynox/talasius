@@ -2,6 +2,7 @@
 title: "Local Drink"
 type: "quiz"
 featureImage: "img/brescia/pirlo.jpg"
+solution: "Pirlo"
 help: "Think about a local aperitif that's similar to a Spritz."
 latitude: 45.5398
 longitude: 10.2190

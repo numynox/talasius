@@ -2,6 +2,7 @@
 title: "Castle Gate"
 type: "quiz"
 featureImage: "img/brescia/castle-gate.jpg"
+solution: "Castello di Brescia"
 help: "Look for a fortress on a hill with a famous nickname about a bird of prey."
 latitude: 45.5443
 longitude: 10.2224

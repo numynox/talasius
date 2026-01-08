@@ -2,6 +2,7 @@
 title: "Museum in a Monastery"
 type: "quiz"
 featureImage: "img/brescia/santa-giulia.jpg"
+solution: "Santa Giulia"
 help: "Look for a historic religious building that now houses a museum."
 latitude: 45.5383
 longitude: 10.2241

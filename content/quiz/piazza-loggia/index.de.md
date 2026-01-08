@@ -2,6 +2,7 @@
 title: "Venezianischer Platz"
 type: "quiz"
 featureImage: "img/brescia/piazza-loggia.jpg"
+solution: "Piazza della Loggia"
 help: "Suche nach einem Platz mit einem Uhrturm, der venezianischen architektonischen Einfluss zeigt."
 latitude: 45.5398
 longitude: 10.2190

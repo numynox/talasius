@@ -2,6 +2,7 @@
 title: "Venetian Square"
 type: "quiz"
 featureImage: "img/brescia/piazza-loggia.jpg"
+solution: "Piazza della Loggia"
 help: "Look for a square with a clock tower that shows Venetian architectural influence."
 latitude: 45.5398
 longitude: 10.2190

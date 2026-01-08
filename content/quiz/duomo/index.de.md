@@ -2,6 +2,7 @@
 title: "Zwei Kathedralen"
 type: "quiz"
 featureImage: "img/brescia/duomo-vecchio-nuovo.jpg"
+solution: "Duomo Vecchio"
 help: "Überlege, was die Form dieser Kathedrale einzigartig macht."
 latitude: 45.5392
 longitude: 10.2175

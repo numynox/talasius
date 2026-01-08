@@ -2,6 +2,7 @@
 title: "Vetta Panoramica"
 type: "quiz"
 featureImage: "img/brescia/monte-maddalena.jpg"
+solution: "Monte Maddalena"
 help: "Pensa alla montagna di Brescia con vista panoramica e tornanti."
 latitude: 45.5712
 longitude: 10.2394

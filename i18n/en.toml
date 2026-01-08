@@ -23,6 +23,9 @@ error_timeout = "Location request timed out. Please try again."
 error_generic = "Could not get your location. Please try again."
 error_too_far = "You are {distance} meters away from the location."
 reset_progress = "Reset quiz progress"
+attempt_one = "%d attempt"
+attempts_many = "%d attempts"
+reset_confirm = "Are you sure you want to delete all quiz progress? This cannot be undone."
 
 [shortcode]
 recent_articles = "Helpful information"

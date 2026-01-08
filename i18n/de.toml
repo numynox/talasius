@@ -23,6 +23,9 @@ error_timeout = "Standortanfrage hat die Zeit überschritten. Bitte versuche es 
 error_generic = "Dein Standort konnte nicht ermittelt werden. Bitte versuche es erneut."
 error_too_far = "Du bist {distance} Meter vom Standort entfernt."
 reset_progress = "Quiz-Fortschritt zurücksetzen"
+attempt_one = "%d Versuch"
+attempts_many = "%d Versuche"
+reset_confirm = "Möchtest du wirklich den gesamten Quiz-Fortschritt löschen? Dies kann nicht rückgängig gemacht werden."
 
 [shortcode]
 recent_articles = "Nützliche Informationen"

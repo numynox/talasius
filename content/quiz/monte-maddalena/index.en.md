@@ -2,6 +2,7 @@
 title: "Mountain Summit with View"
 type: "quiz"
 featureImage: "img/brescia/monte-maddalena.jpg"
+solution: "Monte Maddalena"
 help: "Think of Brescia's local mountain with panoramic views and hairpin bends."
 latitude: 45.5712
 longitude: 10.2394

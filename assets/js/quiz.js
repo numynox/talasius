@@ -31,9 +31,7 @@ function solveQuiz() {
     errorDiv.style.display = 'none';
     
     // Show loading state
-    const originalText = button.textContent;
     button.disabled = true;
-    button.innerHTML = '<svg class="animate-spin inline-block h-5 w-5 mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg>' + originalText;
     
     // Get user's GPS location
     if (!navigator.geolocation) {
@@ -54,7 +52,6 @@ function solveQuiz() {
             
             // Reset button
             button.disabled = false;
-            button.textContent = originalText;
             
             // Check if within uncertainty
             if (distance <= uncertainty) {
@@ -70,6 +67,31 @@ function solveQuiz() {
                 };
                 markSolvedById(id, successMeta);
                 applySolvedState(article, true);
+                // Populate solved datetime in single view
+                const dateEl = document.getElementById('quiz-solved-datetime');
+                if (dateEl && successMeta.datetime) {
+                    try {
+                        const d = new Date(successMeta.datetime);
+                        dateEl.textContent = new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short' }).format(d);
+                    } catch (e) {
+                        dateEl.textContent = successMeta.datetime;
+                    }
+                }
+                // Populate attempts in single view: stored attempts + this success
+                const attemptsSpan = document.getElementById('quiz-solved-attempts');
+                if (attemptsSpan) {
+                    const prevState = getStateForId(id) || {};
+                    const storedAttempts = (prevState && prevState.attempts) ? prevState.attempts : 0;
+                    const attempts = storedAttempts + 1;
+                    const oneFmt = attemptsSpan.dataset.attemptOne || '%d attempt';
+                    const manyFmt = attemptsSpan.dataset.attemptsMany || '%d attempts';
+                    let text = '';
+                    if (attempts === 1) text = oneFmt.replace('%d', attempts);
+                    else if (attempts > 1) text = manyFmt.replace('%d', attempts);
+                    attemptsSpan.textContent = text;
+                    const sep = document.getElementById('quiz-solved-sep');
+                    if (sep) sep.style.display = text ? '' : 'none';
+                }
             } else {
                 // Too far away
                 // Increment attempts count for this article
@@ -84,7 +106,6 @@ function solveQuiz() {
         (error) => {
             // Reset button
             button.disabled = false;
-            button.textContent = originalText;
             
             // Handle different error types
             let errorMessage = errorDiv.dataset.errorGeneric || 'Could not get your location';
@@ -188,10 +209,24 @@ function incrementAttemptOnTooFar(id) {
 
 function resetAllSolved() {
     try { localStorage.removeItem(QUIZ_STORAGE_KEY); } catch (e) {}
-    // Update UI immediately where possible
-    const article = document.getElementById('quiz-article');
-    if (article) applySolvedState(article, false);
-    document.querySelectorAll('.quiz-image-item.solved').forEach(el => el.classList.remove('solved'));
+    try {
+        // Update UI immediately where possible
+        const article = document.getElementById('quiz-article');
+        if (article) applySolvedState(article, false);
+        // Remove solved classes and clear overlays
+        document.querySelectorAll('.quiz-image-item').forEach(el => {
+            el.classList.remove('solved');
+            const overlay = el.querySelector('.quiz-overlay');
+            if (overlay) overlay.style.opacity = '';
+            const attemptsEl = el.querySelector('.quiz-overlay-attempts');
+            if (attemptsEl) attemptsEl.textContent = '';
+        });
+        // Re-initialize list to ensure consistent state
+        initQuizList();
+    } catch (domErr) {
+        // Log to console but don't throw
+        console.error('resetAllSolved error:', domErr);
+    }
 }
 
 // Expose reset function to global scope for button onclicks
@@ -215,10 +250,12 @@ function initQuizSingle() {
     const article = document.getElementById('quiz-article');
     if (!article) return;
     const id = normalizePath(window.location.pathname);
+    console.debug('initQuizSingle id=', id);
     if (isSolvedId(id)) {
         applySolvedState(article, true);
         // populate solved datetime if available
         const state = getStateForId(id);
+        console.debug('initQuizSingle state=', state);
         if (state && state.success && state.success.datetime) {
             const el = document.getElementById('quiz-solved-datetime');
             if (el) {
@@ -230,6 +267,20 @@ function initQuizSingle() {
                 }
             }
         }
+        // populate attempts in single view (include successful attempt)
+        const attemptsSpan = document.getElementById('quiz-solved-attempts');
+        if (attemptsSpan) {
+            const storedAttempts = (state && state.attempts) ? state.attempts : 0;
+            const attempts = storedAttempts + ((state && state.solved) ? 1 : 0);
+            const oneFmt = attemptsSpan.dataset.attemptOne || '%d attempt';
+            const manyFmt = attemptsSpan.dataset.attemptsMany || '%d attempts';
+            let text = '';
+            if (attempts === 1) text = oneFmt.replace('%d', attempts);
+            else if (attempts > 1) text = manyFmt.replace('%d', attempts);
+            attemptsSpan.textContent = text;
+            const sep = document.getElementById('quiz-solved-sep');
+            if (sep) sep.style.display = text ? '' : 'none';
+        }
     } else {
         applySolvedState(article, false);
     }
@@ -237,8 +288,7 @@ function initQuizSingle() {
 
 function initQuizList() {
     // Mark solved items in the list (if any)
-    const solvedArr = loadSolvedArray();
-    if (!solvedArr.length) return;
+    const stateObj = loadState();
     document.querySelectorAll('.quiz-image-item').forEach(el => {
         try {
             const href = el.getAttribute('href') || '';
@@ -248,13 +298,24 @@ function initQuizList() {
             if (state && state.solved) {
                 el.classList.add('solved');
             }
-            // populate attempts badge
-            const badge = el.querySelector('.quiz-badge-count');
-            if (badge) {
-                const attempts = (state && state.attempts) ? state.attempts : 0;
-                badge.textContent = attempts;
-                // hide zero counts
-                if (attempts > 0) badge.parentElement.style.display = 'flex'; else badge.parentElement.style.display = 'none';
+            // populate overlay attempts text
+            const overlay = el.querySelector('.quiz-overlay');
+            const attemptsEl = el.querySelector('.quiz-overlay-attempts');
+            if (attemptsEl) {
+                const storedAttempts = (state && state.attempts) ? state.attempts : 0;
+                const attempts = storedAttempts + ((state && state.solved) ? 1 : 0);
+                const oneFmt = attemptsEl.dataset.attemptOne || '%d attempt';
+                const manyFmt = attemptsEl.dataset.attemptsMany || '%d attempts';
+                let text = '';
+                if (attempts === 1) text = oneFmt.replace('%d', attempts);
+                else if (attempts > 1) text = manyFmt.replace('%d', attempts);
+                attemptsEl.textContent = text;
+                // ensure overlay is visible when solved
+                if (state && state.solved) {
+                    if (overlay) overlay.style.opacity = '1';
+                } else {
+                    if (overlay) overlay.style.opacity = '';
+                }
             }
         } catch (e) {
             // ignore
@@ -265,7 +326,19 @@ function initQuizList() {
 function getStateForId(id) {
     if (!id) return null;
     const state = loadState();
-    return state[id] || null;
+    if (state[id]) return state[id];
+    // Try fuzzy match: keys that end with the id (e.g. missing language prefix) or vice versa
+    const keys = Object.keys(state);
+    for (let k of keys) {
+        try {
+            if (k === id) return state[k];
+            if (k.endsWith(id)) return state[k];
+            if (id.endsWith(k)) return state[k];
+        } catch (e) {
+            // ignore
+        }
+    }
+    return null;
 }
 
 window.getQuizState = getStateForId;
@@ -277,9 +350,72 @@ document.addEventListener('DOMContentLoaded', function() {
     // Attach reset button if present
     const resetBtn = document.getElementById('quiz-reset-button');
     if (resetBtn) {
-        resetBtn.addEventListener('click', function() {
-            // Clear stored progress and update UI
-            resetAllSolved();
+        resetBtn.addEventListener('click', function(e) {
+            try {
+                e.preventDefault();
+                // Ask for confirmation using localized message (data-confirm)
+                const confirmMsg = resetBtn.getAttribute('data-confirm') || 'Are you sure?';
+                if (!window.confirm(confirmMsg)) return; // abort if cancelled
+                // Clear stored progress and update UI
+                resetAllSolved();
+                // Refresh list UI
+                initQuizList();
+            } catch (err) {
+                console.error('Reset button handler error:', err);
+            }
+        });
+    }
+
+    // Attach solve button handler to support debug (Ctrl/Cmd-click) on devices without GPS
+    const solveBtn = document.getElementById('quiz-solve-button');
+    if (solveBtn) {
+        solveBtn.addEventListener('click', function(event) {
+            // If Ctrl (Windows/Linux) or Meta (Mac) is held, treat as debug-solve
+            if (event.ctrlKey || event.metaKey) {
+                // Prevent normal behavior and show solved state with invalid coords
+                event.preventDefault();
+                const article = document.getElementById('quiz-article');
+                if (!article) return;
+                const id = normalizePath(window.location.pathname);
+                const successMeta = {
+                    lat: null,
+                    lon: null,
+                    distance: -1,
+                    datetime: new Date().toISOString(),
+                    lang: (document.documentElement && document.documentElement.lang) ? document.documentElement.lang : navigator.language || null,
+                    debug: true
+                };
+                markSolvedById(id, successMeta);
+                applySolvedState(article, true);
+                // populate datetime
+                const el = document.getElementById('quiz-solved-datetime');
+                if (el) {
+                    try {
+                        const d = new Date(successMeta.datetime);
+                        el.textContent = new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short' }).format(d);
+                    } catch (e) {
+                        el.textContent = successMeta.datetime;
+                    }
+                }
+                // populate attempts in single view for debug-solve
+                const attemptsSpanDbg = document.getElementById('quiz-solved-attempts');
+                if (attemptsSpanDbg) {
+                    const prevState = getStateForId(id) || {};
+                    const storedAttempts = (prevState && prevState.attempts) ? prevState.attempts : 0;
+                    const attempts = storedAttempts + 1;
+                    const oneFmt = attemptsSpanDbg.dataset.attemptOne || '%d attempt';
+                    const manyFmt = attemptsSpanDbg.dataset.attemptsMany || '%d attempts';
+                    let text = '';
+                    if (attempts === 1) text = oneFmt.replace('%d', attempts);
+                    else if (attempts > 1) text = manyFmt.replace('%d', attempts);
+                    attemptsSpanDbg.textContent = text;
+                    const sepDbg = document.getElementById('quiz-solved-sep');
+                    if (sepDbg) sepDbg.style.display = text ? '' : 'none';
+                }
+            } else {
+                // Normal click: run real solve flow which asks for GPS
+                solveQuiz();
+            }
         });
     }
 });

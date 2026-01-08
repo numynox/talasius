@@ -2,6 +2,7 @@
 title: "Römischer Tempel"
 type: "quiz"
 featureImage: "img/brescia/capitolium.jpg"
+solution: "Capitolium"
 help: "Dieser antike Tempel befindet sich in einer Stadt in Norditalien."
 latitude: 45.546496105247485
 longitude: 10.227928615699017

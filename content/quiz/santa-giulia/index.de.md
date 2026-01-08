@@ -2,6 +2,7 @@
 title: "Museum im Kloster"
 type: "quiz"
 featureImage: "img/brescia/santa-giulia.jpg"
+solution: "Santa Giulia"
 help: "Suche nach einem historischen religiösen Gebäude, das jetzt ein Museum beherbergt."
 latitude: 45.5383
 longitude: 10.2241

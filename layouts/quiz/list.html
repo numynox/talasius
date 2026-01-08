@@ -1,5 +1,4 @@
 {{ define "main" }}
-{{ partial "hero/background.html" }}
 
   <header>
     {{ if .Params.showBreadcrumbs | default (site.Params.list.showBreadcrumbs | default false) }}
@@ -20,15 +19,23 @@
       {{ with .Params.featureImage }}
         <a href="{{ $page.Permalink }}" class="quiz-image-item group block overflow-hidden rounded-lg shadow-md hover:shadow-xl transition-shadow mb-2">
           <img src="{{ . | relURL }}" alt="{{ $page.Title }}" class="nozoom w-full h-auto group-hover:scale-105 transition-transform duration-300">
-          <span class="quiz-badge" aria-hidden="true"><span class="quiz-badge-count">0</span></span>
+          <div class="quiz-overlay" aria-hidden="true">
+            <div class="quiz-overlay-solution">{{ $page.Params.solution | default $page.Title }}</div>
+            <div class="quiz-overlay-attempts" data-attempt-one="{{ i18n "quiz.attempt_one" }}" data-attempts-many="{{ i18n "quiz.attempts_many" }}"></div>
+          </div>
         </a>
       {{ end }}
     {{ end }}
   </section>
 
   <section class="mt-6 prose max-w-prose">
-    <button id="quiz-reset-button" class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
+    <button id="quiz-reset-button" data-confirm="{{ i18n "quiz.reset_confirm" }}" class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
       {{ i18n "quiz.reset_progress" | default "Reset quiz progress" }}
     </button>
   </section>
+  {{/* Include quiz JavaScript so list page can show badges and handle reset */}}
+  {{ $quiz := resources.Get "js/quiz.js" }}
+  {{ if $quiz }}
+    <script src="{{ $quiz.RelPermalink }}"></script>
+  {{ end }}
 {{ end }}

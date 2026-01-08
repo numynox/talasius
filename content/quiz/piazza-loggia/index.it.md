@@ -2,6 +2,7 @@
 title: "Piazza Veneziana"
 type: "quiz"
 featureImage: "img/brescia/piazza-loggia.jpg"
+solution: "Piazza della Loggia"
 help: "Cerca una piazza con una torre dell'orologio che mostra l'influenza architettonica veneziana."
 latitude: 45.5398
 longitude: 10.2190

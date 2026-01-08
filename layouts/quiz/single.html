@@ -39,8 +39,8 @@
           {{ end }}
           
           <button 
-            onclick="solveQuiz()"
-            class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
+            id="quiz-solve-button"
+            class="!rounded-md bg-primary-600 my-3 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
             {{ i18n "quiz.solve_button" }}
           </button>
 
@@ -58,7 +58,7 @@
 
         {{/* Solved state (hidden by default; JS will reveal if solved) */}}
         <div id="solved-state" style="display:none;">
-          <div class="admonition relative overflow-hidden rounded-lg border-l-4 my-3 px-4 py-3 shadow-sm" data-type="success">
+          <div class="admonition relative overflow-hidden rounded-lg border-l-4 mb-3 px-4 py-3 shadow-sm" data-type="success">
             <div class="flex items-center gap-2 font-semibold text-inherit capitalize">
               <div class="flex shrink-0 h-5 w-5 items-center justify-center text-lg">
                 {{ partial "icon.html" "check" }}
@@ -69,7 +69,11 @@
             </div>
             <div class="admonition-content mt-3 text-base leading-relaxed text-inherit">
               <p>{{ i18n "quiz.solved_message" }}</p>
-              <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300"><span id="quiz-solved-datetime"></span></p>
+              <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-300">
+                <span id="quiz-solved-datetime"></span>
+                <span id="quiz-solved-sep" class="mx-2" style="display:none">•</span>
+                <span id="quiz-solved-attempts" class="ms-3" data-attempt-one="{{ i18n "quiz.attempt_one" }}" data-attempts-many="{{ i18n "quiz.attempts_many" }}"></span>
+              </p>
             </div>
           </div>
           
