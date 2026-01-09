@@ -1,0 +1,29 @@
+{{- /*
+  Partial: quiz-image.html
+  Usage: partial "quiz-image.html" (dict "page" $page "class" "..." "alt" "...")
+  Emits an <img> tag for the page's feature image if a non-remote image resource exists.
+  Resizes the image (unless SVG) to ensure the resource is generated before inclusion.
+*/ -}}
+{{- $data := . -}}
+{{- $page := $data.page -}}
+{{- if not $page }}{{ return }}{{ end -}}
+{{- $class := cond (isset $data "class") $data.class "w-full h-auto" -}}
+{{- $alt := cond (isset $data "alt") $data.alt $page.Title -}}
+{{- $size := cond (isset $data "size") $data.size "600" -}}
+{{- $param := or $page.Params.featureimage $page.Params.featureImage -}}
+{{- if not $param }}{{ return }}{{ end -}}
+{{- if or (strings.HasPrefix $param "http:") (strings.HasPrefix $param "https:") }}{{ return }}{{ end -}}
+
+{{- $res := $page.Resources.GetMatch $param -}}
+{{- if not $res -}}
+  {{- $res = resources.Get $param -}}
+{{- end -}}
+
+{{- if not $res }}{{ return }}{{ end -}}
+
+{{- $out := $res -}}
+{{- if not (eq $res.MediaType.SubType "svg") -}}
+  {{- $out = $res.Resize (printf "%sx" $size) -}}
+{{- end -}}
+
+<img src="{{ $out.RelPermalink }}" alt="{{ $alt }}" class="{{ $class }}" loading="lazy" decoding="async">

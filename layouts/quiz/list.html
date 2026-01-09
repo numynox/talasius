@@ -16,15 +16,13 @@
   <section class="mt-12 quiz-masonry">
     {{ range .Pages }}
       {{ $page := . }}
-      {{ with .Params.featureImage }}
-        <a href="{{ $page.Permalink }}" class="quiz-image-item group block overflow-hidden rounded-lg shadow-md hover:shadow-xl transition-shadow mb-2">
-          <img src="{{ . | relURL }}" alt="{{ $page.Title }}" class="nozoom w-full h-auto group-hover:scale-105 transition-transform duration-300">
-          <div class="quiz-overlay" aria-hidden="true">
-            <div class="quiz-overlay-solution">{{ $page.Params.solution | default $page.Title }}</div>
-            <div class="quiz-overlay-attempts" data-attempt-one="{{ i18n "quiz.attempt_one" }}" data-attempts-many="{{ i18n "quiz.attempts_many" }}"></div>
-          </div>
-        </a>
-      {{ end }}
+      <a href="{{ $page.Permalink }}" class="quiz-image-item group block overflow-hidden rounded-lg shadow-md hover:shadow-xl transition-shadow mb-2">
+        {{ partial "quiz-image.html" (dict "page" $page "class" "nozoom w-full h-auto group-hover:scale-105 transition-transform duration-300" "alt" $page.Title "size" "300") }}
+        <div class="quiz-overlay" aria-hidden="true">
+          <div class="quiz-overlay-solution">{{ $page.Params.solution | default $page.Title }}</div>
+          <div class="quiz-overlay-attempts" data-attempt-one="{{ i18n "quiz.attempt_one" }}" data-attempts-many="{{ i18n "quiz.attempts_many" }}"></div>
+        </div>
+      </a>
     {{ end }}
   </section>
 
@@ -41,4 +39,5 @@
   {{ if $quiz }}
     <script src="{{ $quiz.RelPermalink }}"></script>
   {{ end }}
+  
 {{ end }}

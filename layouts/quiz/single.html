@@ -94,9 +94,7 @@
 
       {{/* Right column: Picture */}}
       <div class="quiz-image">
-        {{ with .Params.featureImage }}
-          <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full rounded-lg shadow-lg">
-        {{ end }}
+        {{ partial "quiz-image.html" (dict "page" . "class" "w-full rounded-lg shadow-lg" "alt" $.Title "size" "1000") }}
       </div>
     </div>
   </article>
