@@ -11,4 +11,4 @@ weight: 1
 draft: false
 ---
 
-Immer um 12 Uhr mittag könnt ihr die zwei Figuren beim Schlagen der Glocke aus dem 16. Jahrhundert des _Torre dell'Orologio_ beobachten. Die zwei Männchen heißen im Dialekt _Tone_ (Antonio) und _Battesta_ (Battista) - sie werden auch _die Verrückten der Stunden_ genannt.
+Das _Capitolium_, geweiht der kapitolinischen Trias aus Jupiter, Juno und Minerva, wurde 73 n. Chr. unter Kaiser Vespasian errichtet und ist Teil des UNESCO-Weltkulturerbes _Brixia_. Der Tempel besitzt drei Cellas und beeindruckt bis heute durch erhaltene Bodenmosaike und Freskenreste. Gemeinsam mit dem benachbarten Theater und der berühmten _Vittoria Alata_ zählt er zu den bedeutendsten römischen Überresten Italiens.

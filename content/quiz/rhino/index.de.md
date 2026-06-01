@@ -11,4 +11,4 @@ weight: 1
 draft: false
 ---
 
-Immer um 12 Uhr mittag könnt ihr die zwei Figuren beim Schlagen der Glocke aus dem 16. Jahrhundert des _Torre dell'Orologio_ beobachten. Die zwei Männchen heißen im Dialekt _Tone_ (Antonio) und _Battesta_ (Battista) - sie werden auch _die Verrückten der Stunden_ genannt.
+Das bronzene Nashorn auf der Piazza Vittoria ist eine Skulptur des belgischen Künstlers Jan Fabre. Fabre hat ähnliche Werke in mehreren italienischen Städten platziert, um Stärke und Beständigkeit zu symbolisieren.

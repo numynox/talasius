@@ -3,7 +3,7 @@ title: "Romantisch"
 type: "quiz"
 featureImage: "img/quiz/romantic.jpg"
 solution: "Aufstieg zur Burg"
-help: "Es geht hoch hinaus."
+help: "Westaufstieg zur Burg."
 latitude: 45.54195183751146
 longitude: 10.222839098534786
 uncertainty: 50
@@ -11,4 +11,4 @@ weight: 1
 draft: false
 ---
 
-Immer um 12 Uhr mittag könnt ihr die zwei Figuren beim Schlagen der Glocke aus dem 16. Jahrhundert des _Torre dell'Orologio_ beobachten. Die zwei Männchen heißen im Dialekt _Tone_ (Antonio) und _Battesta_ (Battista) - sie werden auch _die Verrückten der Stunden_ genannt.
+Der Aufstieg zur Burg bietet immer wieder traumhafte Ausblicke über die Dächer Brescias. An klaren Tagen reicht der Blick bis zu den Alpengipfeln im Norden – ein perfekter Ort, um durchzuatmen.

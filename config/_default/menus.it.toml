@@ -29,6 +29,12 @@ pageRef = "activities/index.it.md"
 weight = 50
 
 [[main]]
+name = "Quiz sulla città"
+parent = "Guida turistica"
+pageRef = "quiz/_index.it.md"
+weight = 5
+
+[[main]]
 name = "Brescia"
 parent = "Guida turistica"
 pageRef = "activities/brescia/index.it.md"

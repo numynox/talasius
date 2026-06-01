@@ -11,4 +11,4 @@ weight: 1
 draft: false
 ---
 
-Immer um 12 Uhr mittag könnt ihr die zwei Figuren beim Schlagen der Glocke aus dem 16. Jahrhundert des _Torre dell'Orologio_ beobachten. Die zwei Männchen heißen im Dialekt _Tone_ (Antonio) und _Battesta_ (Battista) - sie werden auch _die Verrückten der Stunden_ genannt.
+Diese Dampflokomotive aus dem späten 19. Jahrhundert war einst auf den Flachlandstrecken der Lombardei im Einsatz – auf den steilen Cidneo-Hügel gelangte sie natürlich nicht aus eigener Kraft. Als Freilichtexponat erinnert sie an das Industriezeitalter, das die Region nachhaltig geprägt hat.

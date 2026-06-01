@@ -11,4 +11,4 @@ weight: 1
 draft: false
 ---
 
-Immer um 12 Uhr mittag könnt ihr die zwei Figuren beim Schlagen der Glocke aus dem 16. Jahrhundert des _Torre dell'Orologio_ beobachten. Die zwei Männchen heißen im Dialekt _Tone_ (Antonio) und _Battesta_ (Battista) - sie werden auch _die Verrückten der Stunden_ genannt.
+Die engen, verwinkelten Gässchen der Altstadt von Brescia sind ein echter Geheimtipp. Auf dem Weg hinauf zur Burg schlängeln sich die Vicoli durch alte Stadtmauern und verleihen der Stadt ihren ganz besonderen Charme.

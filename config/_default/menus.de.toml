@@ -29,6 +29,12 @@ pageRef = "activities/index.de.md"
 weight = 50
 
 [[main]]
+name = "Stadtquiz"
+parent = "Reiseführer"
+pageRef = "quiz/_index.de.md"
+weight = 5
+
+[[main]]
 name = "Brescia"
 parent = "Reiseführer"
 pageRef = "activities/brescia/index.de.md"

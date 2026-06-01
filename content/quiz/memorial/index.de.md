@@ -2,7 +2,7 @@
 title: "Mahnmal"
 type: "quiz"
 featureImage: "img/quiz/memorial.jpg"
-solution: "Monumento ai Martiri di Piazza Loggia"
+solution: "Monumento della Strage di Piazza Loggia"
 help: "Der Ort befindet sich direkt an einem großen Platz."
 latitude: 45.53970531675795
 longitude: 10.220645111672685
@@ -11,4 +11,4 @@ weight: 1
 draft: false
 ---
 
-Immer um 12 Uhr mittag könnt ihr die zwei Figuren beim Schlagen der Glocke aus dem 16. Jahrhundert des _Torre dell'Orologio_ beobachten. Die zwei Männchen heißen im Dialekt _Tone_ (Antonio) und _Battesta_ (Battista) - sie werden auch _die Verrückten der Stunden_ genannt.
+Am 28. Mai 1974 zündeten Mitglieder der neofaschistischen Gruppe _Ordine Nuovo_ während einer Gewerkschaftskundgebung eine Bombe auf der Piazza della Loggia – acht Menschen kamen ums Leben, über hundert wurden verletzt. Das Attentat war Teil der sogenannten _Strategia della tensione_, bei der rechtsextreme Gruppen durch gezielten Terror politische Instabilität erzeugen wollten. Die Prozesse zur Verurteilung der Täter sind noch immer nicht abgeschlossen.
