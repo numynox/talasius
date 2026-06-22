@@ -12,11 +12,11 @@ defaultContentLanguageInSubdir = true
 # The real values will be injected by GitHub Actions, keeping them out of your source code.
 # You can override these locally or in CI using environment variables:
 # HUGO_PARAMS_DROPBOXLINK overrides params.dropboxLink
-# HUGO_PARAMS_AIRTABLERSVPLINK overrides params.airtableRsvpLink
+# HUGO_PARAMS_CALLTOACTIONLINK overrides params.callToActionLink
 [params]
-  airtableRsvpLinkEN = "/rsvp-link-will-be-injected#EN"
-  airtableRsvpLinkDE = "/rsvp-link-will-be-injected#DE"
-  airtableRsvpLinkIT = "/rsvp-link-will-be-injected#IT"
+  callToActionLinkEN = "/rsvp-link-will-be-injected#EN"
+  callToActionLinkDE = "/rsvp-link-will-be-injected#DE"
+  callToActionLinkIT = "/rsvp-link-will-be-injected#IT"
 
 pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 

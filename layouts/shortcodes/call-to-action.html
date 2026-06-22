@@ -1,9 +1,9 @@
 {{ $lang := upper .Site.Language.Lang }}
-{{ $linkKey := printf "airtableRsvpLink%s" $lang }}
+{{ $linkKey := printf "callToActionLink%s" $lang }}
 {{ $link := index .Site.Params $linkKey }}
-{{ $href := $link | default .Site.Params.airtableRsvpLinkEN }}
+{{ $href := $link | default .Site.Params.callToActionLinkEN }}
 {{ $inner := .Inner | default "RSVP" }}
-{{ $call := default "RSVP2" (.Get "call") }}
+{{ $call := default "RSVP" (.Get "call") }}
 
 {{ $sc := printf "{{< button href=\"%s\" target=\"_blank\" >}}%s{{< /button >}}" $href $inner }}
 {{ .Page.RenderString $sc | safeHTML }}

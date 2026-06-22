@@ -9,4 +9,4 @@ summary: "Alle wichtigen Informationen zu unserer Hochzeitsfeier."
 Wir freuen uns, gemeinsam mit euch unsere Hochzeit zu feiern. Hier findet ihr alle wichtigen Informationen. Die Feier findet statt [am 11. Juli 2026 ab 12 Uhr](agenda/) im Agriturismo [El Dos del Bec](location/) an der östlichen Seite des Lago d'Iseo.
 {{< /lead >}}
 
-{{< rsvp-button call="Bitte teilt uns so bald wie möglich mit, ob ihr kommen könnt. Klickt dazu auf das blaue Feld oben." >}}Lasst uns wissen, ob ihr kommt!{{< /rsvp-button >}}
+{{< call-to-action call="Bitte ladet alle Fotos hoch, die ihr während unserer Hochzeit gemacht habt und die ihr gerne mit uns teilen möchtet!" >}}Fotos hochladen{{< /call-to-action >}}

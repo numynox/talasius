@@ -36,9 +36,9 @@ jobs:
         # HUGO_PARAMS_... environment variables override [params] in hugo.toml
         run: hugo --minify
         env:
-          HUGO_PARAMS_AIRTABLERSVPLINKEN: ${{ secrets.AIRTABLE_RSVP_LINK_EN }}
-          HUGO_PARAMS_AIRTABLERSVPLINKDE: ${{ secrets.AIRTABLE_RSVP_LINK_DE }}
-          HUGO_PARAMS_AIRTABLERSVPLINKIT: ${{ secrets.AIRTABLE_RSVP_LINK_IT }}
+          HUGO_PARAMS_CALLTOACTIONLINKEN: ${{ secrets.CALL_TO_ACTION_LINK_EN }}
+          HUGO_PARAMS_CALLTOACTIONLINKDE: ${{ secrets.CALL_TO_ACTION_LINK_DE }}
+          HUGO_PARAMS_CALLTOACTIONLINKIT: ${{ secrets.CALL_TO_ACTION_LINK_IT }}
 
 
 
