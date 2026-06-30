@@ -14,6 +14,11 @@ pageRef = "agenda/index.de.md"
 weight = 20
 
 [[main]]
+name = "Fotos"
+pageRef = "photos/index.de.md"
+weight = 25
+
+[[main]]
 name = "Anreise"
 pageRef = "arrival/index.de.md"
 weight = 30
